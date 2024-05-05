@@ -1,0 +1,597 @@
+Flight_ID,Destination_Type,Origin_Type,Capacity,Passengers,Bookings,Route_ID,Duration,Passengers_Prediction
+00199571615b929d52444afd0f08b1ff,MX Amigos y Familia,Ciudad Principal,186,186.0,113.0,102,90.0,172.2353
+00459aa077eb1c1daefd7c455141e289,Ciudad Principal,Ciudad Principal,180,162.0,132.0,273,90.0,175.64703
+0266d98068a0a3fc330c55cf5b646f10,Ciudad Principal,Ciudad Fronteriza,186,114.0,67.0,1520,230.0,116.171906
+0283eb5b5c00b236e5686daab974d496,Playa,Ciudad Fronteriza,240,162.0,95.0,842,220.0,171.25961
+02d70b706760e0c9e5e7da2b93177351,Ciudad Fronteriza,Ciudad Principal,240,237.0,142.0,1508,170.0,226.48265
+0345f1207e81c91216e0da36b47159fd,Ciudad Principal,Ciudad Principal,186,172.0,141.0,273,90.0,183.8852
+037eca8c1d7076c45cf3c4d93621f11c,Ciudad Principal,Ecoturismo,240,220.0,155.0,1472,125.0,227.11273
+0445d61b1a9b8e2fbdc529ed2cc68063,Ciudad Principal,Ciudad Principal,180,180.0,157.0,256,105.0,185.44064
+045f090ecd46e651f998987fea4df3cd,Ciudad Principal,Ciudad Principal,186,169.0,143.0,273,90.0,183.40343
+049610c5e705d993a2565f08b21c54f2,Ciudad Principal,Ciudad Principal,186,173.0,114.0,273,90.0,166.65121
+04a63bd56b3e1e747652f6fd915ae654,Playa,Ciudad Fronteriza,180,98.0,58.0,842,220.0,103.38798
+05202e2ec9e3b327d70f54b0905fba9d,Ciudad Principal,Ciudad Principal,186,176.0,125.0,256,105.0,181.04483
+062bda237c3db133c57dd0304096c626,Ciudad Principal,MX Amigos y Familia,186,110.0,70.0,14,80.0,102.62002
+072a55bb94818f7e97a92faabde6bf90,Playa,Ciudad Fronteriza,186,183.0,111.0,842,220.0,181.31718
+07599494a483a5f48ca7d4b076be8e00,Ciudad Principal,Ciudad Fronteriza,186,171.0,115.0,1520,230.0,174.64821
+07ca162768878ec5c9ba87ed185f5694,MX Amigos y Familia,Ciudad Principal,186,186.0,124.0,102,90.0,179.37358
+086d13846d3563e90ecd86de9a9ea4ae,Playa,Ciudad Principal,240,240.0,132.0,266,200.0,239.55753
+09721ddd33f86edea198cb3a81f4c5c1,Ciudad Principal,Ciudad Principal,240,197.0,158.0,2773,90.0,216.8585
+0a620094f95c1e806d0d750054106132,Ciudad Principal,Playa,186,186.0,97.0,3765,105.0,180.01306
+0a7a3c81b6053f580f3312fff86661df,Playa,Ciudad Fronteriza,240,149.0,83.0,842,220.0,153.67503
+0a81eaacb8b60bc00b4f46dcd9525bee,Ciudad Fronteriza,MX Amigos y Familia,186,173.0,120.0,1388,135.0,179.6993
+0b8bc6f6d5b3d76327a5aba432255670,Ciudad Principal,Ciudad Principal,180,180.0,130.0,315,80.0,178.3799
+0b901585f6871d660c40313ee5e59356,Ciudad Principal,Ciudad Principal,240,240.0,154.0,783,90.0,216.13097
+0c549f2e8b1578cb70a5ff93af9d4323,Ciudad Principal,Ciudad Principal,180,180.0,128.0,256,105.0,177.91225
+0c7d619f4b778b9269055ef5ca5fa864,Ciudad Fronteriza,MX Amigos y Familia,186,186.0,117.0,1388,135.0,179.90631
+0e05a7cca9f2157eb3aaba7bf1cae508,Ciudad Principal,Ciudad Fronteriza,186,149.0,100.0,1897,230.0,160.24702
+0e64b79d914826d3ae554eff6c980eb5,Ciudad Principal,Playa,180,160.0,87.0,4390,105.0,164.59373
+0eaac16b46b5e3a3f450491701f933c3,Ciudad Principal,Ciudad Principal,180,180.0,120.0,315,80.0,171.65678
+0f39a837498c8fcee091111c237b0289,Ciudad Principal,Ecoturismo,240,220.0,163.0,1472,125.0,228.91728
+101acf1678f3508b9915eaca8067a2cb,Ciudad Principal,Ciudad Fronteriza,180,180.0,123.0,1520,230.0,174.99739
+110b42e52c0113748b2cbf248c28df74,Ciudad Principal,Ciudad Principal,240,239.0,197.0,256,105.0,241.09445
+112379a68c83ada5945f77d2222e89dc,Ciudad Fronteriza,MX Amigos y Familia,186,171.0,116.0,1388,135.0,177.42087
+12e8ccee5de727a9bbdf163121c89440,MX Amigos y Familia,Ciudad Fronteriza,186,116.0,70.0,222,230.0,119.43111
+13756495235d82fa20b0921c3df96623,Playa,Ciudad Principal,180,180.0,108.0,234,100.0,180.54019
+1388202894891e3f4aaaf82bc6122dd5,Ciudad Principal,MX Amigos y Familia,180,180.0,80.0,14,80.0,123.53161
+13895e6372501362008e060241b51a86,Ciudad Principal,Ciudad Principal,240,166.0,107.0,783,90.0,147.56715
+13af8db81f04ce07879e54072fbb9b5e,Playa,Ciudad Principal,240,239.0,107.0,266,200.0,221.13152
+13c121eb908359ee93a5d8cdba4b6cad,Ciudad Principal,Ciudad Principal,220,64.0,42.0,783,90.0,65.90042
+13c51d7276b8357266e6b7c440511cdf,Ciudad Principal,Ciudad Fronteriza,186,149.0,82.0,3862,230.0,132.40448
+13c681c48a5094fa843f8ed3888d6e7c,Ciudad Principal,Ciudad Fronteriza,186,131.0,85.0,3862,230.0,137.55777
+13cb143aaf5cf49edc54b63729154af9,MX Amigos y Familia,Ciudad Fronteriza,186,137.0,90.0,222,230.0,148.56592
+14a5f02f0d443e516bb70a8b5dc4409e,Ciudad Principal,Ecoturismo,220,218.0,148.0,1472,125.0,218.48393
+14a86b547de6a79be27893d78bd40892,Ciudad Principal,Ciudad Principal,186,185.0,152.0,784,105.0,188.799
+14dbc55bd7ded476bd465f513b4d2a4f,MX Amigos y Familia,Ciudad Principal,180,170.0,116.0,102,90.0,168.94524
+1683272ec46701213bb83d6322c26651,Playa,Ciudad Principal,240,240.0,116.0,266,200.0,232.2882
+16e31c861d07a55f0b94ef9eabfbf84a,Ciudad Principal,Ciudad Principal,186,186.0,126.0,783,90.0,185.5028
+17565a0ee805a7f3edad448cd14de02b,Ciudad Principal,Ciudad Principal,186,182.0,126.0,315,80.0,180.95894
+177e7be2432af66e2c8559d8fd882da8,Ciudad Principal,Playa,186,186.0,95.0,3765,105.0,178.31706
+17fd4deb60749c5472f2abf6fd6ec5d4,Ciudad Principal,Ciudad Principal,240,240.0,182.0,783,90.0,232.00534
+1847df91964dfb9200d939abb2b27103,Ciudad Principal,Ciudad Principal,240,178.0,115.0,2773,90.0,164.12779
+19c5993cbd63afc9272f5bfe2e0a40a5,Ciudad Principal,Ciudad Principal,240,226.0,164.0,256,105.0,231.85356
+19e49946faf271e2fcc0e327cef1103e,Ciudad Principal,Ciudad Principal,180,180.0,149.0,256,105.0,183.11296
+1a086ac23eaf204f1b31421a3812a311,Ciudad Principal,Ecoturismo,240,240.0,148.0,1472,125.0,228.15553
+1a17a3da0c39feb9268ed3b8fdc3e278,Playa,Ciudad Principal,186,155.0,79.0,234,100.0,167.06369
+1aa0a9f8f743fc13b16845956dd747a6,MX Amigos y Familia,Ciudad Principal,186,159.0,125.0,102,90.0,177.21085
+1b1044366599587522893bd1557c130a,Ciudad Principal,MX Amigos y Familia,186,186.0,138.0,14,80.0,179.89183
+1b34fee56ec6025fce9fc653e4a1a618,Playa,Ciudad Principal,186,185.0,83.0,234,100.0,174.16191
+1b6496f71b0d9df33a901b7c0f9c711c,Ciudad Principal,Ciudad Principal,186,184.0,147.0,640,90.0,187.46944
+1bbad6a6a96961c2235f2b0d369e8e87,Ciudad Principal,Ecoturismo,240,240.0,180.0,1472,125.0,238.64485
+1d044cb1534d6d748b350ca06107e1bd,Ciudad Principal,Ciudad Principal,186,186.0,128.0,2773,90.0,178.16861
+1e3aef81cf1ee716e55dec3255272a63,Ciudad Fronteriza,Ciudad Principal,220,220.0,132.0,1508,170.0,207.55838
+1ea7b71ad22db30e02d344a73ba3a14f,Ciudad Principal,Ciudad Principal,220,114.0,89.0,783,90.0,111.870895
+1f6c80eda42ae44f0576f9a9b3a13c1a,MX Amigos y Familia,Ciudad Fronteriza,180,168.0,96.0,222,230.0,153.57129
+21e13b812db16b518d6c11047d9f403a,Ciudad Principal,Ciudad Principal,186,154.0,94.0,640,90.0,147.01698
+22af7e363bf513421c8d9b1a0c3b9a4b,Ciudad Principal,Ciudad Principal,186,186.0,134.0,315,80.0,183.31468
+22f557d0e89fbaed9e8472f9666e4522,MX Amigos y Familia,Ciudad Principal,186,178.0,135.0,102,90.0,182.99297
+23499c4899c3fbdc311a2612052da6ce,Ciudad Principal,MX Amigos y Familia,186,117.0,84.0,14,80.0,119.76992
+23c8b0adddae89a9d10bba9f66e05e97,Playa,Ciudad Principal,186,186.0,139.0,673,195.0,188.41602
+23e3a9ebbafc1c012531e43beb141c07,Playa,Ciudad Principal,220,192.0,88.0,266,200.0,200.3303
+240257c69867ffcdd872931495747107,Ciudad Principal,Playa,186,164.0,103.0,3765,105.0,182.78604
+25303eb3a0eb14690be99b656255bf43,Ciudad Fronteriza,MX Amigos y Familia,186,144.0,88.0,1388,135.0,149.7365
+255f5806611041acbfcc2a3d00e42093,Ciudad Principal,Ciudad Principal,240,194.0,137.0,783,90.0,206.5517
+25851e1b2634035b131cc321d85c7f6d,Playa,Ciudad Principal,240,240.0,102.0,266,200.0,228.18248
+2599018427c4c4beab400fa6b5ed7c94,Ciudad Principal,Ciudad Principal,186,186.0,131.0,640,90.0,182.88136
+25f510fe64adbe7d875c5363ff409769,Playa,Ciudad Principal,186,185.0,117.0,673,195.0,183.79453
+261bee90e1e95f90c3bed4ebf6103473,Ciudad Principal,Ecoturismo,240,220.0,160.0,1472,125.0,226.94379
+26ff9d96aa561ed931741fbc5420a3f8,Ciudad Principal,Ciudad Principal,180,180.0,136.0,256,105.0,179.45818
+2701b7e51cd9b87171dd88e8447f27b9,Ciudad Principal,Playa,186,186.0,101.0,3765,105.0,182.80602
+271a911d68ff7bc15e0c7d9ad4ce759d,MX Amigos y Familia,Ciudad Fronteriza,186,146.0,93.0,222,230.0,149.89684
+276d7d98b8d69d501f9c114b2d9f65bc,Ciudad Fronteriza,MX Amigos y Familia,186,177.0,102.0,1388,135.0,163.73367
+28951fc1cb8d41771b7c0110b4658e2b,Ciudad Principal,Ciudad Principal,186,186.0,121.0,784,105.0,179.05504
+28a7cb61197936c41021a18ad2f46769,Ciudad Principal,Ciudad Principal,186,177.0,131.0,640,90.0,182.88136
+28c6dc3ae9ad675647c08700665e9ac1,Ciudad Principal,Ciudad Principal,240,207.0,127.0,783,90.0,197.37529
+28d3f364d36dc94578bfc43c31767f27,Ciudad Principal,MX Amigos y Familia,180,161.0,116.0,14,80.0,163.84354
+2917f4943094dd38478ca773fc7164bd,Ciudad Principal,Ciudad Fronteriza,180,129.0,78.0,3862,230.0,126.71549
+29a674b7918f5982c48bd2c05f052598,MX Amigos y Familia,Ciudad Principal,186,165.0,110.0,102,90.0,167.38905
+2a245dd07b41405c1d6d8b3085a3cc48,Ciudad Fronteriza,Ciudad Principal,240,240.0,171.0,1508,170.0,239.19353
+2bed0f7d2802a80682542b5258acacd1,Ciudad Principal,Ecoturismo,240,159.0,118.0,1472,125.0,179.98412
+2bf208108bb0b0f6d444e151d5c625fa,Ciudad Fronteriza,Ciudad Principal,240,211.0,142.0,1508,170.0,226.48265
+2c364ed0da05d46af2185161e13dcad0,Playa,Ciudad Principal,240,240.0,157.0,234,100.0,237.22124
+2ce73a67784ad3db6de13d916b536128,Ciudad Principal,Ecoturismo,220,220.0,161.0,1472,125.0,218.89836
+2dbb96a037f221af623cf1bcc6713bab,Ciudad Principal,Ciudad Principal,220,194.0,136.0,2773,90.0,198.40929
+2e8c31c81ea602201a455565c0c5de8e,Playa,Ciudad Principal,186,186.0,122.0,673,195.0,185.15627
+2eb71694cd72ab42cde5f2f0060a451b,Ciudad Principal,Ciudad Principal,186,182.0,126.0,315,80.0,180.95894
+2f80716898b88cfc006ebbaf4cf1ec12,MX Amigos y Familia,Ciudad Fronteriza,186,134.0,82.0,222,230.0,132.91652
+2f852443fdbd793b883da94410efec2b,Ciudad Principal,Ciudad Principal,186,186.0,131.0,315,80.0,182.88983
+2fc2f82dc5f17ecad75eb48bc9daace6,Ciudad Principal,Ciudad Principal,240,185.0,151.0,783,90.0,207.3922
+302e754d87229ae7ff8e2d47803e076e,Ciudad Principal,Ciudad Principal,240,135.0,112.0,783,90.0,146.9687
+3080e53918d7dd8e920d79b8e593b072,Playa,Ciudad Fronteriza,186,146.0,93.0,842,220.0,157.0381
+3102d5ab6ea4b53b4e264c2b9256a947,Ciudad Principal,Ciudad Principal,186,186.0,125.0,315,80.0,177.3643
+312791e444e24eda0d9bf1a73215e606,Ciudad Fronteriza,MX Amigos y Familia,186,175.0,111.0,1388,135.0,174.9561
+31309a64c82bd761b981af1ade4c7fed,Ciudad Principal,Ciudad Fronteriza,186,141.0,105.0,1897,230.0,169.63252
+31445c86371ce00e2de3264dfcda91f6,Ciudad Principal,Ciudad Principal,180,173.0,124.0,315,80.0,173.25456
+32827c966886eb669185dd278307658c,Ciudad Principal,Ciudad Principal,180,122.0,70.0,640,90.0,106.30778
+3297ccc64da57a11de9ae5848cf96b45,MX Amigos y Familia,Ciudad Principal,186,173.0,125.0,102,90.0,177.21085
+32cce3607ca6f42b6e4045d193933e61,Ciudad Principal,Ciudad Principal,186,185.0,138.0,256,105.0,183.56792
+3324d9517f5bf442b2badebec8d6ea88,Playa,Ciudad Principal,220,220.0,124.0,234,100.0,217.24089
+334410f6688ff58797b9bd4e246e4b36,MX Amigos y Familia,Ciudad Fronteriza,186,126.0,81.0,222,230.0,133.05191
+33922d427d923cd1922db89301c38ca8,Ciudad Principal,Ecoturismo,240,215.0,155.0,1472,125.0,227.11273
+34382d1355ef80a20de13cc64170b437,Ciudad Principal,Ciudad Principal,186,174.0,118.0,640,90.0,174.30682
+347a01f3b15085b8072e84864164ed74,Ciudad Principal,Ciudad Principal,186,158.0,114.0,640,90.0,169.38579
+348c3fff227b2873ec707ca2cd83ef58,Ciudad Fronteriza,MX Amigos y Familia,180,166.0,104.0,1388,135.0,169.81943
+34a5ccca04e9f0a350d500d715fe37ae,Ciudad Principal,Ciudad Principal,186,186.0,132.0,273,90.0,180.14502
+35a21aabcd17943257b5750d1679e932,Ciudad Principal,Ciudad Principal,180,176.0,144.0,640,90.0,182.21843
+35ca8443ad95338b2a47cc3f94306436,Ciudad Principal,Ciudad Principal,220,220.0,157.0,2773,90.0,209.11797
+35d7b0887edafc009511b9683d2a1fa2,Ciudad Principal,Ciudad Fronteriza,180,135.0,84.0,1897,230.0,138.50002
+35f33998179ddd77e91c1cdca5f1715a,Ciudad Principal,Ciudad Principal,186,184.0,143.0,784,105.0,185.70464
+3647109dfdc0310a5edc65c58de93029,Ciudad Principal,Ciudad Principal,220,159.0,130.0,2773,90.0,182.63332
+36b707964428730d39e06625992acb19,Ciudad Principal,Ciudad Principal,220,220.0,133.0,2773,90.0,198.92928
+3775d9a6d355c92088497f49c72b7802,Playa,Ciudad Fronteriza,240,159.0,89.0,842,220.0,156.94035
+37fdeb9935b3fe85ec704dc8f92c1de9,Ciudad Principal,Ciudad Principal,186,186.0,142.0,784,105.0,185.9243
+3833ba391bdeec78e014d18146537542,Ciudad Principal,Ciudad Principal,240,240.0,157.0,2773,90.0,218.4709
+38746b69a5f4d520f48ad1199f11b732,Ciudad Principal,Ciudad Principal,220,117.0,97.0,783,90.0,128.93985
+3a048e8a3c2133215f027d7183141fb8,Ciudad Principal,Ciudad Fronteriza,186,124.0,84.0,3862,230.0,136.38527
+3a1ea14f85c5bdd7052563e7d037e333,Ciudad Principal,Ciudad Principal,186,180.0,142.0,273,90.0,183.6231
+3adbd1b10d38e66e1a419d99c3e18ad6,Ciudad Principal,Ciudad Fronteriza,186,171.0,106.0,1897,230.0,169.95134
+3b083e4722cd6b08efec3853a34909ba,Ciudad Principal,Ciudad Fronteriza,180,180.0,109.0,1897,230.0,171.34836
+3d6df2e5062734d40fa86118dbe8d32d,Ciudad Principal,Ciudad Principal,180,180.0,161.0,784,105.0,183.6425
+3da4ff1b7a6aa1aca12ef30c29cfc8fb,Ciudad Principal,Ciudad Principal,220,220.0,133.0,783,90.0,200.09836
+3dc70ab5a899a9c26f1ae10cc7bbc187,Ciudad Principal,Ciudad Principal,240,240.0,190.0,2773,90.0,236.99796
+3f2741bc6587cc4cb9e3daa2332f31e3,Playa,Ciudad Principal,220,213.0,106.0,234,100.0,202.40225
+3fa05daffb6805b14c167c8faaf02246,Playa,Ciudad Principal,186,156.0,112.0,673,195.0,175.01819
+41171f7ad6a82460917a41fd0742bc9f,Ciudad Fronteriza,Ciudad Principal,240,236.0,151.0,1508,170.0,232.3634
+41e7af88ba925605fdd7081c1cb96dea,Ciudad Principal,Ecoturismo,240,223.0,164.0,1472,125.0,228.91728
+41eee2344064a6b89027fc9ece830a83,Ciudad Principal,Ciudad Principal,186,163.0,132.0,273,90.0,180.14502
+42834f41e371daea87379976d12838ab,Ciudad Principal,Ciudad Principal,240,240.0,183.0,256,105.0,239.92397
+4293b7be67bb812c433224d0ddb1c6fe,Ciudad Principal,Ciudad Principal,180,180.0,124.0,784,105.0,176.93509
+42bf728d2fca1e9f6df39214415e313f,Ciudad Principal,Playa,186,186.0,102.0,3765,105.0,182.80602
+42e0720055f4da32cc7b85d921541d17,Ciudad Principal,Ciudad Principal,180,180.0,148.0,640,90.0,183.5481
+4410024ef628ef75d977cc35cb2a6d39,Ciudad Principal,Ciudad Fronteriza,180,159.0,98.0,3862,230.0,159.35814
+4427a336a509638831ae53396396d3bc,Ciudad Principal,Ciudad Fronteriza,186,129.0,78.0,3862,230.0,127.24846
+447847130e26082359329ae5369abe51,Playa,Ciudad Principal,240,240.0,117.0,266,200.0,230.80878
+4521c992f52940fa03ebf59f001c78bf,Ciudad Principal,Ecoturismo,240,240.0,171.0,1472,125.0,235.43478
+45292530d251c8a05aa4edd5c5a4713d,Ciudad Principal,Ciudad Fronteriza,186,150.0,101.0,1897,230.0,162.60199
+45363cdeb0fef6127b0c0e803c9b698d,Ciudad Principal,Ciudad Fronteriza,186,166.0,89.0,1897,230.0,148.48814
+45b3d27975e7123c2c72db7dd86d14b9,Ciudad Principal,Ciudad Principal,220,195.0,167.0,783,90.0,208.95886
+45d4dd825ffa92a6344414ce5cb39529,Ciudad Principal,Ciudad Fronteriza,186,119.0,70.0,1520,230.0,115.03614
+45e8fcb60b325a2b1335b8fed2a321b8,Ciudad Principal,Ciudad Fronteriza,186,186.0,122.0,1897,230.0,182.77412
+475f9e132270faae74f5e788a4830d44,Playa,Ciudad Principal,186,170.0,113.0,673,195.0,174.75786
+476b176272ab3e5cb411f48544dccd58,Ciudad Principal,Ciudad Principal,220,220.0,165.0,3866,90.0,217.80963
+47d48cf8975222c7ce5cba91c1d78693,Ciudad Principal,Ciudad Principal,186,186.0,99.0,273,90.0,144.63702
+480be88f2b141f9b4f7f4385f27a3782,Playa,Ciudad Principal,240,240.0,150.0,234,100.0,235.5487
+4819deb65e7342a04e81283304f4e614,Ciudad Fronteriza,Ciudad Principal,240,212.0,142.0,1508,170.0,226.48265
+48a55eef36ffa247d6c95c8507fccb53,Ciudad Fronteriza,Ciudad Principal,240,233.0,168.0,1508,170.0,238.93907
+48a789f11a2d4209eaf6c70acb2af5d5,Ciudad Principal,Ciudad Fronteriza,186,97.0,58.0,3862,230.0,102.897095
+491cb039ff3c5e77531c966af664da57,Ciudad Principal,Ciudad Principal,180,180.0,143.0,784,105.0,181.7833
+4a126bc708c38c328e05cc675b0396dd,Playa,Ciudad Principal,186,186.0,128.0,673,195.0,185.31621
+4aad3dadc07deaa40d77d2f90a2baab2,MX Amigos y Familia,Ciudad Principal,186,186.0,114.0,102,90.0,172.2353
+4aadc32568949efc042d4dc740c82799,Ciudad Principal,Ciudad Principal,180,180.0,138.0,315,80.0,179.90178
+4b8251d1c1c8bf6e2308d7bf0c0059eb,Ciudad Principal,Ecoturismo,220,219.0,163.0,1472,125.0,218.82855
+4b9038284096b5b390bce02c2f114bfe,Ciudad Principal,Ciudad Principal,186,141.0,108.0,273,90.0,155.52715
+4bc481b413702cab5f5eddb27e9512cc,Ciudad Principal,Ecoturismo,240,240.0,161.0,1472,125.0,228.17934
+4c25c297e4487f465dfd7e7d4b9b00d6,Playa,Ciudad Principal,186,170.0,95.0,234,100.0,177.01886
+4c7559722f62fd658b7c264ae4ad453b,Ciudad Principal,Ciudad Principal,186,101.0,84.0,273,90.0,123.72665
+4c7f521daa5c190b27bb7c714a53c601,Ciudad Principal,Ciudad Fronteriza,186,119.0,79.0,1520,230.0,127.34709
+4d670b7855f70efd3b6a840d73bb97cd,Ciudad Fronteriza,MX Amigos y Familia,186,180.0,118.0,1388,135.0,179.6993
+4da570a1d9b5e82368b0396c13e77dad,Ciudad Fronteriza,Ciudad Principal,240,237.0,138.0,1508,170.0,221.96379
+4dd7bd141cc325440d48421942f93fc1,Ciudad Principal,Ciudad Principal,186,134.0,86.0,273,90.0,125.16943
+4e2046c252f90be96b873079f9d4c4ae,Ciudad Principal,Ecoturismo,220,220.0,122.0,1472,125.0,188.13846
+4e376ffba01f2085c040dcc2936a5da5,Ciudad Principal,Ciudad Principal,186,181.0,125.0,784,105.0,181.04483
+4e3ddce8389206b776df1f6a009a65f3,Playa,Ciudad Fronteriza,186,150.0,88.0,842,220.0,151.71704
+4e4c7ab16b76a3d7ad610b8b2018eec9,Ciudad Principal,Ciudad Principal,220,202.0,148.0,2773,90.0,203.40558
+4ea3246623c0ffc8a8a7c2c4f30991b8,Ciudad Principal,Ciudad Principal,180,180.0,124.0,315,80.0,173.25456
+4ea4afbfbb9f58c664abcd3c1721e8b0,Ciudad Principal,MX Amigos y Familia,180,176.0,124.0,14,80.0,170.78986
+4ed6cfbdb7ab8f86070857652a155e74,Ciudad Principal,Ciudad Principal,186,157.0,125.0,640,90.0,176.75618
+4f7e427c0eaa396ae4d76a795b5c5d29,Ciudad Principal,Ciudad Principal,186,186.0,122.0,315,80.0,176.57413
+50b5f45b2199f8392e7dd101b3e4a794,Ciudad Principal,Ciudad Principal,186,186.0,106.0,640,90.0,161.59952
+513b8217af325797f529807b18247b63,Ciudad Principal,MX Amigos y Familia,186,155.0,112.0,14,80.0,163.65529
+516abcef492932614ad8a6403dcc109a,MX Amigos y Familia,Ciudad Principal,186,156.0,114.0,102,90.0,172.2353
+522b9801672b6bdaae7603b6f2ade460,Ciudad Principal,Ciudad Principal,180,180.0,156.0,784,105.0,185.44064
+52aa49fc89faebc2c223a7a781bb8182,Ciudad Principal,Ciudad Principal,186,186.0,176.0,784,105.0,188.19838
+52ba2baef22a0b648990652282cb7da7,Ciudad Principal,Ciudad Principal,186,180.0,117.0,784,105.0,178.53648
+52dbf06a68ccc814e65f38299c256208,Ciudad Fronteriza,Ciudad Principal,240,240.0,144.0,1508,170.0,227.66475
+5382993a6c718d9af726d7c4b99c1023,Ciudad Principal,MX Amigos y Familia,180,180.0,142.0,14,80.0,179.44162
+539dd85c0b16e97cc55a867f66069854,Playa,Ciudad Principal,180,180.0,100.0,234,100.0,178.0238
+53bcf424106cad6a762f8482d0343656,Ciudad Principal,Ciudad Principal,220,220.0,166.0,2773,90.0,212.29584
+53d14fadf0181bdbd5ffd86b7e04a29d,Ciudad Principal,Ciudad Principal,180,180.0,133.0,256,105.0,178.8292
+53d7b8d5ec360ec7ab78f0c48cd2a5bc,MX Amigos y Familia,Ciudad Fronteriza,186,131.0,68.0,222,230.0,119.35271
+53db327ea163b132e45a34638ab30944,Ciudad Principal,Ciudad Principal,186,186.0,135.0,315,80.0,183.31468
+552f333cb2d7f0fff880e69e96177f73,Ciudad Principal,Ecoturismo,240,240.0,152.0,1472,125.0,227.55586
+55710f6bf827398a9d580a9df3fe273a,MX Amigos y Familia,Ciudad Fronteriza,186,180.0,101.0,222,230.0,157.22748
+557d62b0d3b4ee8d7e01e5dc6b9f3cff,Ciudad Principal,MX Amigos y Familia,186,109.0,78.0,14,80.0,111.528496
+55e92751c091e940a203d251c309045d,Ciudad Principal,Ciudad Fronteriza,186,149.0,95.0,1897,230.0,155.63025
+562c694e73267de43968cf402bc281a1,Ciudad Principal,Ciudad Principal,180,179.0,122.0,256,105.0,176.14491
+56307fcb89cd4317634eb4f3c84aaa8b,Ciudad Principal,Ciudad Principal,186,186.0,133.0,315,80.0,183.14296
+56922835cbfabe7b15065d390b959fbe,Ciudad Fronteriza,MX Amigos y Familia,180,130.0,85.0,1388,135.0,142.44124
+5694e4be377509adab889b64667e0725,Ciudad Principal,Ciudad Principal,186,169.0,130.0,256,105.0,182.59348
+56a644e164a8235cb691e27a97ad6ff8,MX Amigos y Familia,Ciudad Principal,186,172.0,110.0,102,90.0,167.38905
+5770ae47c46a49847e3d71c204301367,Playa,Ciudad Principal,240,228.0,117.0,266,200.0,230.80878
+57b4ef0a00b080d6e9eed166528f9594,Ciudad Principal,Ciudad Principal,180,180.0,139.0,784,105.0,179.45818
+585e59eacce73a2c768b33d6f7fedba2,Ciudad Principal,Ciudad Principal,186,186.0,137.0,783,90.0,184.5596
+587e20e165b93d358d31a417639c5ce9,Ciudad Fronteriza,MX Amigos y Familia,180,144.0,80.0,1388,135.0,136.19275
+58d678f4f8b137a620f4efcf6355a7e1,MX Amigos y Familia,Ciudad Principal,186,186.0,119.0,102,90.0,176.8921
+5966386f002addf4eba843df0f60f203,Ciudad Fronteriza,Ciudad Principal,240,222.0,137.0,1508,170.0,221.96379
+59a99a23ca09efb6aaa24f3d184aef7d,Ciudad Principal,Ciudad Principal,186,163.0,108.0,273,90.0,155.52715
+59c84aceb57fe8b21fd894da51dc31db,Ciudad Fronteriza,MX Amigos y Familia,180,157.0,94.0,1388,135.0,156.67816
+5a96b91945e3eaf3c9a08126c52c0f18,Ciudad Principal,Ciudad Principal,186,95.0,74.0,273,90.0,110.79837
+5aef864bac1014e0098d2f0584a8414d,Ciudad Principal,Ciudad Principal,180,180.0,114.0,784,105.0,170.2367
+5b7b34d4ffd973659ef6cf03928a88ad,Ciudad Principal,MX Amigos y Familia,180,147.0,100.0,14,80.0,144.88449
+5c3fb7bcacadadfd3c929da80b17fa61,Ciudad Fronteriza,MX Amigos y Familia,180,180.0,112.0,1388,135.0,173.55426
+5c40f8597c0ecdf5c464a20d19ae51fa,Ciudad Principal,Ciudad Principal,240,240.0,160.0,256,105.0,228.30013
+5cf76f9cbc625628b36a894540fe1a33,Playa,Ciudad Fronteriza,240,240.0,152.0,842,220.0,236.74222
+5d5ac7422fb9908aca4e408eade27737,Ciudad Principal,Playa,186,169.0,75.0,3765,105.0,160.4708
+5d5fd6262015b82ddb4edd132c96c30c,MX Amigos y Familia,Ciudad Principal,186,154.0,119.0,102,90.0,176.8921
+5daad2678a793292aadbae9409059478,Playa,Ciudad Fronteriza,240,238.0,142.0,842,220.0,230.3117
+5ded42e280bed85acd1cc0de7ad5b575,Ciudad Principal,Ciudad Fronteriza,180,146.0,99.0,1897,230.0,155.36807
+5df1576acb1a0b3c229d63b906987054,Ciudad Principal,Ciudad Fronteriza,186,123.0,80.0,3862,230.0,129.55621
+5e19a56f30cf059262570ea98dd759fc,Ciudad Principal,Ciudad Fronteriza,186,185.0,105.0,3862,230.0,172.61307
+5e55e4fd1587404276e3d3b777492b3f,Playa,Ciudad Principal,220,203.0,79.0,266,200.0,196.38571
+5f042adcc54cc5368ec4d3adae9e6120,Ciudad Principal,Ciudad Principal,186,183.0,132.0,315,80.0,182.88983
+61c6e76f9845e9b45b7dfc8e2c03020f,Ciudad Principal,Ciudad Principal,186,186.0,111.0,273,90.0,168.81873
+6242a8b6e5baef36650bf593e89cb63b,Ciudad Principal,Ciudad Principal,180,180.0,126.0,256,105.0,177.91225
+62a68eb3052fdf8a66a382432b3a463a,Ciudad Principal,Ciudad Principal,180,140.0,108.0,640,90.0,163.72903
+6399a8031f302d38734be94f9be88e4f,Playa,Ciudad Principal,240,205.0,127.0,234,100.0,225.64285
+63c1eaae01886f9edc75429230677161,Ciudad Principal,Ciudad Principal,240,64.0,47.0,783,90.0,63.300034
+63dd0ac3798030d252cec51fd9beb6f1,Playa,Ciudad Principal,186,186.0,114.0,673,195.0,181.71089
+64873f7524f10895a4e72135024921b4,Ciudad Principal,Ciudad Fronteriza,186,116.0,72.0,3862,230.0,123.138115
+65486da2784c019c2e7a1e942b58b299,Ciudad Principal,MX Amigos y Familia,180,88.0,60.0,14,80.0,91.99269
+65fe78cdb61c7d74075ed18d4ca86945,Playa,Ciudad Principal,186,179.0,124.0,673,195.0,182.87846
+667ab5b444e4c1dcf4bccaae84ba3044,Playa,Ciudad Principal,220,206.0,93.0,266,200.0,204.4778
+67a3ddd9b41a5d59034bd70fd124616f,Ciudad Principal,Ciudad Principal,186,185.0,132.0,784,105.0,182.6858
+6888f1074a3f107cad21c9551b8989bd,Ciudad Principal,Ciudad Principal,240,240.0,144.0,783,90.0,208.29822
+689c4853ea8cd2e9d99d517ae0938581,Ciudad Principal,MX Amigos y Familia,186,146.0,121.0,14,80.0,168.93
+68ad5df516c520e493840248ffc982cb,Playa,Ciudad Principal,180,180.0,94.0,234,100.0,177.5162
+68e0ad253db1614592a53df966a6dfa9,Ciudad Principal,Ciudad Principal,186,179.0,131.0,273,90.0,182.08594
+68fb43b0ce262eff0a85200aae0517f4,Ciudad Principal,Ciudad Fronteriza,180,129.0,82.0,1520,230.0,130.383
+6910826cfa97ea50052ff91b3af12a2b,Playa,Ciudad Principal,186,186.0,94.0,234,100.0,179.51813
+69a90d337b43413507ae5aa63a9610a2,Ciudad Fronteriza,Ciudad Principal,240,204.0,166.0,1508,170.0,238.16446
+6a231e05b9c1f369251b1fbf92039829,Ciudad Principal,Ciudad Principal,180,137.0,111.0,783,90.0,146.29701
+6a354c7a37d430bb8cc4499e4b292bd6,MX Amigos y Familia,Ciudad Fronteriza,180,149.0,98.0,222,230.0,153.6462
+6afcfea8b1d94d2c15a65981eceecc4a,Playa,Ciudad Principal,186,182.0,136.0,673,195.0,188.41602
+6b52bce0139a039330292755af672ec0,Ciudad Principal,Ecoturismo,240,160.0,123.0,1472,125.0,182.97902
+6b60fbfe27bb164c4b6c3d78e7991d50,Ciudad Principal,Playa,186,175.0,105.0,4390,105.0,174.6032
+6be1aed4b35ecb6872b7e992ee249499,Ciudad Principal,Ciudad Principal,240,240.0,149.0,256,105.0,222.67502
+6c609b7a75700a1ec0efbcd6e1883aaf,Playa,Ciudad Fronteriza,240,156.0,88.0,842,220.0,155.28407
+6c6d69b7dff8d8e53cd3a2f9d654ddb2,Playa,Ciudad Principal,240,236.0,134.0,234,100.0,229.25296
+6c7639f7a26e528f6a4f8e3ede18af9c,Ciudad Principal,MX Amigos y Familia,186,76.0,61.0,14,80.0,94.915924
+6cca9728c5e78648d21ecaa8645a148e,Ciudad Fronteriza,MX Amigos y Familia,180,163.0,108.0,1388,135.0,172.13652
+6ce8467ad1d42d285783431e91204552,MX Amigos y Familia,Ciudad Fronteriza,180,127.0,75.0,222,230.0,128.8192
+6e7c985ada0580965e606c16cef25480,Ciudad Principal,Ciudad Principal,186,173.0,121.0,315,80.0,175.37451
+6f8738e2e4d07d2537b00867dcf7beab,Ciudad Principal,Ciudad Principal,186,186.0,143.0,315,80.0,186.14824
+6f8a9127f06d7c8e2235c598bdc3a129,Playa,Ciudad Fronteriza,240,172.0,99.0,842,220.0,179.16199
+6f919bcf83d4757f5c6ada6ad520f8bf,Ciudad Principal,Playa,186,181.0,74.0,5315,105.0,158.48187
+6ff34798b43edb12e96cea4616f1b5de,Ciudad Principal,Ciudad Fronteriza,186,79.0,50.0,3862,230.0,89.56635
+70126bf7ee2f7d6ad995b62469833e7f,Playa,Ciudad Principal,220,220.0,146.0,234,100.0,220.60579
+70ee4ea9c676cfddb18caef0a59e6454,Ciudad Principal,Ciudad Fronteriza,186,180.0,111.0,1897,230.0,177.63974
+71312097ed248926ff110d41a4bfd7ea,Ciudad Principal,Ciudad Principal,220,220.0,179.0,2773,90.0,219.28094
+728f5cc01c3d031317da542523c7f1f0,Playa,Ciudad Fronteriza,186,155.0,88.0,842,220.0,151.71704
+734eb4e5fb9f3ff18c0fb5948f761206,Ciudad Principal,MX Amigos y Familia,186,120.0,81.0,14,80.0,115.92455
+738d421275b3a56706738d5c36f280bd,Ciudad Principal,Ciudad Principal,180,180.0,134.0,2773,90.0,179.37108
+73d5447c4920895c537467d51492bbd6,Ciudad Principal,Ecoturismo,220,216.0,160.0,1472,125.0,218.4971
+757f23afa8b50aaf53611d354ed52c83,MX Amigos y Familia,Ciudad Fronteriza,180,145.0,89.0,222,230.0,143.75093
+76c15a996b6c413fbaf355de6abd3f3c,Ciudad Principal,Ciudad Principal,186,176.0,126.0,2773,90.0,177.66861
+788d60e4f62d43328047555eff90d0bf,Playa,Ciudad Fronteriza,186,111.0,67.0,842,220.0,123.60449
+78a15373a00fb7963c4a4300c801f7d7,Playa,Ciudad Principal,220,220.0,105.0,266,200.0,216.4754
+78b6e478d07321f7fe54c5fe77472f7f,Ciudad Principal,Ciudad Fronteriza,186,109.0,71.0,3862,230.0,119.36659
+79631ad28bc5794a30bc2ab90194d56f,Playa,Ciudad Fronteriza,180,110.0,60.0,842,220.0,109.24503
+7a4dcb7f821d6b5a8f239ca5a720837a,Ciudad Principal,Ecoturismo,220,220.0,138.0,1472,125.0,206.4299
+7a8e2d75b3196be745e863339d722d03,Ciudad Principal,MX Amigos y Familia,240,170.0,113.0,14,80.0,157.19604
+7acde899485e40121e1425f14775521e,Ciudad Fronteriza,Ciudad Principal,240,233.0,152.0,1508,170.0,233.12682
+7aceb8939aec1cc6a1480caea3a74337,Ciudad Principal,Ciudad Principal,180,180.0,139.0,2773,90.0,178.95438
+7ca1f8852e9c2bcede6c12b40bf6708e,Ciudad Principal,Ciudad Principal,180,180.0,113.0,640,90.0,167.0661
+7cad90b89e895a7d9b29c2f931d48a9d,Ciudad Principal,Ciudad Principal,240,166.0,120.0,640,90.0,176.31895
+7cbc4b11f2f6be382ec387406d2999eb,Playa,Ciudad Fronteriza,186,132.0,78.0,842,220.0,135.19086
+7cc5837405f084045a22371e3d485574,MX Amigos y Familia,Ciudad Principal,186,185.0,112.0,102,90.0,171.91237
+7d69afc2ca7292afa51bf7618811debb,Ciudad Principal,Ciudad Principal,220,199.0,120.0,783,90.0,181.10847
+7dfe2eb898f14006d16945009dc3280f,Ciudad Principal,Ciudad Fronteriza,180,142.0,89.0,3862,230.0,143.93681
+7e072b7742bc9540048d619c8f47dec0,Ciudad Fronteriza,MX Amigos y Familia,186,186.0,117.0,1388,135.0,179.90631
+7e1ef714dcd460822464fa745d6fa3a8,MX Amigos y Familia,Ciudad Principal,180,163.0,127.0,102,90.0,175.02492
+7eddd61c40684cfd7e5ab83b1540f64d,Playa,Ciudad Principal,240,211.0,98.0,266,200.0,224.04929
+7f1cb28a2c769e40e529f7fac1121444,Ciudad Principal,Ciudad Principal,186,178.0,130.0,273,90.0,181.68575
+7f752bfe4c229fef83c460d94cc657b7,Ciudad Principal,Ciudad Principal,186,143.0,103.0,273,90.0,146.2327
+7f92fe50d1aece5846ab617474622bcb,Ciudad Fronteriza,MX Amigos y Familia,186,182.0,132.0,1388,135.0,183.9369
+7f95db4300aa4c59ed68f21358be5957,Ciudad Principal,Ciudad Fronteriza,180,141.0,80.0,1897,230.0,133.03455
+7fa83d81224c2d8b6480d4f366a38959,Ciudad Principal,Ciudad Principal,186,171.0,108.0,784,105.0,169.04874
+7fcabb44aeb5babd54078cf702358581,Ciudad Fronteriza,Ciudad Principal,240,233.0,137.0,1508,170.0,221.96379
+804f380f12dfe25c420d1f9f8f1e9914,Ciudad Principal,Ecoturismo,240,240.0,173.0,1472,125.0,235.43478
+80beb03cb14dd1ee219ae3cd3c9439eb,Ciudad Principal,Playa,186,184.0,105.0,3765,105.0,182.63934
+81409cfe1ff1069f6d0708b85724f0ef,Ciudad Principal,Ciudad Principal,240,196.0,140.0,2773,90.0,201.23682
+81b9831f0a44257b31c2bb80eeb8e2e6,Ciudad Fronteriza,Ciudad Principal,240,240.0,156.0,1508,170.0,233.68881
+81beb323296278e2c31bc65dc6d247e3,Ciudad Fronteriza,MX Amigos y Familia,186,158.0,100.0,1388,135.0,163.80493
+82513e4dfeea6fe141d4e44fd240213e,Playa,Ciudad Principal,240,212.0,107.0,266,200.0,221.13152
+826cf07aee09f97d820cb335c6add05e,Ciudad Principal,MX Amigos y Familia,186,170.0,118.0,14,80.0,169.23584
+82d76d2fcedaed318a4c617de240341e,Ciudad Principal,Playa,186,186.0,106.0,3765,105.0,182.56468
+832d093f1308c05bba838ad26dce9a6b,Ciudad Principal,Ciudad Fronteriza,180,112.0,72.0,3862,230.0,121.67745
+83a0e57ae711821d3f9b601ad43432b5,Ciudad Principal,Ciudad Principal,186,168.0,124.0,315,80.0,177.3643
+83f1c07b8d30e6ba247b10716f91ba83,Ciudad Principal,Ciudad Fronteriza,186,121.0,81.0,1520,230.0,131.00429
+84111e77aec2f109cee6fac1ba64152d,Ciudad Principal,Ciudad Principal,240,157.0,129.0,2773,90.0,180.9012
+8423aa4a3e44f85ab7047161922c6586,Playa,Ciudad Principal,180,180.0,109.0,234,100.0,180.18272
+8642b6b8a0fe468ef4aeda315df853ea,Ciudad Principal,MX Amigos y Familia,186,119.0,85.0,14,80.0,120.449394
+868589e5b38f21a25810143e93f00632,Ciudad Principal,MX Amigos y Familia,240,136.0,96.0,14,80.0,134.48325
+86938c5f40f08ed975bbc71d04619654,Playa,Ciudad Principal,186,186.0,124.0,673,195.0,182.87846
+86ca1e26ee109edb9b4223d821759354,MX Amigos y Familia,Ciudad Principal,186,182.0,125.0,102,90.0,177.21085
+86d5c1e3ecb2a43b1d5b19df0bba6855,Playa,Ciudad Fronteriza,240,229.0,124.0,842,220.0,218.33466
+86f073259a1bac0de79727ffd788ab2d,MX Amigos y Familia,Ciudad Principal,186,183.0,139.0,102,90.0,183.6898
+890b05b2ba8381269a6e1d7d4cee4f10,Ciudad Principal,MX Amigos y Familia,186,117.0,76.0,14,80.0,113.579704
+89aff749d9d01f358dcba9a63dd88ed9,Playa,Ciudad Principal,186,186.0,127.0,673,195.0,185.73283
+89b3ce2b104be95aa17d97269723cc4b,Ciudad Principal,Ciudad Fronteriza,186,116.0,72.0,3862,230.0,123.138115
+89bbe29ffbbd834f5b98945e942e32f8,Ciudad Principal,Ciudad Principal,220,194.0,134.0,256,105.0,205.61113
+8a1c4b4ac7fcd12cd356443db0419945,Ciudad Principal,Ciudad Fronteriza,180,180.0,121.0,1897,230.0,177.87962
+8a71a1857af7cdca2a90c798657ac10d,Ciudad Principal,Ciudad Principal,186,186.0,130.0,640,90.0,182.48117
+8a822dd796f8b6b20a0330b6455a0720,Playa,Ciudad Principal,220,220.0,98.0,266,200.0,215.35638
+8ab9a3d876b0cfeee92248943ee06f46,Ciudad Principal,Ciudad Principal,186,186.0,164.0,784,105.0,190.30952
+8ae5978e3da16b5ba935060ecf6aefad,Ciudad Principal,Ciudad Principal,186,148.0,116.0,273,90.0,166.07614
+8b424cc1463835b5451d668a7ec93f81,Ciudad Fronteriza,MX Amigos y Familia,186,183.0,117.0,1388,135.0,179.90631
+8b7a539d92e05498df00c3542b49081f,MX Amigos y Familia,Ciudad Fronteriza,186,112.0,63.0,222,230.0,115.47812
+8be12bd8c5f4a0cb1f4d5e675b39e6c5,Playa,Ciudad Principal,186,186.0,147.0,673,195.0,190.6799
+8cf7d15a886516036f8b432cb2e3c01e,Ciudad Principal,Ciudad Principal,180,168.0,125.0,640,90.0,172.64644
+8d14210606f69600a7f0dee160b25552,Ciudad Principal,MX Amigos y Familia,186,124.0,93.0,14,80.0,134.80675
+8ec9b40e2c081beb325d64ea17fb3fba,Ciudad Principal,Ciudad Fronteriza,186,153.0,83.0,1520,230.0,135.15678
+8ed90da948540c0e70e5e49512e6d62a,Ciudad Principal,Ciudad Fronteriza,180,165.0,112.0,1897,230.0,173.98183
+8f00042b9e9eda6cbf6552635dadeec3,Ciudad Principal,Ciudad Principal,186,184.0,149.0,640,90.0,187.46944
+8f32949fe183bee4fbee1c1e91521bf9,Ciudad Principal,Ciudad Fronteriza,186,112.0,64.0,3862,230.0,112.83293
+8fa8496edbd3cf733b057d8e40567298,Ciudad Principal,Ciudad Principal,240,201.0,161.0,783,90.0,212.63797
+90529708d62c4c77b796c7eafc81719a,Ciudad Fronteriza,Ciudad Principal,220,210.0,138.0,1508,170.0,214.00839
+90ae6955272b7cbf1ff831f8a5115029,Ciudad Principal,Ciudad Fronteriza,186,164.0,107.0,1897,230.0,170.47696
+9140e740f56a24aea7d832951fafa3e1,MX Amigos y Familia,Ciudad Fronteriza,186,159.0,91.0,222,230.0,146.78044
+918fdf45f8bed7d8ecea26284c9be7fa,Ciudad Principal,Ciudad Principal,240,222.0,161.0,2773,90.0,216.42711
+91b1359faca5a7242cc5e25ab31b6283,Ciudad Principal,Ciudad Fronteriza,180,142.0,91.0,1897,230.0,146.81355
+91d2db0fec6dbd517b4dbbac9731b3ae,Ciudad Fronteriza,MX Amigos y Familia,180,172.0,89.0,1388,135.0,149.65756
+91fa054cc2e28d10ad86617e54aedf4c,Ciudad Fronteriza,MX Amigos y Familia,186,144.0,104.0,1388,135.0,171.21172
+924ebc873de11609b48ebae71c533325,Ciudad Principal,Ciudad Principal,180,180.0,156.0,784,105.0,185.44064
+935ea4736dabe5758f459024adf7d3a7,Ciudad Principal,Ciudad Fronteriza,186,134.0,85.0,1520,230.0,135.77153
+94008d5fd3723cab0586edf03ca19ff2,Ciudad Principal,Ciudad Principal,240,240.0,193.0,256,105.0,241.09445
+940eb1940a0c20dcf860e52fd60d9083,Playa,Ciudad Principal,220,207.0,92.0,266,200.0,205.52896
+95197c7a4947ac9fbbb35c60fdc3f1b5,Ciudad Principal,Ciudad Principal,186,180.0,116.0,315,80.0,170.81499
+95335c27e422f07ee2554ef209743ce0,Ciudad Principal,Playa,186,153.0,75.0,3765,105.0,160.4708
+96e1bce596b901189355b91b6dd604d1,Playa,Ciudad Fronteriza,186,133.0,78.0,842,220.0,135.19086
+971181303e8d382d5a47d9eecbe792c9,Ciudad Principal,Ecoturismo,240,159.0,113.0,1472,125.0,167.89438
+97790129a1957a312b3bc124f80dae12,Ciudad Principal,Ciudad Fronteriza,186,119.0,79.0,3862,230.0,128.99725
+98080072d21a7813b76474437ce2472d,Ciudad Principal,Ciudad Principal,186,186.0,155.0,256,105.0,188.51643
+980844cded3762aac9dbb6b43c3c471e,Playa,Ciudad Principal,186,186.0,118.0,673,195.0,183.75272
+983121ae120978ca937d3957b44f9cad,Ciudad Principal,MX Amigos y Familia,186,113.0,73.0,14,80.0,108.89933
+9929bbdeae3c063c13a4b09390c89a44,Playa,Ciudad Principal,240,206.0,107.0,266,200.0,221.13152
+9941dd2bb6a281483600451c4543c4c5,MX Amigos y Familia,Ciudad Principal,186,180.0,128.0,102,90.0,180.56178
+996381c964b8b73368f19ae7778fb010,Ciudad Principal,Ciudad Fronteriza,186,151.0,97.0,3862,230.0,160.22311
+9aa32d801199c401985c76f42b86b8a4,Ciudad Principal,Ecoturismo,240,180.0,140.0,1472,125.0,205.5828
+9aa6ba4a39a254f35dc7f91f33726f4f,Ciudad Principal,Ciudad Principal,186,186.0,144.0,256,105.0,185.70464
+9ac9fb19450255be7252ca789c036f7a,Ciudad Fronteriza,Ciudad Principal,240,239.0,135.0,1508,170.0,219.30911
+9b685546c1783d65fd3626d93151b11d,Ciudad Fronteriza,Ciudad Principal,240,212.0,141.0,1508,170.0,226.48265
+9bae22dc83b59c392b97abf58caec6e0,Playa,Ciudad Principal,220,196.0,91.0,266,200.0,201.8956
+9d04b0e7f7a56c001e4cc2d4cec8d2bf,Ciudad Principal,Ciudad Principal,240,125.0,96.0,2773,90.0,136.7297
+9d338584531721d1f6ff03dd64c9c148,Ciudad Principal,Ciudad Principal,186,186.0,117.0,640,90.0,175.36589
+9ef4f8df1f9396b07c95b48b8eb8c85e,Playa,Ciudad Principal,240,237.0,103.0,266,200.0,230.56569
+9f20dff87dda858c37dbb8da7c50b96b,Ciudad Principal,Ciudad Fronteriza,186,135.0,68.0,3862,230.0,115.89074
+9f7de2307a1e0b666800efc528b71bcd,Ciudad Principal,Ciudad Fronteriza,186,146.0,93.0,1897,230.0,152.7512
+9f8aa60f0e008afe0ae1007eae256947,MX Amigos y Familia,Ciudad Fronteriza,180,170.0,109.0,222,230.0,169.3978
+a00554d4ffba42516b907f7b8ca52643,Playa,Ciudad Principal,186,155.0,104.0,673,195.0,173.81656
+a260faeafa3747a2804c6763496411d3,Ciudad Principal,Ciudad Principal,186,186.0,127.0,256,105.0,182.02199
+a27abd72b61ae5e79becc987bf77c542,MX Amigos y Familia,Ciudad Principal,186,184.0,144.0,102,90.0,186.33266
+a29a4781c886c522b2a7e6d2f00e25f1,MX Amigos y Familia,Ciudad Principal,186,186.0,78.0,102,90.0,122.26602
+a3c8d2f7bce460ce51d7a0dcc8ab9d03,Ciudad Principal,Ciudad Fronteriza,186,182.0,117.0,1897,230.0,181.05595
+a3fe15a8a416c208868b41b735ecf7b2,Ciudad Principal,Ciudad Principal,180,180.0,140.0,784,105.0,179.45818
+a490bc3bfd4329124c709e7cb723fd9a,Playa,Ciudad Principal,240,196.0,91.0,266,200.0,211.0525
+a51dc2f4aeab372973a05af4c9f5b78f,Ciudad Principal,Ciudad Principal,180,180.0,109.0,273,90.0,167.63843
+a6081f8cbce2c643e59179a5b4f44ab1,Playa,Ciudad Principal,180,179.0,90.0,234,100.0,177.69197
+a6795e1493c5fb41fab4de9e1e4223b5,Ciudad Principal,Ciudad Principal,186,180.0,118.0,273,90.0,172.9917
+a67e70f474ad3a70e0523d1665752d11,Ciudad Principal,Ciudad Principal,186,185.0,106.0,784,105.0,165.3684
+a707d284af42c14f98b6e3a75e52d3fe,Ciudad Principal,Ciudad Principal,186,175.0,133.0,784,105.0,182.93893
+a73afa792ab4e5c851ae61f639026322,Playa,Ciudad Fronteriza,240,194.0,108.0,842,220.0,194.69745
+a79d4037b8849dc89d575098399d6acf,Ciudad Fronteriza,Ciudad Principal,240,209.0,133.0,1508,170.0,216.93658
+a7f306a7b93af60ee3761d3818cf7c41,Ciudad Principal,Ciudad Fronteriza,186,119.0,68.0,3862,230.0,115.89074
+a8af740ddeb5399321d8f2dde7caf280,Playa,Ciudad Principal,180,165.0,69.0,234,100.0,151.99983
+a91e22cce431a06da93100ad0aa0355a,Ciudad Principal,Ciudad Principal,186,186.0,129.0,784,105.0,182.02199
+aad287638891e309850b278c85053005,Playa,Ciudad Principal,186,183.0,128.0,673,195.0,185.31621
+ab05660eb9ef4ab0e05c97bd2ee1223e,Ciudad Fronteriza,MX Amigos y Familia,186,144.0,82.0,1388,135.0,138.49931
+ab4967c82e2a1e79446ec58336a3fa25,Ciudad Principal,Ciudad Principal,220,220.0,176.0,2773,90.0,213.9094
+ab4ef64d35f9084ce4e0093ac51a1887,Playa,Ciudad Principal,240,240.0,142.0,234,100.0,228.86034
+ab9b54f3c557f244455339cd920a66dc,Playa,Ciudad Fronteriza,186,154.0,77.0,842,220.0,139.11235
+ac0755ebb2150e7e7b3f6bc83ba518d6,Ciudad Principal,Ciudad Fronteriza,186,186.0,109.0,3862,230.0,176.91563
+ac506b46d400707fbd79751120775fef,MX Amigos y Familia,Ciudad Principal,186,162.0,108.0,102,90.0,165.62202
+ad623e17432bff6fa275c08b0c5a04b7,Ciudad Principal,Ciudad Principal,186,165.0,116.0,315,80.0,170.81499
+adb67af92aebee2454aca8f8cb3ae5c8,Playa,Ciudad Principal,186,186.0,92.0,234,100.0,179.63524
+ae155b98d2da03dd5fd27486a1cc2b22,Ciudad Principal,Ciudad Principal,186,184.0,128.0,783,90.0,182.80579
+aef8f5d69375ea4e59ca270e87794498,Ciudad Principal,Ciudad Principal,186,186.0,158.0,784,105.0,187.56384
+af11510d9b42b88131b186d5eb06ddc9,Ciudad Principal,Ciudad Fronteriza,180,145.0,81.0,3862,230.0,132.1216
+afbf4dda48e391bd4e91fc1f15833763,Ciudad Principal,Ciudad Principal,186,179.0,142.0,640,90.0,186.35944
+b08b07d3b15c6fc86aae258514f1e4c7,Playa,Ciudad Principal,240,212.0,136.0,234,100.0,223.85391
+b0d7c64e2ecc392f401e5f9d8d5837c8,Ciudad Principal,Ciudad Principal,186,186.0,132.0,256,105.0,182.6858
+b16ce47d121761355d75001a57c9d1bc,MX Amigos y Familia,Ciudad Fronteriza,186,149.0,93.0,222,230.0,149.89684
+b27942f6e3cb83e2dcd9955d79461612,Ciudad Principal,Ciudad Fronteriza,180,141.0,96.0,1520,230.0,152.27556
+b2b1bbb39236c4b1870d3963b648a24f,Playa,Ciudad Principal,186,186.0,133.0,673,195.0,187.93059
+b2c330618ec019455b50ae77c214acd0,Playa,Ciudad Fronteriza,240,193.0,116.0,842,220.0,208.62892
+b2d1b7d0dbf68ad100c0f19653665037,Playa,Ciudad Principal,186,172.0,128.0,673,195.0,185.31621
+b4cab4b7edb0d955648dc63d9dbbef4e,Ciudad Fronteriza,MX Amigos y Familia,180,140.0,92.0,1388,135.0,157.64215
+b520fb37a0e42b1148631e3ce769cecc,MX Amigos y Familia,Ciudad Fronteriza,186,140.0,86.0,222,230.0,138.67305
+b5a2dc9a5447e3d8b132f9e270750940,Ciudad Principal,MX Amigos y Familia,186,157.0,106.0,14,80.0,154.01572
+b63b19bac32f82a96ea793fc647e26d5,Playa,Ciudad Fronteriza,186,136.0,73.0,842,220.0,130.72862
+b656592f1321c7495f544d6bdd0bd9d5,Ciudad Principal,Ciudad Principal,186,95.0,69.0,273,90.0,101.6843
+b8b979809f16b7f628f1dc57c17b6fa6,Ciudad Principal,Ciudad Principal,186,186.0,142.0,256,105.0,185.9243
+b9408657e55593876078fa77440d8f05,Ciudad Principal,Ciudad Principal,240,240.0,176.0,256,105.0,237.47318
+b94d40e42269d98b4762d74b70583473,Ciudad Principal,Ciudad Fronteriza,186,126.0,85.0,3862,230.0,137.55777
+ba65215abc5fe095ed5cf7fbc153d101,MX Amigos y Familia,Ciudad Fronteriza,186,147.0,93.0,222,230.0,149.89684
+ba7f8d9a37698207430ff2ead6421a72,MX Amigos y Familia,Ciudad Principal,186,186.0,133.0,102,90.0,182.82124
+bab5d3c61f2acb950733e6a98666d3fa,Ciudad Fronteriza,MX Amigos y Familia,186,169.0,94.0,1388,135.0,158.07045
+bb803a9a2b616fc625ad8884c0a67691,Ciudad Principal,Ciudad Principal,186,160.0,124.0,315,80.0,177.3643
+bcacecd911e13ef5710ca35177c1ed46,Playa,Ciudad Principal,240,240.0,103.0,266,200.0,230.56569
+bcc37a808f0aa1db36239ca2fcc5a18f,Ciudad Fronteriza,MX Amigos y Familia,186,176.0,113.0,1388,135.0,175.3677
+bceb73774c9c10f3bd3a44472bd65329,Ciudad Principal,Ciudad Principal,186,186.0,143.0,2773,90.0,186.09964
+bd456826b379c47776c2976daf4616b1,Playa,Ciudad Principal,240,215.0,136.0,234,100.0,223.85391
+be17b7b6117d38863ff427babbff656d,Ciudad Fronteriza,Ciudad Principal,220,220.0,148.0,1508,170.0,222.11465
+bec9330f1f5ef5b99a1b4618c9da9774,Playa,Ciudad Fronteriza,186,142.0,70.0,842,220.0,122.89864
+bedebcf7e606ef30ce019dfb691eb735,Ciudad Principal,Ciudad Principal,180,180.0,138.0,784,105.0,179.45818
+bf90a64dd3cec2198d594923f175bfc2,MX Amigos y Familia,Ciudad Fronteriza,186,145.0,95.0,222,230.0,152.18762
+bf99eba60b405e3968bb30c5155570ba,Ciudad Fronteriza,Ciudad Principal,240,239.0,148.0,1508,170.0,232.11295
+c01c871b621a99164e813c18dfc377b4,Ciudad Principal,MX Amigos y Familia,186,118.0,86.0,14,80.0,121.543274
+c026444681c083a107dffff8e1ae4170,Ciudad Principal,MX Amigos y Familia,180,169.0,129.0,14,80.0,172.08098
+c0b8b401063ace41c76095e5234526c4,Ciudad Fronteriza,MX Amigos y Familia,180,136.0,78.0,1388,135.0,132.79243
+c130b5bd7dcf02565f281a8fe1b18d33,Ciudad Principal,Ciudad Principal,186,186.0,135.0,315,80.0,183.31468
+c1407be2ede1a1347d62fb87002cb43c,Ciudad Principal,Ciudad Principal,180,180.0,119.0,273,90.0,169.82056
+c18d225d23423ab531c95d83051f923c,Ciudad Principal,Ciudad Fronteriza,180,145.0,87.0,1520,230.0,138.3721
+c22c6a2c2f354b177301c19735f0b648,Playa,Ciudad Fronteriza,240,162.0,87.0,842,220.0,154.5252
+c2815adb2d45dcc7a6d190a88afb19e0,Playa,Ciudad Principal,240,240.0,103.0,266,200.0,230.56569
+c2d119b97f7cbe9110d32c03408514d9,Ciudad Principal,Ciudad Principal,220,131.0,113.0,783,90.0,149.15948
+c2dd0060634350ba27558abeed1a029f,MX Amigos y Familia,Ciudad Fronteriza,186,180.0,72.0,222,230.0,127.68556
+c3daf67b0695b0ee4185f7842f766de0,Ciudad Principal,Ciudad Principal,240,240.0,180.0,2773,90.0,236.08029
+c45b576106cde935439ac581bfc7d6bc,MX Amigos y Familia,Ciudad Fronteriza,180,125.0,78.0,222,230.0,127.37763
+c53f3ee4404e7dfbab6d2ee20c8f82c5,Ciudad Principal,Ecoturismo,240,223.0,160.0,1472,125.0,226.94379
+c56e3e399b5732581d8f05130a0ebea8,Playa,Ciudad Principal,220,220.0,128.0,234,100.0,217.73479
+c6a85d1e7b31eae678370aa074415ed9,Playa,Ciudad Principal,186,186.0,132.0,673,195.0,186.82057
+c7168243d398dd55707ae41c97e21df2,MX Amigos y Familia,Ciudad Principal,186,186.0,135.0,102,90.0,182.99297
+c724c3ec51e80f401c9e365aef19b89f,Playa,Ciudad Principal,186,186.0,132.0,673,195.0,186.82057
+c79d61d00875d2377c4b3d1b20606dcd,Ciudad Principal,Ciudad Fronteriza,186,176.0,116.0,1897,230.0,178.33713
+c7f406e8f280c719f65bf3d7e8c9360f,Ciudad Principal,Ciudad Fronteriza,186,181.0,110.0,3862,230.0,176.79053
+c850759f3279dcd8c734cb2fc96d20b1,Ciudad Principal,Ciudad Principal,180,180.0,132.0,640,90.0,178.77162
+c9285afd2b60b844acbdc0b492cb7111,Playa,Ciudad Principal,240,227.0,88.0,266,200.0,209.24309
+c9420fe87cf2e9d282daefe1ff1497c8,Ciudad Principal,Ciudad Fronteriza,186,183.0,102.0,1897,230.0,162.60199
+c9684d3ed99f84f6340563fb846866df,Ciudad Principal,Ciudad Principal,180,134.0,99.0,640,90.0,149.84775
+ca3f1c01bdab23f95740bc517c384c60,Ciudad Principal,Ciudad Principal,186,186.0,131.0,273,90.0,182.08594
+ca41434be1bca1f26d1a6911601f0143,Ciudad Principal,Ciudad Principal,180,180.0,156.0,640,90.0,185.87578
+ca4eef550238b4d80977bdba66ba2b38,Playa,Ciudad Principal,240,237.0,132.0,234,100.0,228.45747
+cb40a0826db6aedd24006ec5f67d647a,Ciudad Principal,Ciudad Principal,180,180.0,132.0,273,90.0,175.64703
+cb7259c44c21247c16b189e677af494a,Playa,Ciudad Principal,180,180.0,87.0,234,100.0,174.25435
+cb7f83d5be43e5e3f6610c9e08887732,Ciudad Principal,Ciudad Principal,240,73.0,64.0,783,90.0,85.11311
+cb93c0046dafe0d0215e2ccac46d2a5c,Ciudad Principal,Ciudad Principal,186,186.0,111.0,784,105.0,172.03049
+cbd20f8a802f9b58934f56b111ae9ac1,Ciudad Principal,Playa,186,145.0,86.0,4390,105.0,163.37575
+cbd70e0a86cdd09ea1f9b26fb84c8d0a,Ciudad Principal,Playa,186,181.0,95.0,3765,105.0,178.31706
+cbdef278c8f1123c7241a7dd19ff28b0,Ciudad Principal,Ciudad Principal,180,156.0,117.0,256,105.0,175.37912
+cbeeeb2e52698bac37a9d6344cbd2ada,Ciudad Principal,Ciudad Fronteriza,180,118.0,79.0,1520,230.0,126.81416
+cbf1a7075c751fbb53827bb77223a36c,Ciudad Principal,Ciudad Principal,240,189.0,146.0,783,90.0,211.90955
+cc83d3f03c89658b567f99948cf39866,Ciudad Fronteriza,Ciudad Principal,240,240.0,153.0,1508,170.0,233.68881
+cca4757afe485d8197d22f7e031a766c,Ciudad Principal,Ecoturismo,220,220.0,157.0,1472,125.0,218.66605
+cd70928902624ad1bce64d9b3fa4e828,Playa,Ciudad Principal,186,186.0,116.0,673,195.0,183.76405
+ce5c0dee989f242047af2d99fd0897ad,Ciudad Principal,Ciudad Principal,240,240.0,182.0,256,105.0,239.92397
+cf61b4ede8b8cd07349c40708623b433,MX Amigos y Familia,Ciudad Fronteriza,186,133.0,88.0,222,230.0,144.33653
+cf7fcc59c15e1115a70da27525c36c61,Ciudad Principal,Ecoturismo,220,210.0,140.0,1472,125.0,207.1301
+cf83c57a010994a1e516c10497b43e08,Playa,Ciudad Fronteriza,240,238.0,131.0,842,220.0,223.98256
+cfa9662a1f6a22db7dfe2fdcad78a8aa,Ciudad Principal,Ciudad Principal,186,186.0,144.0,256,105.0,185.70464
+cfe39679de4210d8afdd431f9ea9df99,Ciudad Principal,MX Amigos y Familia,180,121.0,79.0,14,80.0,122.64072
+d005d9d2935e5e5c03a67f8518d44e96,Ciudad Principal,Ciudad Principal,180,180.0,121.0,640,90.0,171.41035
+d0350acb8da901076efcb0dad3246e49,Ciudad Principal,Ciudad Principal,186,185.0,136.0,315,80.0,184.01152
+d08b35d7e994fb9b0cb9ba9d1423b881,Ciudad Principal,Ciudad Principal,240,240.0,180.0,783,90.0,232.00534
+d095d0df2be96542de137353fc95bd50,Ciudad Fronteriza,Ciudad Principal,240,223.0,141.0,1508,170.0,226.48265
+d2160b9186c392c9b194c8faf6ae4b67,Ciudad Principal,Ciudad Principal,186,186.0,110.0,273,90.0,169.98227
+d28c88b8edc4348a73b61aee0295e6ff,Ciudad Principal,Ciudad Fronteriza,186,135.0,89.0,1520,230.0,141.88803
+d2b37f98b39b3b760c413d64de69b0a4,Playa,Ciudad Principal,186,186.0,99.0,673,195.0,170.75296
+d3c0131f61d976ec7d63f82cefaf99fa,Ciudad Principal,Ecoturismo,240,162.0,112.0,1472,125.0,167.57144
+d440c58135e53e922b51857b91f87435,MX Amigos y Familia,Ciudad Fronteriza,180,134.0,85.0,222,230.0,138.69041
+d48ecd9e6d5651ca5eff26b29bcce615,Ciudad Principal,Ciudad Fronteriza,186,179.0,116.0,1520,230.0,174.64821
+d4bf8ad7fb341ea19dddb197ccc0b57a,Ciudad Fronteriza,MX Amigos y Familia,186,150.0,77.0,1388,135.0,134.76581
+d585c1449f705b0d0d12fda94e94c89f,Ciudad Fronteriza,Ciudad Principal,240,240.0,128.0,1508,170.0,209.38966
+d5a699ef461fe9d74d7717eea4d33df7,Ciudad Principal,Ciudad Principal,186,185.0,135.0,315,80.0,183.31468
+d5d8da9bafaef3c7c3eda78799d0c532,Ciudad Principal,Ciudad Principal,220,159.0,132.0,783,90.0,197.56981
+d65d993cf2b59cf549b4b2f66f62297c,Ciudad Principal,Ciudad Principal,186,186.0,130.0,784,105.0,182.59348
+d6a0fd0ff0285dd54e0c5158ce36d777,Ciudad Fronteriza,Ciudad Principal,220,211.0,147.0,1508,170.0,222.11465
+d713f23cd99315fbec9eaa020748cbf8,Ciudad Principal,Ciudad Principal,186,182.0,130.0,315,80.0,182.48964
+d76f597a464505080b3e2d487b03bdd2,MX Amigos y Familia,Ciudad Fronteriza,180,125.0,82.0,222,230.0,131.77356
+d78c7b1f9b7c8699cc9496d896eafcf6,Ciudad Principal,Ciudad Principal,186,146.0,106.0,273,90.0,151.5276
+d7c0f528ac96a53cd4e08cfcf46ecb0f,Ciudad Principal,Ciudad Fronteriza,186,183.0,103.0,3862,230.0,168.55139
+d7cc6a1dbe558d9cf1fd3b4c13faa967,Ciudad Principal,Ciudad Principal,180,180.0,110.0,640,90.0,164.07355
+d7eb2bb8fa4764f52cd51763d4ab8ac7,Ciudad Principal,Ecoturismo,240,240.0,178.0,1472,125.0,236.82886
+d8553efdd0656b410b2651c51e308dfc,Ciudad Fronteriza,MX Amigos y Familia,180,149.0,90.0,1388,135.0,154.44373
+d8e4b2b55d43073e440f6128d0102b1f,MX Amigos y Familia,Ciudad Principal,186,181.0,111.0,102,90.0,171.70941
+d8f03386b8040fa63b5dd9dfa176ba75,MX Amigos y Familia,Ciudad Principal,186,184.0,135.0,102,90.0,182.99297
+d9239e0626309b4ecaf57d21acc0da1a,Ciudad Principal,Ciudad Principal,180,180.0,138.0,784,105.0,179.45818
+d940291613177a0f3b8911fe25ab8524,Ciudad Principal,Ciudad Principal,180,133.0,97.0,640,90.0,149.70825
+d94336caf73b825fec135c0234de62f5,Ciudad Principal,Ciudad Principal,186,186.0,122.0,273,90.0,175.77023
+d9b37c91fe558c652b776ecdb64cface,Ciudad Principal,Playa,186,186.0,84.0,3765,105.0,170.14487
+da0446b21b0c20cc0797dccec02daaf9,MX Amigos y Familia,Ciudad Fronteriza,186,157.0,97.0,222,230.0,154.71788
+daaadfce914bab56be1875be12a7dbb2,Ciudad Principal,Ciudad Principal,186,182.0,140.0,273,90.0,181.26671
+dab1db3f42f54ccf7e45ceabeae8e5ca,Ciudad Principal,Ciudad Principal,186,185.0,124.0,315,80.0,177.3643
+db7f1836277856a1ba9b6f7e1b7b2c98,Ciudad Principal,Ciudad Principal,186,186.0,119.0,640,90.0,174.68129
+dbd19202ad3bb8165540a0673b877e9c,Playa,Ciudad Principal,240,240.0,108.0,266,200.0,229.70865
+dc3c315985abdc08fbaf7895daa98cfb,Ciudad Principal,Playa,186,170.0,95.0,3765,105.0,178.31706
+dc58b755a7336ef738d0d9cea8f60a11,Playa,Ciudad Principal,186,186.0,119.0,673,195.0,183.75272
+dc5f53f8c775aa043c427653f17dc1e6,Ciudad Principal,Ciudad Principal,186,184.0,135.0,784,105.0,183.11066
+dc63e58ec5f9b295e83afa2bc7cc5f1c,Playa,Ciudad Principal,186,181.0,94.0,234,100.0,179.51813
+dd2ccc8b3eb1c8ae0fd0a68fe6f7f8a0,Ciudad Fronteriza,MX Amigos y Familia,186,172.0,102.0,1388,135.0,163.73367
+dd3609dbb2fe9815b2793b5b2abec020,MX Amigos y Familia,Ciudad Fronteriza,186,120.0,79.0,222,230.0,129.39465
+dd5b37fbd9b140b8a1ea3a42dae7e4ee,Ciudad Principal,Ciudad Fronteriza,180,169.0,116.0,3862,230.0,178.40625
+ddaab51f4fbad393af13e976658fa948,Ciudad Principal,Ecoturismo,240,240.0,157.0,1472,125.0,227.11273
+ddb7e24aa3833356b036663be3d58252,Ciudad Principal,MX Amigos y Familia,186,177.0,132.0,14,80.0,179.56194
+ddc27cc06a91329a555a4febc4d3305d,Playa,Ciudad Principal,186,186.0,123.0,673,195.0,185.30655
+dde4ae70bacbd048e99c4772016e3862,Ciudad Principal,Ciudad Fronteriza,186,183.0,105.0,1897,230.0,169.63252
+de4a05cced346678fdf68c1119f659f6,MX Amigos y Familia,Ciudad Fronteriza,186,139.0,92.0,222,230.0,151.2734
+dea193c5eb3993b90937f27cd83b93d6,Playa,Ciudad Fronteriza,186,137.0,71.0,842,220.0,128.04913
+dece23d8907c1730eed5b406797ad1a0,Ciudad Principal,Ciudad Principal,186,164.0,122.0,640,90.0,175.966
+deeb8add129c265cbc58bc6d0025ea7f,Playa,Ciudad Principal,186,186.0,136.0,673,195.0,188.41602
+df77b44c61a5f92cfb390f14cb6dcd9d,Ciudad Principal,Ciudad Fronteriza,186,155.0,90.0,3862,230.0,151.53818
+e008d812d15200146d84c39097a66398,Ciudad Principal,Ciudad Principal,180,180.0,129.0,784,105.0,177.91225
+e053dd5f39e57c732eb3b43bfabc98ac,Playa,Ciudad Fronteriza,186,123.0,70.0,842,220.0,122.89864
+e0753433ed13f0b38c7ce0750080ef61,Playa,Ciudad Principal,240,191.0,80.0,266,200.0,203.11208
+e08ccde5e0ecc813a50f22e2d73ee408,Ciudad Principal,Ciudad Fronteriza,186,184.0,106.0,3862,230.0,172.93188
+e0fa9f8e48fc39ba38ce2fe8c2f98fcb,MX Amigos y Familia,Ciudad Principal,180,153.0,110.0,102,90.0,163.74648
+e139aaf4ac4fd306e06cabf96d410c55,Playa,Ciudad Principal,180,179.0,74.0,234,100.0,167.88908
+e1de8271426d0cf42f7cf179eb425aef,Playa,Ciudad Principal,240,210.0,102.0,266,200.0,228.18248
+e2402ed0fb7a7cc9eab0836b9343fa4a,Ciudad Principal,Ecoturismo,220,212.0,165.0,1472,125.0,220.3387
+e26a83cc2faa9d0c27b1cbfd2b8d90ff,MX Amigos y Familia,Ciudad Fronteriza,186,114.0,73.0,222,230.0,124.90804
+e2f54a4f628b553445854ac7bf4cb160,Ciudad Principal,Ciudad Principal,180,161.0,115.0,273,90.0,163.84943
+e30a5cc1eb76a89f8f66fc5b85e8b5c1,Ciudad Fronteriza,Ciudad Principal,220,220.0,153.0,1508,170.0,222.62495
+e3481a78f22c9e3244c5534286a25bbb,MX Amigos y Familia,Ciudad Fronteriza,180,141.0,83.0,222,230.0,138.22937
+e34e52f43503e2fe156b16e99452675b,Ciudad Principal,Ciudad Principal,220,109.0,84.0,783,90.0,102.39142
+e3a0812d100f90a985318ec96ffd0e77,Playa,Ciudad Fronteriza,186,114.0,71.0,842,220.0,128.04913
+e3e91c327670da05564ea6dd95b5343b,Ciudad Principal,Ciudad Principal,220,217.0,147.0,783,90.0,205.70908
+e41b8de87dbaf8921c8c0134b501b314,Ciudad Principal,Ciudad Principal,186,186.0,142.0,640,90.0,186.35944
+e4a2c882c9e3f2d24ec710ceb227cb5b,Ciudad Principal,Ciudad Principal,186,182.0,126.0,315,80.0,180.95894
+e4c15a1daceffb6ed6887b6ecafa223d,Playa,Ciudad Principal,186,167.0,101.0,673,195.0,172.14261
+e4e18db010e8f4dea0635f018b3f7ee3,Ciudad Principal,Ciudad Principal,240,178.0,130.0,2773,90.0,184.56416
+e4ed701179f65ec3da9fccd226ec58c4,Ciudad Principal,Ciudad Fronteriza,186,181.0,112.0,1897,230.0,176.64035
+e4f94ee341ac9832cf4a7d5720982b9c,MX Amigos y Familia,Ciudad Fronteriza,186,161.0,85.0,222,230.0,139.2682
+e5f98980bf9743a6e3a55b9b53fbc821,Ciudad Principal,Ciudad Principal,240,214.0,154.0,256,105.0,226.2665
+e60f2af4b8f30bd6ea480d24a04aab3f,Playa,Ciudad Principal,240,240.0,152.0,234,100.0,235.81369
+e6a2d61c4b6573f0e216d8ea4155d4c0,Ciudad Principal,Ciudad Principal,186,186.0,132.0,784,105.0,182.6858
+e6b5baff10edddd48d72610a912c9ccf,Ciudad Principal,MX Amigos y Familia,186,131.0,103.0,14,80.0,148.24838
+e6b952d22ecdf808211f8c9595390d6a,Ciudad Fronteriza,Ciudad Principal,220,197.0,131.0,1508,170.0,207.48294
+e8a92c3dd12064247396c3d21e0ac6ac,MX Amigos y Familia,Ciudad Principal,186,183.0,134.0,102,90.0,182.99297
+e9ccbeb9d3b3b04a0818c86861b3825f,Ciudad Fronteriza,Ciudad Principal,240,240.0,151.0,1508,170.0,232.3634
+eaddc28978ac09d0916b960f2cdc8d43,Ciudad Principal,Ecoturismo,240,240.0,164.0,1472,125.0,228.91728
+eb24750bcc65b20c0fe913f7df69c996,Ciudad Principal,Ciudad Principal,240,216.0,176.0,2773,90.0,227.08199
+eb5d5ea735ade23184830dd4fc151ee2,MX Amigos y Familia,Ciudad Principal,186,186.0,107.0,102,90.0,162.36845
+ebd7d5c2703e0a65362ee30e805da3f7,MX Amigos y Familia,Ciudad Principal,186,186.0,114.0,102,90.0,172.2353
+ec2ab49a3dc3ea883eb2fe84519f7031,Ciudad Principal,Ciudad Fronteriza,186,161.0,93.0,3862,230.0,155.27
+ec7edb41a5eaf4454bd9d6ec9b24dcc1,MX Amigos y Familia,Ciudad Fronteriza,186,149.0,90.0,222,230.0,148.56592
+ecfabf033a9e7f179b7dd52baff4b6b6,Ciudad Principal,Ciudad Principal,186,164.0,104.0,315,80.0,158.7887
+ed011bf08398b60ebbb8016d62e2bcf7,Ciudad Principal,Ciudad Principal,186,186.0,130.0,784,105.0,182.59348
+ed62e793fa0a0114e389b40381abd03c,Ciudad Principal,Ciudad Principal,186,186.0,113.0,640,90.0,169.38579
+ed6ecb5c855e8ce6b4de4104ac723551,Ciudad Principal,Ciudad Principal,220,220.0,136.0,2773,90.0,198.40929
+edf46059b29cf83a952688c18dccf955,Playa,Ciudad Principal,220,220.0,84.0,266,200.0,198.24745
+ee30bf94c34d538ee3d14a205292cc36,Playa,Ciudad Principal,186,184.0,120.0,673,195.0,183.65297
+ee977114565128d7283a1b58f69d273b,Ciudad Principal,Ciudad Principal,240,240.0,188.0,2773,90.0,236.99796
+eee42c1ab74167479c353634275582fe,Ciudad Principal,Ciudad Principal,240,89.0,76.0,783,90.0,94.75372
+eee4c6d517f509b48680a43744e89cd9,Ciudad Fronteriza,MX Amigos y Familia,186,156.0,102.0,1388,135.0,163.73367
+ef05081ec0ca66198ab4901aca4755a3,Ciudad Principal,Ciudad Fronteriza,180,180.0,107.0,3862,230.0,172.0284
+ef63c5e8b28ba217a3b25b654500df5f,Ciudad Principal,Ciudad Fronteriza,186,177.0,109.0,1897,230.0,173.93509
+efe31a246d226668a90a07b7c6f321df,Ciudad Principal,Ciudad Principal,240,240.0,188.0,2773,90.0,236.99796
+f01378db4aa8d3b2fcf4fee01fd6df99,MX Amigos y Familia,Ciudad Principal,180,180.0,128.0,102,90.0,175.02492
+f02dd8474171b5445faeb799f4e4876b,Playa,Ciudad Principal,186,186.0,75.0,234,100.0,170.70093
+f08ae34aa8779fa97e0fcd0d6629d9d3,Ciudad Fronteriza,MX Amigos y Familia,186,169.0,94.0,1388,135.0,158.07045
+f0e0878799f78ba16f53d75592e799a7,Ciudad Fronteriza,MX Amigos y Familia,186,174.0,105.0,1388,135.0,171.21172
+f180745fee07229e5e72b6bc31a91201,Ciudad Principal,Ciudad Principal,220,220.0,176.0,256,105.0,222.38144
+f1cdbde01d845c885dcdff1e0a589039,Ciudad Principal,MX Amigos y Familia,186,146.0,107.0,14,80.0,153.65762
+f26d729968290be5b208c3f1d53b2b0b,Ciudad Principal,Ciudad Fronteriza,186,186.0,109.0,1897,230.0,173.93509
+f2e4b66a476b594e2209c4574d11d8af,Ciudad Fronteriza,MX Amigos y Familia,186,131.0,84.0,1388,1575.0,139.356
+f2e535d0b1d0700334d687121b7f1b2f,Ciudad Principal,Ciudad Principal,186,122.0,99.0,273,90.0,144.63702
+f3493e877fe94becc2d9ac5a471b23ff,Ciudad Principal,Ciudad Principal,220,180.0,161.0,2773,90.0,205.44183
+f35a16bb06b1fa2c0a7ddd8bf5d2e96a,Playa,Ciudad Principal,180,175.0,106.0,234,100.0,180.57507
+f3ac6c4e66981b39b2220cf0bbcfd3dd,Playa,Ciudad Fronteriza,186,124.0,77.0,842,220.0,139.11235
+f3d6ac620e82134efa66144716ee094f,MX Amigos y Familia,Ciudad Principal,186,176.0,126.0,102,90.0,180.40814
+f411343fb16d4836f64bece9b8ae020a,Ciudad Principal,Ciudad Fronteriza,186,170.0,101.0,1897,230.0,162.60199
+f42c0fc0098092fe91ac8378c74df46b,Ciudad Principal,Ecoturismo,220,167.0,114.0,1472,125.0,172.42584
+f43d9fa7235f4c93e8e9a025aef3a364,Ciudad Principal,MX Amigos y Familia,186,160.0,105.0,14,80.0,152.73338
+f45ed8ab112dbf4b17861e26d9610368,Ciudad Principal,Ciudad Principal,186,185.0,152.0,784,105.0,188.799
+f546c8646d723073945f1d808e4d27cb,Playa,Ciudad Principal,220,220.0,108.0,266,200.0,217.53236
+f5c4a11697a329639223ed07bc5a19b6,Ciudad Fronteriza,Ciudad Principal,240,237.0,173.0,1508,170.0,239.19353
+f5d20aa409c9b04e9489f52d911b567c,Ciudad Principal,Ciudad Fronteriza,186,157.0,105.0,1897,230.0,169.63252
+f699f4302152c17237c6bab75c3d78e3,Ciudad Principal,Ciudad Principal,180,180.0,134.0,783,90.0,178.42845
+f72a97e2ab68c7b78e86e16734700936,Ciudad Principal,Ecoturismo,240,240.0,162.0,1472,125.0,228.98709
+f78716a14893598dadce6ea88b519e8f,Playa,Ciudad Fronteriza,240,155.0,94.0,842,220.0,163.53754
+f7a9f46b42745c0117870336b954a767,MX Amigos y Familia,Ciudad Fronteriza,180,137.0,91.0,222,230.0,145.0795
+f7ab39498c0dc80697d6df73b789753b,Ciudad Principal,Ciudad Fronteriza,186,106.0,64.0,3862,230.0,112.83293
+f7ae08e0af2af93f34f816818740bf2f,Ciudad Principal,MX Amigos y Familia,186,75.0,48.0,14,80.0,71.24635
+f7b5ff1e906be93af17b90c11470d901,Ciudad Fronteriza,Ciudad Principal,220,220.0,158.0,1508,170.0,222.45601
+f7d3478ada33631ccd9f988d161c6ea1,Ciudad Principal,Playa,186,168.0,95.0,3765,105.0,178.31706
+f8b2fb42a9464a92870f8cbf16b0d0a8,Playa,Ciudad Fronteriza,186,128.0,60.0,842,220.0,110.15261
+f98ec1651d3aae86014f8e98fd7ea131,Ciudad Principal,Ciudad Fronteriza,180,144.0,105.0,1897,230.0,167.19493
+f9d2cfb39550c00fcce0520063187b03,Ciudad Principal,Ciudad Principal,186,94.0,57.0,273,90.0,82.28918
+fa2ed161092aee67a8c1488a17104d0e,Ciudad Fronteriza,Ciudad Principal,220,220.0,168.0,1508,170.0,224.42885
+facf9f468f1a85b592c14ee425bcefad,Playa,Ciudad Principal,180,180.0,98.0,234,100.0,177.25308
+fad8051625ce961391e8f3c64248af82,MX Amigos y Familia,Ciudad Principal,186,167.0,107.0,102,90.0,162.36845
+fd20f90812179183faa1e391cd51c85d,Playa,Ciudad Principal,186,176.0,121.0,673,195.0,183.95665
+fda995c24fee7386b7a3b9e3b15cb811,Ciudad Fronteriza,Ciudad Principal,240,240.0,170.0,1508,170.0,239.19353
+fe0db5f9a39fd99bea5ac804a511837f,Playa,Ciudad Principal,180,180.0,105.0,234,100.0,178.82805
+feb3a2506111ca2d150f27f2f256449a,Playa,Ciudad Fronteriza,186,126.0,76.0,842,220.0,136.88168
+ff06022f6d17cdb7dc2fd8c0bbda10c7,Ciudad Principal,Ciudad Principal,240,240.0,132.0,2773,90.0,198.33159
+ff3987c5135bb0b99545867062df784c,Playa,Ciudad Principal,220,199.0,77.0,266,200.0,194.02048
+ffd08cbf9699966ec96384b61b20232d,Ciudad Principal,Playa,186,166.0,80.0,3765,105.0,165.83575
