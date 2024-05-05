@@ -19,10 +19,10 @@
             <a href="./ventas.html"><i class="bx bxs-dashboard"></i>Dashboard</a>
           </li>
           <li>
-            <a href="https://colab.research.google.com/drive/138MxcVGjAjCdQghdheBRsJlTvk1z3M-O?usp=sharing"><i class="bx bxs-book-content"></i> Google Colab</a>
+            <a href="https://colab.research.google.com/drive/138MxcVGjAjCdQghdheBRsJlTvk1z3M-O?usp=sharing" target="_blank"> <i class="bx bxs-book-content"></i> Google Colab</a>
           </li>
           <li>
-            <a href="https://github.com/ferDMS/green-pandas-datathon"><i class="bx bx-video"></i>Github</a>
+            <a href="https://github.com/ferDMS/green-pandas-datathon" target="_blank"><i class="bx bx-video"></i>Github</a>
           </li>
           <li>
             <a href="#" class="dark-mode-link"><i class="bx bx-moon"></i>Dark / Light</a>
@@ -68,52 +68,77 @@
             <li><a href="./ventas.html">Modelo de Ventas</a></li>
           </ul>
         </div>
+<!--============= cards start ===============-->
+<ul class="cards">
+  <li>
+    <i class="bx bx-line-chart"></i>
+    <span class="info">
+      <form id="mes-form">
+        <p for="mes-id">Mes:</p>
+        <select id="mes-id" name="mes-id">
+          <option value="1">Enero</option>
+          <option value="2">Febrero</option>
+          <option value="3">Marzo</option>
+          <option value="4">Abril</option>
+          <option value="5">Mayo</option>
+          <option value="6">Junio</option>
+          <option value="7">Julio</option>
+          <option value="8">Agosto</option>
+          <option value="9">Septiembre</option>
+          <option value="10">Octubre</option>
+          <option value="11">Noviembre</option>
+          <option value="12">Diciembre</option>
+        </select>
+      </form>
+    </span>
+  </li>
 
+  <!-- Nuevas tarjetas -->
+  <li>
+    <i class="bx bx-line-chart"></i>
+    <span class="info">
+      <form id="despegue-form">
+        <p for="despegue-id">Despegue:</p>
+        <input type="text" id="despegue-id" name="despegue-id" style="width: 75px;">
+      </form>
+    </span>
+  </li>
+
+  <li>
+    <i class="bx bx-line-chart"></i>
+    <span class="info">
+      <form id="aterrizaje-form">
+        <p for="aterrizaje-id">Aterrizaje:</p>
+        <input type="text" id="aterrizaje-id" name="aterrizaje-id" style="width: 75px;">
+      </form>
+    </span>
+  </li>
+
+  <li>
+    <i class="bx bx-line-chart"></i>
+    <span class="info">
+      <form id="hora-partida-form">
+        <p for="hora-partida-id">Hora de Partida:</p>
+        <input type="text" id="hora-partida-id" name="hora-partida-id" style="width: 75px;">
+        <input type="submit" value="Submit">
+      </form>
+    </span>
+  </li>
+</ul>
         
      <!--============= graphs ===============-->
      <div class="graphBox">
         <div class="box">
-            <p>Modelo de predicción de pasajeros - Mes de Enero 2024</p>
+            <p>Modelo de Predicción de Pasajeros - Mes de Enero 2024</p>
             <form id="route-form">
-                <p>Route ID:</p>
+              <p>Route ID: <span id="route-id-value">0</span></p>
                 <input type="text" id="route-id" name="route-id">
                 <input type="submit" value="Submit">
             </form>
             <canvas id="chart"></canvas>
         </div>
     </div>
-        <!--============= cards start ===============-->
-        <ul class="cards">
-            <li>
-              <i class="bx bx-calendar"></i>
-              <span class="info">
-                <form id="mes-form">
-                  <p for="mes-id">Mes:</pl>
-                  <select id="mes-id" name="mes-id">
-                    <option value="1">Enero</option>
-                    <option value="2">Febrero</option>
-                    <option value="3">Marzo</option>
-                    <option value="4">Abril</option>
-                    <option value="5">Mayo</option>
-                    <option value="6">Junio</option>
-                    <option value="7">Julio</option>
-                    <option value="8">Agosto</option>
-                    <option value="9">Septiembre</option>
-                    <option value="10">Octubre</option>
-                    <option value="11">Noviembre</option>
-                    <option value="12">Diciembre</option>
-                  </select>
-                </form>
-       
-          <li>
-            <i class="bx bx-line-chart"></i>
-             <span class="info">
-                <h3 id="route-count">0</h3>
-                <p>Rutas adquiridas</p>
-            </span>
-        </li>
-
-
+        
      
         </div>
         <!--============= bottom Data Start ===============-->
