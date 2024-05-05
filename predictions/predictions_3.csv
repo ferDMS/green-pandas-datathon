@@ -1,604 +1,622 @@
-Flight_ID,Destination_Type,Origin_Type,Capacity,Passengers,Bookings,Route_ID,Duration,Passengers_Prediction
-005d4d93fa0425fdaf06fcadf4a5e329,Ciudad Fronteriza,MX Amigos y Familia,186,159.0,84.0,363,145.0,154.44997
-005efbc1dc541d9092e3f245bf82e79f,Ciudad Principal,MX Amigos y Familia,186,90.0,68.0,66,40.0,108.32196
-00d9f09710f3bfc7a350d7ff0a677377,Ciudad Principal,Ciudad Principal,186,180.0,137.0,315,80.0,182.40999
-0115b6bf0fb764377c8e91121409eb14,Ciudad Principal,Ciudad Principal,186,146.0,107.0,273,90.0,160.2145
-01940c082920ca0cb0abe1710cdd39ac,Ciudad Principal,Ciudad Principal,240,240.0,170.0,1171,90.0,233.00636
-01e67177dbaffceb5c08cce7be98e589,Playa,MX Amigos y Familia,186,186.0,129.0,523,170.0,186.56927
-01ea816c37f5e833309a0ff4ceeea07f,Ciudad Principal,Ciudad Principal,180,179.0,129.0,401,85.0,173.17735
-030fc9c65e073eb899f0f846cd72a474,Ciudad Fronteriza,MX Amigos y Familia,186,163.0,68.0,1388,135.0,158.6775
-0391a2e34aa9d27e214e68e5495bc267,Ciudad Principal,MX Amigos y Familia,186,107.0,81.0,14,80.0,119.62955
-03a5dc646906ec7d043a32bdeb0f838f,Playa,Ciudad Principal,186,186.0,103.0,753,80.0,178.27318
-03b66068d4d59d8ce558c9fbb3d0f784,Ciudad Principal,Ciudad Principal,186,186.0,119.0,1767,90.0,171.01556
-03cccccf08b90385d5e372156905ff24,Ciudad Principal,MX Amigos y Familia,240,161.0,129.0,590,70.0,163.68442
-04359982c99e209e1eede3fd168e3f1f,Ciudad Principal,Ciudad Principal,186,175.0,115.0,273,90.0,169.22139
-04acfcd55124aa83195d839b68af48c9,MX Amigos y Familia,Ciudad Fronteriza,186,124.0,89.0,222,230.0,150.51945
-06bbcf9232b2d4ed434637b86a6f2266,Ciudad Principal,MX Amigos y Familia,220,206.0,166.0,590,70.0,209.95715
-077a58c772f6da66b849dd5bce70c302,Ciudad Principal,Playa,186,177.0,133.0,3188,55.0,181.06552
-078b6b898c856a7cad4ae293d8cffa18,Ciudad Fronteriza,MX Amigos y Familia,186,186.0,113.0,1388,135.0,183.70648
-07cb2c722c1a1bcdced0f7c11ad6cdd1,Playa,Ciudad Principal,186,147.0,71.0,753,80.0,150.49634
-08701ff1c97be1d543d931d51ee37fa6,Ciudad Fronteriza,MX Amigos y Familia,186,146.0,88.0,363,145.0,156.8887
-0931e5f672eebd99ee241948d25db455,Playa,Ciudad Principal,186,186.0,118.0,768,55.0,180.10355
-0942b64d7bc63d44436ad3b6b755af3d,Ciudad Principal,Ciudad Principal,240,175.0,123.0,783,90.0,184.10973
-0996429b01207cbbbff9265503322cdd,Playa,MX Amigos y Familia,186,171.0,89.0,523,170.0,159.50375
-09983b45d9e8bccecdf2af971c38fcb0,Ciudad Principal,Playa,186,116.0,86.0,3188,55.0,130.78592
-0a358f516bb354e1fa21e6e34c7b25f5,Ciudad Principal,MX Amigos y Familia,186,183.0,128.0,2632,95.0,182.68808
-0adaf0a53ef8e4cca51d9152240ef4dd,Playa,Ciudad Principal,180,174.0,85.0,753,80.0,166.32181
-0afe56f10f4ae723ca22241217d75663,Ciudad Fronteriza,MX Amigos y Familia,186,175.0,94.0,1388,135.0,165.93614
-0b4fdfd403e7796eb961833629bdc6b4,Playa,Ciudad Principal,186,186.0,109.0,768,55.0,176.7389
-0b5ae656c4dc2fa650905844a03c78ad,MX Amigos y Familia,Ciudad Fronteriza,186,135.0,71.0,222,230.0,128.75548
-0bf73eb6f8da73f4e40af649331348a7,MX Amigos y Familia,Ciudad Principal,240,159.0,119.0,1610,65.0,147.66435
-0c60ce752b4e2c2705412774ff79b0d8,Ciudad Principal,MX Amigos y Familia,186,144.0,108.0,14,80.0,158.14267
-0ce92fad873180265eaf20a319b52d34,Ciudad Principal,Ciudad Principal,240,66.0,45.0,783,90.0,68.5785
-0d000688ab70e35f9e74e1cea6e26b6d,Ciudad Principal,Ciudad Principal,240,240.0,156.0,1767,90.0,219.76488
-0d4204ac030df71db470c37be3811d6b,MX Amigos y Familia,Ciudad Principal,220,169.0,117.0,1627,90.0,161.29555
-0dcc6327b9c214d5c34c305850703735,Playa,Ciudad Principal,186,186.0,111.0,768,55.0,175.50768
-0deed44ceadb7124cc512a7e44a84c36,Ciudad Principal,Ciudad Principal,240,160.0,118.0,1171,90.0,176.85234
-0e5fb5a77f4c7ba839290091ef352c51,Ciudad Principal,Ciudad Principal,186,155.0,121.0,273,90.0,169.75774
-0e75e0139cf911fb0d991dc97d0da704,Ciudad Fronteriza,MX Amigos y Familia,186,156.0,87.0,277,85.0,155.20598
-0e8f1e0fbcde264a95643af1d2ef3dce,Ciudad Principal,MX Amigos y Familia,186,182.0,118.0,14,80.0,169.88086
-0ef5c6aaa99c06ab75a459f9a3fe545e,MX Amigos y Familia,Ciudad Principal,236,169.0,135.0,1610,65.0,176.77089
-10b605994c6b599259318de70d27f6d8,Ciudad Principal,Playa,220,198.0,107.0,4619,100.0,198.38286
-110375b561c218e3460f4e2a849a0dd8,Playa,Ciudad Principal,186,170.0,98.0,753,80.0,175.4166
-12150d812d1ae6f2d93033e8ea95e83e,Playa,Ciudad Principal,186,173.0,104.0,768,55.0,166.4022
-12d76c49d3c13f69b95d57b904656f1e,Playa,Ciudad Principal,186,167.0,82.0,753,80.0,169.55229
-12e0e10d166b57a54429269cd394ca30,Ciudad Principal,Ecoturismo,240,240.0,177.0,392,125.0,239.92493
-1310bad8c046521da840efcd34b3ca32,Ciudad Fronteriza,MX Amigos y Familia,186,172.0,96.0,1388,135.0,168.93419
-1461ca79766ad1c687f3b1140298ba61,Playa,Ciudad Principal,180,154.0,73.0,753,80.0,145.34029
-148988b17b957b5d83a37b60d38e45ae,Ciudad Principal,MX Amigos y Familia,186,144.0,56.0,66,40.0,121.67027
-14a316031ef81190e22909329515b4c3,Ciudad Principal,Playa,186,172.0,99.0,3188,55.0,157.22107
-1504940b75d2a83cfb3996b11a1bec21,Ciudad Fronteriza,MX Amigos y Familia,186,153.0,85.0,1388,135.0,154.98195
-150f3f10fa73e8060389c1b431f395de,Ciudad Principal,MX Amigos y Familia,186,179.0,119.0,367,100.0,173.47476
-15efc2f8ead53138a143fa6fd72d80a7,Ciudad Principal,Playa,186,105.0,69.0,3188,55.0,108.41291
-1627d4a56022b5f29b3eb309e94f86bb,Ciudad Principal,MX Amigos y Familia,240,240.0,191.0,590,70.0,231.39978
-16b6438c9efab1f06ccb385b0d935dea,Ciudad Principal,Ciudad Principal,186,149.0,100.0,273,90.0,154.92163
-16b9e7729ae8cdaee8d4040efa18a4a4,Ciudad Principal,MX Amigos y Familia,186,167.0,110.0,367,100.0,165.21684
-1723395238d7f44a7b3d324613bcb1cc,Ciudad Fronteriza,MX Amigos y Familia,180,113.0,58.0,664,75.0,110.30777
-176602ff1f602f1350aefe0b551cc9c4,Ciudad Principal,Ciudad Principal,186,185.0,143.0,401,85.0,181.02048
-1834b9758770da2d5c042a10e51ec945,Playa,MX Amigos y Familia,186,186.0,124.0,523,170.0,184.47137
-18606fe92d351737745d96cc2553671c,Ciudad Principal,Ecoturismo,240,240.0,190.0,392,125.0,241.95247
-196c10dc076c5a8344dcc20ecc883663,Ciudad Principal,Ciudad Principal,186,107.0,78.0,273,90.0,118.02362
-1984de1f561877c474541a70b5571a43,Playa,Ciudad Principal,186,155.0,74.0,753,80.0,154.78934
-19a309a5f9ba41b44a6ed706059dbbb3,Ciudad Principal,MX Amigos y Familia,186,86.0,60.0,14,80.0,90.23567
-19f1a70edab2e8348fea365566615fbf,Ciudad Principal,Ciudad Principal,240,198.0,139.0,1767,90.0,202.32735
-19fb26e4794095c6f1bf4e8f67995c02,MX Amigos y Familia,Ciudad Fronteriza,240,88.0,55.0,242,180.0,91.30214
-1a0959208d42310d0914183e8e4fb8f2,Playa,Ciudad Principal,240,178.0,119.0,768,55.0,188.01982
-1a3009eeea74a83559f39ef6f555b4d1,Ciudad Principal,Ciudad Principal,186,186.0,127.0,315,80.0,178.51245
-1aa785904076cb494a45e8283cf976ee,Ciudad Principal,Ciudad Principal,220,211.0,164.0,783,90.0,215.274
-1b2ca62e634381833cc48a10c36fc155,Ciudad Principal,Ciudad Principal,240,112.0,87.0,1171,90.0,131.70158
-1c1e9a2a81ad6f58b80f39f75f42e58c,MX Amigos y Familia,Ciudad Fronteriza,186,147.0,92.0,2462,290.0,151.90787
-1c55abf2d89cad241431c019abe7f2d8,Ciudad Principal,Ciudad Principal,180,151.0,106.0,401,85.0,154.45686
-1c5743f9353fd5946f2e9b2cca1339d7,MX Amigos y Familia,Ciudad Fronteriza,186,156.0,88.0,222,230.0,153.24583
-1c86527fa04fe3a33d1a12ce20a71d45,MX Amigos y Familia,Ciudad Fronteriza,180,149.0,81.0,222,230.0,142.72127
-1ca50d911e7950c66558b465d19de62e,Playa,Ciudad Principal,186,181.0,70.0,753,80.0,168.98477
-1d43a78c83497d228f039beae8d6f0d3,Playa,Ciudad Principal,186,153.0,78.0,753,80.0,160.55922
-1d5264e02cc6e0cb71d925e4284426cb,Playa,Ciudad Principal,180,157.0,86.0,753,80.0,161.62993
-1e0d1c4d5bb5561e9138298e287117ce,Ciudad Principal,MX Amigos y Familia,186,186.0,143.0,14,80.0,182.41754
-1e1545d17ba6a258b0abd9cdd2614638,Ciudad Principal,Playa,186,121.0,74.0,3188,55.0,113.77221
-1e749391ec2b12afe7da3d364d870ae9,Ciudad Principal,MX Amigos y Familia,220,121.0,92.0,590,70.0,118.67979
-1f97df1356e018dfd98886bea4085d65,Ciudad Principal,Playa,186,167.0,100.0,3188,55.0,157.22107
-1ffabb2dd25e711c36bdb9df674fa544,Ciudad Principal,Ciudad Principal,240,223.0,158.0,1767,90.0,224.25069
-212fc44d25e49084cfb11e9a8c4c798f,MX Amigos y Familia,Ciudad Principal,186,103.0,71.0,1627,90.0,101.53064
-2178cce8b984db064950bb2b999786a5,Ciudad Principal,Ciudad Principal,240,215.0,147.0,1171,90.0,213.8353
-21a05ed6b47a7f56c586e6672a4c6b17,Ciudad Principal,Playa,186,143.0,105.0,3188,55.0,160.92215
-21b09f4cca9d5886647e35c368dbd5b8,Ciudad Fronteriza,MX Amigos y Familia,186,175.0,82.0,363,145.0,153.73842
-22681c7a364c28b938ab681d61a7ef6d,Ciudad Principal,Ciudad Principal,186,165.0,97.0,401,85.0,143.79173
-227c8dea55a305bde194e27703f367ad,Ciudad Principal,MX Amigos y Familia,240,91.0,72.0,590,70.0,88.95923
-23552d3cc26f956f07d6a9b63f196fd7,MX Amigos y Familia,Ciudad Fronteriza,220,65.0,51.0,242,180.0,68.87393
-23aa29d23641d18de486b329ecf4b136,Ciudad Principal,Ecoturismo,240,240.0,176.0,392,125.0,239.92493
-23af39e1b1d634652e358d78218621b1,Ciudad Principal,Playa,186,143.0,89.0,3188,55.0,142.18697
-2417047ae9595f74172715fdc7f3f164,Ciudad Principal,Ecoturismo,240,240.0,173.0,392,125.0,239.71133
-241a2259ffc1f7101062b9ad6772f03c,Ciudad Principal,MX Amigos y Familia,186,173.0,141.0,590,70.0,167.20522
-2450364e11ef233569c02759bc737775,Playa,MX Amigos y Familia,186,171.0,105.0,523,170.0,170.94325
-248afe082e4f5230d71cd0b6dad794ca,Ciudad Principal,MX Amigos y Familia,180,157.0,91.0,66,40.0,146.41411
-24ebcf8c6e8cd8b1963deee0b64e0670,Ciudad Principal,Ciudad Principal,220,40.0,31.0,783,90.0,43.503685
-2548c62946f7449858c97e9d979a18a2,Ciudad Principal,Ciudad Principal,186,184.0,144.0,315,80.0,183.90424
-25ff646bc348d6ed503bd9c721dc66cb,Playa,MX Amigos y Familia,186,184.0,114.0,523,170.0,179.53343
-26310a4694a50064131bab73ed64a5c1,MX Amigos y Familia,Ciudad Principal,240,213.0,168.0,1610,65.0,221.23811
-263480aa59881a1e031a4fe9e9517885,Ciudad Principal,Ciudad Principal,186,167.0,117.0,273,90.0,169.32248
-26807fc290d7ae4712121f6902337d63,Ciudad Principal,MX Amigos y Familia,186,172.0,98.0,66,40.0,151.34299
-2693a750f4a3fc0614d52249b53fd35e,MX Amigos y Familia,Ciudad Fronteriza,186,145.0,89.0,2462,290.0,146.52713
-26f678a49d7017d356abb76b55c2b4da,MX Amigos y Familia,Ciudad Fronteriza,186,186.0,103.0,222,230.0,174.97694
-27fc64668e00edd03e3b9c1969881af2,Ciudad Fronteriza,MX Amigos y Familia,186,158.0,91.0,1388,135.0,162.32797
-286c18062a71f52b7c854b3b22db6bb2,MX Amigos y Familia,Ciudad Principal,240,134.0,116.0,1610,65.0,144.31569
-28b7cd49af689edd91842e14a4957274,Ciudad Principal,Ciudad Principal,186,186.0,126.0,273,90.0,174.36238
-28f170940014a04c9ab6995447143ba0,MX Amigos y Familia,Ciudad Fronteriza,186,145.0,71.0,222,230.0,128.75548
-294647ea7aec43d42d5628333d429b5a,Ciudad Principal,MX Amigos y Familia,186,152.0,104.0,66,40.0,153.96103
-2a09404ca3584712f9f6419a767c801c,Ciudad Principal,Ciudad Principal,240,182.0,131.0,1171,90.0,194.39876
-2a6c464c7e2adcaba628204eea2a2eae,Ciudad Principal,Ciudad Principal,186,140.0,101.0,401,85.0,150.26112
-2b7ae21eb0a1580393212a63ea114aca,Playa,Ciudad Principal,186,157.0,119.0,768,55.0,171.61427
-2b7b3d8554faa4c22fd6e5e33b1551ba,Ciudad Principal,MX Amigos y Familia,186,186.0,115.0,2632,95.0,176.87932
-2d9674423e7a450d700d703ddffa50ea,Ciudad Principal,Ciudad Principal,186,186.0,123.0,401,85.0,175.18584
-2da66c0fa26a600d6c585b725ca7b518,Ciudad Principal,Ciudad Principal,220,193.0,124.0,1767,90.0,187.26428
-2ece134f8cd47d602b0a76ad7481d5f5,Ciudad Principal,Ciudad Principal,240,65.0,38.0,783,90.0,54.8343
-2fec9f3d9557a53586617680f79b9de7,Playa,Ciudad Principal,180,169.0,89.0,753,80.0,159.95218
-2ffe3d3f1b3172db782691256a7b3dcd,Ciudad Principal,Ciudad Principal,220,216.0,141.0,783,90.0,207.68602
-302819011c2ad1782dccd21f5cd3f9dc,Playa,MX Amigos y Familia,186,166.0,105.0,523,170.0,170.94325
-304926e63d7b79783d4439805cb33a2e,Ciudad Principal,Ciudad Principal,186,157.0,91.0,273,90.0,142.6919
-3069147262f62392a911d7ff6672b61e,MX Amigos y Familia,Ciudad Principal,186,183.0,130.0,6464,115.0,182.60689
-307104b823f609eeee1791265c498d72,Ciudad Principal,Ecoturismo,240,240.0,164.0,392,125.0,237.05777
-307bbeccf9ecc33cd5acd663a4109717,Ciudad Principal,MX Amigos y Familia,186,152.0,109.0,66,40.0,160.9956
-3104cc6d391618857e4ce25d9f50d856,Ciudad Principal,Ciudad Principal,186,172.0,139.0,273,90.0,178.15115
-31355e1dc5f8888da0a49a8b63095d49,Playa,MX Amigos y Familia,186,172.0,118.0,523,170.0,181.3733
-31414366d7df5ef2001366d868263527,Ciudad Principal,Ciudad Principal,186,150.0,94.0,273,90.0,146.671
-324fc989b788c529d64327e4e08d2f75,Ciudad Principal,Ciudad Principal,186,158.0,110.0,401,85.0,160.46542
-327628df9d6824b08774db34a18738d6,Ciudad Principal,Ciudad Principal,186,170.0,134.0,401,85.0,178.0765
-329f49b180c036c2385ad16ebbbf7504,MX Amigos y Familia,Ciudad Fronteriza,186,173.0,102.0,222,230.0,174.83443
-335159b5006bbceafec157a1f0789da8,Playa,Ciudad Principal,186,186.0,83.0,753,80.0,172.8195
-33a4a35785623b0939ec6f6230173b9e,MX Amigos y Familia,Ciudad Principal,240,146.0,93.0,1627,90.0,132.66753
-33a8c4bef26c53bed70f32aacd9b436c,Playa,Ciudad Principal,186,179.0,92.0,753,80.0,174.86163
-33c99cea7edd115454d3bb571a2d1fe8,Ciudad Principal,Ciudad Principal,186,186.0,141.0,315,80.0,183.8772
-345376d7ba4c26015cfc609b1dc304ca,Ciudad Principal,Ciudad Principal,180,180.0,126.0,1275,95.0,177.45435
-351c32a9e35bdd2f02fbe83ff525ab0e,Ciudad Principal,Ecoturismo,240,240.0,192.0,392,125.0,242.23334
-3546c7df6f1eae84ed7f26fdbc0d4cd1,Ciudad Principal,MX Amigos y Familia,180,165.0,97.0,367,100.0,153.97697
-35812868021727df44c69e420a9f36f9,Playa,Ciudad Principal,180,156.0,77.0,753,80.0,152.04228
-359c342abf8e43594bdf919d1bb45238,Ciudad Principal,MX Amigos y Familia,186,149.0,126.0,590,70.0,153.49007
-35bd6a0c8e9e26bae6836b5bd8b6b06b,Ciudad Principal,MX Amigos y Familia,240,190.0,154.0,590,70.0,198.45024
-3622c36638a60432c230153ae87efe6d,Ciudad Principal,MX Amigos y Familia,180,147.0,100.0,66,40.0,149.23878
-36772929b3a14c119ea59fa53cbf4c59,Ciudad Principal,Playa,220,220.0,96.0,4619,100.0,217.79535
-36c89a5ce5b88be7e10990eb2a6c371a,Ciudad Principal,Ciudad Principal,240,140.0,112.0,1171,90.0,170.68396
-36dbf9a3a89801905f9ec431ee9f80f9,Playa,MX Amigos y Familia,186,186.0,118.0,523,170.0,181.3733
-36eb2be29a97757545a981070b4231b0,Ciudad Principal,Ciudad Principal,240,184.0,133.0,1767,90.0,195.8731
-37992fbeafe15ffc0914727bf2333a56,Ciudad Principal,Ciudad Principal,220,43.0,23.0,783,90.0,41.252773
-3963ca6a28fce6e1255dbe26c9dad474,Ciudad Fronteriza,MX Amigos y Familia,186,165.0,85.0,1388,135.0,154.98195
-39e1fe5dd67babd6cb011d0d8b48770e,Ciudad Principal,Ciudad Principal,186,176.0,124.0,783,90.0,176.02313
-39e8665323fe6c190cdbb461aaab11d5,Ciudad Principal,MX Amigos y Familia,186,181.0,111.0,14,80.0,161.82816
-39faa76eb4de9b6fda3a64c372fa753a,Playa,MX Amigos y Familia,186,159.0,106.0,523,170.0,171.67152
-3a7515aae4ef960bf4a30468c2ccd627,Ciudad Principal,Ciudad Principal,186,171.0,126.0,1767,90.0,175.85147
-3bc71f93fc6930cc895a02b43e43b119,Ciudad Principal,Playa,186,170.0,96.0,3188,55.0,153.4339
-3c80d4419c327396afa50004c6a728e0,Playa,Ciudad Principal,186,164.0,90.0,768,55.0,147.16914
-3d5101a93f28dd5288927a58dab12d1c,MX Amigos y Familia,Ciudad Fronteriza,186,126.0,77.0,2462,290.0,131.80142
-3d857f85cc90bb0b5d66be44ca2a77f8,Ciudad Principal,Playa,240,167.0,96.0,3188,55.0,154.92508
-3e6b7493ebf4b3107eadb0e90c7fe49e,Playa,MX Amigos y Familia,186,186.0,118.0,523,170.0,181.3733
-3ef4f8db66d05b7ee6f6aae681c56f00,Ciudad Principal,Ciudad Principal,180,180.0,131.0,783,90.0,176.75078
-3f8237ab1d88fadfa9eb04362a2ebfd9,MX Amigos y Familia,Ciudad Principal,186,178.0,136.0,1610,65.0,173.26895
-403b7bb830666a23a78abc39a2b3635b,Ciudad Principal,Ciudad Principal,180,175.0,139.0,315,80.0,177.73605
-4088e0d905e02c91f7ce8937c686261d,Ciudad Principal,Playa,240,136.0,80.0,1426,145.0,144.68636
-40c81fd5c3b66dcc06c7bfac23d72fdf,Ciudad Principal,Ciudad Principal,240,215.0,146.0,1767,90.0,211.6054
-419ae6d111348e9f40b15c6fa3f83d25,Ciudad Principal,MX Amigos y Familia,186,133.0,79.0,14,80.0,116.156815
-41c03042aa154940a8e0f5df25edeccf,Ciudad Principal,MX Amigos y Familia,180,104.0,84.0,367,100.0,131.78432
-43016b87252f6691235795e6cacadc00,Ciudad Principal,MX Amigos y Familia,186,186.0,132.0,7060,120.0,184.12193
-4425c56dfa6490fcf38c7c41fe24c8d5,Ciudad Principal,Ciudad Principal,240,198.0,111.0,1767,90.0,173.42476
-4442a1ca9480a3f6d7e12d739bbd272c,MX Amigos y Familia,Ciudad Fronteriza,180,140.0,78.0,222,230.0,137.50148
-445da712acc8cf38cacfce4fe56dfda7,Playa,MX Amigos y Familia,186,186.0,119.0,523,170.0,181.3733
-446ffad3969352d907aaff303b90853b,MX Amigos y Familia,Ciudad Principal,240,240.0,182.0,1610,65.0,236.5089
-44bc8778ea0edb3373d0a3c2263a58a7,Ciudad Principal,Ciudad Principal,240,224.0,163.0,783,90.0,228.82289
-44bf5dbab515c9f75cb65a46a5b36331,Ciudad Principal,Ciudad Principal,186,186.0,141.0,315,80.0,183.8772
-460b98b05f4dab4af530ef0d88650380,Playa,MX Amigos y Familia,186,170.0,119.0,523,170.0,181.3733
-463c014cdf1efd1a6549b1f1835e51c0,MX Amigos y Familia,Ciudad Fronteriza,186,167.0,88.0,222,230.0,153.24583
-468f0f815748cf8dca990254c7e0e166,MX Amigos y Familia,Ciudad Fronteriza,220,109.0,73.0,242,180.0,116.43653
-46e7fe3a0ca231405d9ebd1b0dde52bf,MX Amigos y Familia,Ciudad Fronteriza,236,66.0,43.0,242,180.0,63.64504
-471fc03a602c058aee948c4b832f16c0,Ciudad Principal,Ciudad Principal,180,174.0,121.0,1767,90.0,172.63646
-4990d3baf5b1680303b0ec4f6a12efba,Ciudad Principal,Ciudad Principal,240,156.0,102.0,1767,90.0,154.41754
-4997a559b8e55b4a09f4d2dfc174b4ba,Ciudad Principal,MX Amigos y Familia,186,112.0,77.0,367,100.0,127.489784
-4a0c8a8b1898485e3631bf5d7ac8e253,Ciudad Principal,Ecoturismo,220,220.0,173.0,392,125.0,224.38263
-4a6a0688e024de81427fa0833a31b2cc,Ciudad Principal,Ecoturismo,236,236.0,166.0,392,125.0,236.35306
-4a9fdc68aeb1b399cb6ca314d4a4f404,MX Amigos y Familia,Ciudad Fronteriza,180,134.0,84.0,2462,290.0,140.41672
-4b50ec79aaf36a29606cfe6f1f2fcfc4,MX Amigos y Familia,Ciudad Principal,240,178.0,116.0,1627,90.0,161.1596
-4c22bc55358c01037bef25e0d2bdb009,Ciudad Principal,Ciudad Principal,240,240.0,153.0,783,90.0,223.17056
-4e0ba92d506562ad12c7f5efd02d579b,MX Amigos y Familia,Ciudad Principal,220,215.0,169.0,1610,65.0,214.39104
-4e3c576c49551345bcf8aac128a9ce6a,Ciudad Principal,MX Amigos y Familia,180,180.0,125.0,2632,95.0,177.73405
-4e42c53dc038253fa98a2285375183b2,Ciudad Principal,Ciudad Principal,220,186.0,109.0,1275,95.0,176.70895
-4e6cc303e09d579b726c355e01361d0e,Ciudad Fronteriza,MX Amigos y Familia,180,178.0,108.0,1388,135.0,178.16951
-4ebba3cc6933080d80af6fdfd59d8133,Ciudad Principal,MX Amigos y Familia,186,186.0,140.0,7060,120.0,187.49632
-4f3445c41bb917858482268c535a6d02,Playa,Ciudad Principal,186,157.0,92.0,768,55.0,154.30176
-4f6004f539ad838fdb5d9f3ffee06be0,MX Amigos y Familia,Ciudad Fronteriza,220,190.0,117.0,242,180.0,187.47466
-500f49a8eb1378465110ba6e882b6d93,Ciudad Fronteriza,MX Amigos y Familia,186,182.0,49.0,277,85.0,171.61884
-50254759818974be2eb8dc89bc9be14e,MX Amigos y Familia,Ciudad Fronteriza,186,181.0,93.0,222,230.0,167.4461
-5033a1aa36c1ca962a20edf579ccd9df,Ciudad Principal,Ciudad Principal,240,191.0,128.0,1171,90.0,193.61127
-5245242e0788af748a9b64f3cd5050c0,Ciudad Principal,Ciudad Principal,186,181.0,125.0,401,85.0,177.26138
-526f832cf56e5d90276866c8f53ccd80,Ciudad Principal,MX Amigos y Familia,180,116.0,88.0,14,80.0,125.81564
-52f0b5f996dedaf25127827c7750878a,Playa,Ciudad Principal,186,154.0,86.0,768,55.0,136.8034
-532fa5635678d6838bd3520a69fe50e8,MX Amigos y Familia,Ciudad Fronteriza,186,88.0,52.0,242,180.0,74.90541
-5351564ea129c99df77d7a57a15c01f3,Ciudad Fronteriza,MX Amigos y Familia,186,163.0,102.0,363,145.0,172.25798
-538e2552b738ff124a71d07f25b13b9c,Ciudad Principal,Ciudad Principal,220,178.0,130.0,1171,90.0,192.99791
-53fab14bd20db00d03fcaaa012b84bb1,MX Amigos y Familia,Ciudad Fronteriza,186,135.0,81.0,222,230.0,143.55919
-54c61b2d4ecfc38fe87c0397b48b11bd,Playa,Ciudad Principal,186,164.0,76.0,753,80.0,160.55922
-558148fbea0ed000c4250c592b1b4f0f,MX Amigos y Familia,Ciudad Principal,240,240.0,173.0,1610,65.0,234.3413
-56695e664c3daf7940318c67d9923c11,Ciudad Principal,Ciudad Principal,186,169.0,148.0,401,85.0,181.43495
-56c20bea53bf94018ee5df571324357a,Ciudad Principal,MX Amigos y Familia,186,113.0,87.0,66,40.0,161.36685
-57406fbd963df2ca3b30cdcf92c3f8f5,MX Amigos y Familia,Ciudad Fronteriza,186,118.0,77.0,222,230.0,138.3394
-5769781175838c1516f48275f7377e97,MX Amigos y Familia,Ciudad Principal,220,139.0,115.0,1610,65.0,142.23935
-5789c4419f0d6d29dea5710056c93da7,Ciudad Principal,Ciudad Principal,186,160.0,125.0,401,85.0,177.26138
-57b08b476afbbf09f749263c1b6ab70a,MX Amigos y Familia,Ciudad Principal,186,141.0,89.0,1627,90.0,130.40842
-581ab61b41a4c94b2cd81187c129d625,MX Amigos y Familia,Ciudad Fronteriza,186,166.0,104.0,222,230.0,171.0971
-584d71522a395b1f0ccd2733f0e8dfbb,Ciudad Principal,MX Amigos y Familia,186,186.0,129.0,7060,120.0,183.10907
-58a8e6c75df266d1ad7a8715419a6344,MX Amigos y Familia,Ciudad Principal,186,121.0,87.0,1627,90.0,126.01794
-5923527ff7124fb026fa118aadb97f42,Ciudad Principal,Ciudad Principal,186,166.0,130.0,401,85.0,176.32648
-59a236d617a48bfd3bd1b278448ddd69,Ciudad Principal,Ciudad Principal,186,157.0,117.0,783,90.0,167.746
-5a05ac1d3e86961bdbbbcb350bb9a7e5,MX Amigos y Familia,Ciudad Fronteriza,186,182.0,95.0,222,230.0,167.5339
-5a086d653e0ae58ae597414d966ccb19,Playa,MX Amigos y Familia,240,140.0,108.0,2309,55.0,166.95616
-5a420979a70d3070cdd94e48d7643f54,Ciudad Principal,Ciudad Principal,186,185.0,99.0,273,90.0,157.6287
-5aa258b8b1638b3ab36fcc67c08ad5ac,Ciudad Principal,MX Amigos y Familia,220,181.0,143.0,590,70.0,180.74121
-5abcaf5ab26eb42e1311a2787fbfe5ea,Playa,MX Amigos y Familia,186,165.0,102.0,523,170.0,166.08798
-5b3d1d32329e557e32525fd44cb70964,Playa,MX Amigos y Familia,186,150.0,80.0,523,170.0,150.02318
-5c2d6a356bdec7fa2b506431bfc197d6,Ciudad Principal,Ciudad Principal,220,202.0,132.0,1171,90.0,192.99791
-5c95524812ff35732c37a3c490a2b728,Ciudad Principal,Ciudad Principal,236,146.0,108.0,1171,90.0,164.97473
-5cda1af1671d12d7d429be1e73c0cd8f,Ciudad Principal,MX Amigos y Familia,180,180.0,106.0,367,100.0,160.2553
-5d07fbdeb6c9d3f64eb0d6be8a4cfbfa,Ciudad Principal,Ecoturismo,240,240.0,180.0,392,125.0,241.0218
-5d0ae4d54ff84ce948fe9d03dfb766b7,Playa,Ciudad Principal,186,133.0,84.0,768,55.0,135.92308
-5dc6fe7635b6a95e1c3a6e58643e0009,Ciudad Principal,Ciudad Principal,240,222.0,156.0,1171,90.0,221.85014
-5dedafbfe46e7f6a39767a42374b9184,Ciudad Principal,Ciudad Principal,240,190.0,135.0,1767,90.0,197.48741
-5e8d23b67e63cb35dc1857c43ac7c2d6,Playa,Ciudad Principal,240,167.0,83.0,753,80.0,172.0285
-5e8f03570eb01399ff457730f5dae393,Ciudad Fronteriza,MX Amigos y Familia,186,162.0,94.0,1388,135.0,165.93614
-5ea4a103bdb8ab0fbe0a79121c54ab9a,Playa,MX Amigos y Familia,240,201.0,142.0,2309,55.0,209.30849
-5f5288cce050d0a641ba4d7267051dc0,Ciudad Principal,MX Amigos y Familia,186,139.0,100.0,66,40.0,150.17683
-6015e44942f8a1fc68cb850adba2c7f7,Ciudad Principal,Playa,186,164.0,101.0,3188,55.0,157.22107
-612fb4b4d3ae680e9225ae4d57c194e1,MX Amigos y Familia,Ciudad Principal,240,240.0,145.0,1627,90.0,203.79773
-614658d1183b6c7665f7f1d1646a499a,Ciudad Principal,Ciudad Principal,186,186.0,130.0,1275,95.0,182.72981
-61d519ca4a8a0b7f1a7cb39af3308a07,Ciudad Principal,Ciudad Principal,240,236.0,161.0,1171,90.0,228.06433
-625f83391d5881e550f9e14e39d45bba,Ciudad Principal,Ciudad Principal,240,237.0,146.0,1767,90.0,211.6054
-632e5557d51cd9e8e2f4beef10158f4f,MX Amigos y Familia,Ciudad Fronteriza,186,148.0,81.0,2462,290.0,138.67068
-637cc3b515b79cf0b9e0b7b352722710,Playa,MX Amigos y Familia,240,193.0,108.0,2309,55.0,166.95616
-638a238490d0a4789e103c60202047ae,MX Amigos y Familia,Ciudad Fronteriza,186,181.0,96.0,222,230.0,169.99126
-63980de1bb9a0a96c9fa88a6b6332752,Ciudad Principal,Ciudad Principal,186,171.0,126.0,401,85.0,174.45987
-639f8e7f95716365affe68c2dd8765a1,Ciudad Principal,Ciudad Principal,186,185.0,137.0,315,80.0,182.40999
-64bd9ae046ad424c34f0d55962bfae5c,Ciudad Principal,Ciudad Principal,240,149.0,100.0,1171,90.0,153.46964
-64ded5717ac09b51abf8f7154e38f719,Playa,MX Amigos y Familia,186,177.0,110.0,523,170.0,175.8468
-65761b008aa711ed18cea092b27530ee,Ciudad Principal,Ciudad Principal,180,180.0,114.0,273,90.0,166.88802
-6584b90ec3b10091855f8d5bd9c605b2,Ciudad Fronteriza,MX Amigos y Familia,186,169.0,43.0,277,85.0,166.80603
-659a7f18d6f87d22d23cd4ba4439bff2,Ciudad Principal,Ciudad Principal,240,212.0,118.0,1171,90.0,176.85234
-65c7a572557098ee104d976c125d2912,Ciudad Principal,MX Amigos y Familia,186,114.0,73.0,14,80.0,109.31903
-66ab690c31c6fb113f67297dfc5be824,Ciudad Principal,Ciudad Principal,186,161.0,102.0,1767,90.0,156.61464
-683af89701857709815487a685f417cb,Ciudad Principal,MX Amigos y Familia,186,186.0,117.0,14,80.0,169.6984
-684e38ba0a815f7a2fbc7af1144ce351,MX Amigos y Familia,Ciudad Principal,186,182.0,150.0,1610,65.0,183.54146
-68bd0474dc72ff9814c85d81aca48d61,Ciudad Principal,Playa,186,146.0,97.0,3188,55.0,152.55904
-68c219b1153137f12a3d25904c7fc6af,Playa,Ciudad Principal,186,160.0,32.0,753,80.0,87.17257
-68dc3b50e512da0be171b4727060d13a,MX Amigos y Familia,Ciudad Fronteriza,180,146.0,79.0,2462,290.0,132.8248
-68ee0151de89af4615bf22172041ede8,MX Amigos y Familia,Ciudad Principal,186,186.0,138.0,6464,115.0,186.44502
-69aea0be8308867a985f69dc7e518b2a,Ciudad Principal,MX Amigos y Familia,186,118.0,99.0,590,70.0,127.71838
-6a00cedc8fcceb9cbe9ee8c22274c0dd,Playa,Ciudad Principal,186,128.0,84.0,768,55.0,135.92308
-6abc46c7cf3c0403b7fcab1a0ca2d50f,Ciudad Principal,Ciudad Principal,186,182.0,133.0,1171,90.0,180.61008
-6b0e74d76c1cbc034a0524ca2b34cfb2,Playa,MX Amigos y Familia,180,178.0,132.0,523,170.0,182.12189
-6bd6dc5b1b23c1bebd941891fb81de4b,Ciudad Principal,Ciudad Principal,240,226.0,160.0,783,90.0,228.82289
-6c2c9d16ba2b2e9c1845bad2bd0e951f,Playa,Ciudad Principal,186,169.0,80.0,753,80.0,163.52518
-6c41a80224b77f291e02235701791819,Playa,Ciudad Principal,186,165.0,83.0,753,80.0,172.8195
-6c4af9112df2b902f7806f5ab6f80a52,Ciudad Principal,Ciudad Principal,186,186.0,140.0,273,90.0,179.38359
-6cc0b10574a7af8ebfa1430f244f4bac,MX Amigos y Familia,Ciudad Principal,186,141.0,116.0,1610,65.0,157.89058
-6d22170bbaafb0a4fb55781c70167b4d,Ciudad Principal,MX Amigos y Familia,186,123.0,97.0,14,80.0,144.10652
-6e1f973583909994ef5c961cd3e13cad,MX Amigos y Familia,Ciudad Fronteriza,186,146.0,83.0,222,230.0,148.007
-6e2f92f344cb377e7d22093af70df9d4,Ciudad Principal,Ciudad Principal,186,169.0,126.0,401,85.0,174.45987
-6e99ad40ec5212f016a857a114da2b65,Ciudad Principal,MX Amigos y Familia,186,186.0,128.0,2632,95.0,182.68808
-6eb7dbc3622511a55e0ebb0a1d6ba8ae,Ciudad Principal,MX Amigos y Familia,186,159.0,111.0,66,40.0,161.3456
-6f68089a1ddaaebab75b78699db642f4,Ciudad Principal,MX Amigos y Familia,186,169.0,97.0,66,40.0,151.34299
-712ef23874387be60b1adda0b9c8179b,Playa,MX Amigos y Familia,186,185.0,72.0,523,170.0,145.48726
-714e275f9b02fa7c481107c095bd6cab,Ciudad Principal,Ciudad Principal,240,164.0,103.0,783,90.0,152.24051
-71706c9858c33ff423377e0222e98053,Ciudad Principal,Ecoturismo,220,188.0,128.0,392,125.0,203.96164
-71d5d39d313697d94dd95161086d38a2,Ciudad Fronteriza,MX Amigos y Familia,186,162.0,92.0,1388,135.0,165.93614
-732541ded7d7c5b736b35844acd0538a,Ciudad Principal,MX Amigos y Familia,186,146.0,98.0,14,80.0,144.10652
-733c91779f52fb6624425714ec776643,Ciudad Principal,Ecoturismo,240,230.0,136.0,392,125.0,214.6374
-746d7996557b9cf0e167ce4a3baf7db6,Ciudad Principal,Ecoturismo,240,240.0,172.0,392,125.0,239.71133
-749f87244e844bcb73ad018829bff433,Ciudad Principal,MX Amigos y Familia,180,69.0,53.0,14,80.0,78.1296
-74b2fedb8fa47d5ff09549ad451252b8,MX Amigos y Familia,Ciudad Fronteriza,186,83.0,55.0,2462,290.0,98.52629
-74f19fb966c4a1e1a3f1da10564693a3,Ciudad Principal,MX Amigos y Familia,186,145.0,106.0,14,80.0,155.89781
-7687ce24012215a6ba86b2f7f790414e,Ciudad Principal,MX Amigos y Familia,186,161.0,101.0,66,40.0,155.13913
-76e08472b7831636073c7171c6f6cfaa,Ciudad Fronteriza,MX Amigos y Familia,180,115.0,63.0,664,75.0,115.96409
-7708752d499899e5b75c53a00acd28bb,Playa,MX Amigos y Familia,186,186.0,126.0,523,170.0,184.57741
-77b1dc334575229dacc39c1917b46466,Ciudad Fronteriza,MX Amigos y Familia,186,154.0,86.0,363,145.0,154.44997
-77e2d994c8492f2b3d9e1e832d231ce4,Ciudad Principal,Ciudad Principal,186,165.0,123.0,401,85.0,175.18584
-77eba57a1ffdad11b3bb2c3a7783d220,Playa,MX Amigos y Familia,186,186.0,128.0,523,170.0,185.72339
-77f0d8912010b7626b9729b80bb5250b,Playa,MX Amigos y Familia,186,152.0,102.0,523,170.0,166.08798
-788b219ec199658a4184e982cac50f55,Ciudad Principal,Ciudad Principal,240,181.0,130.0,1171,90.0,194.39876
-79c5c583d12f6ffc794cdb785eef16a7,Ciudad Principal,Ciudad Principal,186,169.0,107.0,273,90.0,160.2145
-79e499791dd863b58db389816ca30aa1,Playa,MX Amigos y Familia,240,166.0,99.0,2309,55.0,159.5038
-7ac2a5efe7fca4fa7efa3c3753ba61d8,Ciudad Fronteriza,MX Amigos y Familia,186,132.0,72.0,664,75.0,124.94828
-7b367584b14ca4fa0a98efda9c199e28,Ciudad Principal,Ciudad Principal,186,166.0,122.0,315,80.0,175.2519
-7bd11adabc0c0b3bfe88960e9e88c952,Ciudad Principal,Ciudad Principal,186,162.0,118.0,1767,90.0,170.73032
-7bdf4565ae9089531e9b4bb8c4a8d63c,Ciudad Fronteriza,MX Amigos y Familia,186,178.0,100.0,363,145.0,172.1438
-7be9cdc1fefa29daab1eb10c1ca24ba2,MX Amigos y Familia,Ciudad Fronteriza,240,201.0,116.0,242,180.0,193.71165
-7c04cd76542bc5e7cf64fdc7ff729999,MX Amigos y Familia,Ciudad Fronteriza,240,187.0,117.0,242,180.0,187.41881
-7cb4a85ba2efd32ae4542c9d82bef2ab,Ciudad Principal,Ciudad Principal,186,186.0,134.0,315,80.0,180.96027
-7d8caf3a35a7dbc88b1e2b9c8b1be4aa,Ciudad Principal,MX Amigos y Familia,186,83.0,65.0,14,80.0,97.61151
-7e5b63bc3253c575ca7787efbb478460,Ciudad Principal,Playa,186,154.0,98.0,3188,55.0,152.55904
-7e9aea66c4b45426f9ab0d2c811c5a72,Ciudad Principal,Ciudad Principal,186,170.0,122.0,401,85.0,175.18584
-7ea82e2528e4eb9cf465aa8db1dd222e,Ciudad Principal,Ciudad Principal,240,240.0,151.0,1275,95.0,228.02959
-7fcdc3a2d37ee94480e49f0227888596,Playa,Ciudad Principal,186,161.0,94.0,768,55.0,154.30176
-801bfae7d27b6c10cecdbe626cf7c91a,Ciudad Principal,MX Amigos y Familia,240,74.0,54.0,590,70.0,72.965256
-809bdfeb0f387d2e1e62e33977ac4281,Ciudad Principal,Ciudad Principal,186,180.0,138.0,315,80.0,182.62334
-80aa458e6c2139763f7280f9f728c1a2,Ciudad Fronteriza,MX Amigos y Familia,240,192.0,111.0,1388,135.0,183.68347
-80eef425da9f7680c1f57fe718a0155b,Ciudad Principal,MX Amigos y Familia,186,158.0,69.0,66,40.0,139.9068
-8180e12533d7b6960948f79c0f95ce81,Ciudad Principal,Ciudad Principal,186,153.0,111.0,401,85.0,159.96515
-81ffe9ed2e098f1a77b108d47bee728a,Playa,Ciudad Principal,186,166.0,82.0,753,80.0,169.55229
-82c9999ed1c06fb97bc8c6ca70984150,MX Amigos y Familia,Ciudad Principal,220,210.0,167.0,1610,65.0,207.46547
-830d9b167319eee2c051a8f359c3ae29,MX Amigos y Familia,Ciudad Principal,240,112.0,90.0,1610,65.0,103.77894
-834bf52c3f7dedfa4d3faf61446f409f,MX Amigos y Familia,Ciudad Principal,186,186.0,153.0,1610,65.0,183.95653
-83fed750176a0d7f9afbb89868553c90,Ciudad Principal,Ciudad Principal,240,219.0,164.0,1767,90.0,227.1465
-8468e1a270fef4fe378826c092504e69,Ciudad Principal,Playa,240,207.0,105.0,4619,100.0,208.7069
-84d240e9fb5d085ace434a55efac83a8,Ciudad Principal,Ciudad Principal,186,142.0,95.0,273,90.0,146.7588
-857573bbc6fd54a88d7bcc24a7c4114f,Ciudad Principal,MX Amigos y Familia,220,133.0,103.0,590,70.0,126.319374
-859a24bea86badd4fa376ae61cdb19a2,Ciudad Principal,Ciudad Principal,240,150.0,105.0,1767,90.0,163.95708
-859f4fa7dd2c3add2918a063d040ffa9,MX Amigos y Familia,Ciudad Fronteriza,186,137.0,79.0,222,230.0,138.39488
-861bc75943e841bdb5c49bff0a1c9d0d,MX Amigos y Familia,Ciudad Fronteriza,186,135.0,66.0,2462,290.0,121.98145
-86e2c88d0d4cd8a19fa5f5854932cea8,MX Amigos y Familia,Ciudad Principal,240,71.0,49.0,1627,90.0,76.61634
-8801e9b404435e24300d20b6d0b611fb,Ciudad Principal,Ciudad Principal,186,167.0,103.0,1275,95.0,158.77257
-8816f1a3bd2ec8fcbfcec641a2fea893,Ciudad Principal,MX Amigos y Familia,186,186.0,89.0,367,100.0,141.42082
-88f47a668b7a7d611cadd550247050b2,Ciudad Principal,Ciudad Principal,186,150.0,121.0,273,90.0,169.75774
-899e9db8de3b58cba2d781e4d6f8350e,MX Amigos y Familia,Ciudad Principal,186,180.0,142.0,1610,65.0,177.01611
-89af405011550d9a8d8e5eaa185b733c,Ciudad Fronteriza,MX Amigos y Familia,186,136.0,97.0,664,75.0,147.86398
-89b19a26af3eb285659b1cf1e83cfb90,Ciudad Principal,MX Amigos y Familia,186,186.0,148.0,590,70.0,169.7657
-89c3f76222aeb7906d1f0b101c2ba3e0,MX Amigos y Familia,Ciudad Fronteriza,180,143.0,88.0,2462,290.0,142.65688
-89c58c028e91d297bd30f5d718b5569c,Ciudad Principal,MX Amigos y Familia,180,172.0,90.0,66,40.0,164.22757
-89de47c096ce70e75747221c8f23760a,Ciudad Principal,Ecoturismo,240,240.0,162.0,392,125.0,235.59184
-8a49f6c1b9292b012cd54afb53e2a576,Ciudad Principal,MX Amigos y Familia,186,110.0,74.0,14,80.0,109.31903
-8a9f81dde1ccb2df5e657ae79db23d3d,Ciudad Principal,Ciudad Principal,240,130.0,93.0,783,90.0,145.11737
-8aa864260521fd77def8ed569d310a8d,Ciudad Principal,Ciudad Principal,240,228.0,157.0,1171,90.0,221.85014
-8ac6c646e5ff18ae9614c79a139bd9b8,Ciudad Principal,Ciudad Principal,186,171.0,115.0,1275,95.0,172.90807
-8bf8b19d3428fc2a720996af665a9b02,Playa,MX Amigos y Familia,186,170.0,110.0,2309,55.0,166.41402
-8ca18a4777e33a82e533ab3f925c0d86,Ciudad Principal,Ciudad Principal,186,186.0,130.0,1275,95.0,182.72981
-8cf9ba715f2e0d1e661f59811318c93a,Ciudad Principal,MX Amigos y Familia,240,141.0,112.0,590,70.0,140.27768
-8d96ab60448299d27c2cd2aa3a8b0eb6,MX Amigos y Familia,Ciudad Principal,186,180.0,131.0,6464,115.0,182.60689
-8dcdb6464f460623a171b3047a9d3d64,Ciudad Principal,MX Amigos y Familia,180,160.0,106.0,590,70.0,151.23248
-8ddc71671176f04f4bd7395bc30e2678,Ciudad Principal,Ciudad Principal,240,149.0,115.0,1171,90.0,171.91812
-8e154f28efff239cbd2243e47d15f6cf,Ciudad Principal,Ciudad Principal,180,162.0,125.0,315,80.0,174.3903
-8e1e8e0c8a7aafcec27895376507326d,Ciudad Principal,Playa,186,186.0,105.0,3188,55.0,160.92215
-8e3128ebb58b650b5bf02d0caa356ccb,Ciudad Principal,Ciudad Principal,186,175.0,149.0,273,90.0,180.42282
-8e7829e80017d013a2bb7d6748e3825a,Ciudad Principal,Ecoturismo,220,220.0,171.0,392,125.0,224.38263
-8f000fa4f46b397fec2dbf0221189386,Ciudad Principal,Playa,186,186.0,99.0,352,90.0,176.93504
-8fb8bfe8738004fbad2c0d5943bf6e41,Ciudad Principal,MX Amigos y Familia,186,136.0,103.0,367,100.0,158.36732
-8fb97be35341b63164da8e577e9f7625,Ciudad Principal,Ciudad Principal,186,157.0,118.0,273,90.0,169.50494
-8fe641657d3006b46a9e8f6249fff090,Ciudad Principal,Ciudad Principal,186,180.0,120.0,1171,90.0,172.20229
-90569e1bdaa3417593566b1fd524623b,MX Amigos y Familia,Ciudad Principal,220,220.0,180.0,1610,65.0,219.61668
-906b34890c7a3fd8ec37beb31aa22fae,Playa,Ciudad Principal,186,86.0,59.0,2237,55.0,94.063156
-90a2ef2cbf7e774d6c33bfb52fcf7433,Ciudad Principal,Ciudad Principal,220,220.0,140.0,1171,90.0,203.93796
-90a62efa559fcc57a60e857fef8faa55,Ciudad Principal,MX Amigos y Familia,180,99.0,64.0,14,80.0,93.66636
-90d2d14b3bbe86fc13424dee3c845220,Ciudad Fronteriza,MX Amigos y Familia,186,146.0,84.0,363,145.0,154.44997
-90e77ddb03aa8e48ce301362d3773eed,MX Amigos y Familia,Ciudad Principal,220,215.0,132.0,1627,90.0,184.40338
-9125707acfd0b87e09470b394e3e26be,Ciudad Principal,Ciudad Principal,186,138.0,108.0,783,90.0,159.22383
-914c0b81068fb34315154201f99f422d,Ciudad Principal,Ciudad Principal,240,194.0,149.0,1767,90.0,216.44817
-91cfa4ea23c09ace0ae1a70bfad6c6c4,Ciudad Principal,Ciudad Principal,240,228.0,192.0,783,90.0,236.84456
-91d62953111b8f184442df52e9418725,Ciudad Principal,Ecoturismo,240,240.0,168.0,392,125.0,238.03369
-920274b534d1f41e039a3d7a54857292,Ciudad Fronteriza,MX Amigos y Familia,186,153.0,96.0,277,85.0,157.30983
-920865c0913b665249cdbf6d024b53a0,Ciudad Principal,MX Amigos y Familia,186,174.0,121.0,14,80.0,173.98709
-92ad866b773b9b53e67281c009324c10,Ciudad Principal,Ciudad Principal,186,104.0,71.0,273,90.0,106.44983
-93547ef4c3d1f35372cbef1e8c7cf094,MX Amigos y Familia,Ciudad Principal,240,117.0,101.0,1610,65.0,119.37957
-9361371896731dde0c60b6d957141e75,Ciudad Fronteriza,MX Amigos y Familia,186,159.0,86.0,664,75.0,147.48448
-93d5ebac25f027b2aeb457b22a777d58,Ciudad Principal,Ciudad Principal,240,142.0,119.0,783,90.0,172.86378
-94cfc5d9fcd40987187691f44897c5f9,Ciudad Principal,MX Amigos y Familia,186,79.0,61.0,14,80.0,92.95513
-94d8e32e1eb89700bcf426722fafa8ce,Ciudad Principal,Ciudad Principal,186,175.0,123.0,273,90.0,172.27066
-94deae298a05550228e6117c784e88d3,Ciudad Fronteriza,MX Amigos y Familia,186,158.0,93.0,1388,135.0,165.93614
-94e13eb319763f68e7971dc0f29adf73,Ciudad Principal,Ciudad Principal,186,156.0,115.0,1171,90.0,167.70595
-952d7a9401e8206e91a4987c0e0e49b8,MX Amigos y Familia,Ciudad Principal,186,163.0,131.0,1610,65.0,166.30383
-954b871458791b380cb31082758e79bc,Ciudad Principal,Ciudad Principal,180,180.0,127.0,315,80.0,174.62315
-95b455b1195516052f7a81c9c8fd0b63,Ciudad Fronteriza,MX Amigos y Familia,186,174.0,102.0,1388,135.0,173.28592
-9653c09e530f827658d51eef1b4130b4,Ciudad Principal,MX Amigos y Familia,186,180.0,142.0,7060,120.0,187.49632
-965f55cec1bd1312f122e2a946653d16,Ciudad Principal,Ciudad Principal,186,176.0,131.0,273,90.0,175.42714
-969f65376d9ef4b02527ad4cd3fe1ab6,Ciudad Principal,Ciudad Principal,240,201.0,139.0,1767,90.0,202.32735
-96c6a56d0ee9535705dd1470b9ac7e33,Ciudad Principal,MX Amigos y Familia,236,193.0,161.0,590,70.0,206.8918
-973d98635812b8b2aa1431d726d27e20,MX Amigos y Familia,Ciudad Principal,240,87.0,51.0,1627,90.0,81.19927
-97cc324e83bc779f113839190b5a07cf,Playa,MX Amigos y Familia,220,220.0,136.0,2309,55.0,197.55168
-97d721ab2c5328defda3e8026cf137cc,Ciudad Principal,Ecoturismo,240,240.0,178.0,392,125.0,241.0218
-98184934b274002a9e9828e6c80a4171,Ciudad Fronteriza,MX Amigos y Familia,186,152.0,92.0,363,145.0,165.40416
-985212a4082ea0fdd3fc94c8d5a7a624,Ciudad Fronteriza,MX Amigos y Familia,186,161.0,96.0,277,85.0,157.30983
-98940ebc6b25ae90cc70f154af92477f,Ciudad Fronteriza,MX Amigos y Familia,186,144.0,91.0,664,75.0,146.56607
-99cf3d640b520712667f65ee5973f1d0,Playa,MX Amigos y Familia,186,186.0,109.0,523,170.0,175.8468
-99f4bca2fa91fd76f0a1531aee32ac57,Ciudad Principal,Ecoturismo,220,220.0,158.0,392,125.0,220.77713
-9a0cfa14691866619ec812edca7aa7e4,Ciudad Principal,Ecoturismo,220,220.0,142.0,392,125.0,214.8704
-9a70aeda41dd28f0db2a15205ee21fc9,Ciudad Principal,Ciudad Principal,186,167.0,131.0,401,85.0,176.32648
-9a89753a3d8da74f111226894c340ca4,Ciudad Principal,Ciudad Principal,220,220.0,175.0,1171,90.0,217.78064
-9ab8b7508b8677587576bd141392ed4c,Ciudad Principal,Ciudad Principal,186,167.0,117.0,401,85.0,171.35515
-9b291f9169664d4c6d85c9357b354eb4,Playa,MX Amigos y Familia,220,183.0,123.0,2309,55.0,188.08829
-9c72f27b647874edaceda5087a65fe02,MX Amigos y Familia,Ciudad Principal,186,186.0,149.0,1610,65.0,182.78636
-9cae51056797a36d1a4a139133b17922,Ciudad Principal,Ciudad Principal,186,181.0,131.0,315,80.0,179.21024
-9d3226b86efd0a6970d9305e060d10d8,Ciudad Principal,MX Amigos y Familia,186,121.0,79.0,14,80.0,116.156815
-9e62b167e524b54a90e27ab30b2e3059,Playa,MX Amigos y Familia,186,167.0,109.0,523,170.0,175.8468
-9ed6bbbc4b06bd9a689a1f4ad1845b8c,Ciudad Principal,Ciudad Principal,186,186.0,119.0,315,80.0,171.88895
-9f3bb9cb89c328ce171e9e9145bb1e81,Ciudad Principal,Ciudad Principal,240,217.0,164.0,1171,90.0,229.23178
-9f6effa11e79ae93b49be9b4acc7e228,Ciudad Fronteriza,MX Amigos y Familia,186,163.0,108.0,277,85.0,170.15346
-9fdbff73ee35c3bf58a7c85f3f3aff1f,Ciudad Principal,Ecoturismo,240,240.0,193.0,392,125.0,242.12634
-9fdf0a8865271fcff2a865b4728c7541,Ciudad Principal,MX Amigos y Familia,180,137.0,88.0,367,100.0,137.39423
-9fe1d4771d5e1c1b153423b7223389e5,Ciudad Principal,Ciudad Principal,186,166.0,131.0,315,80.0,179.21024
-a01a0e862409ce547dfa0ed07c0b5c7d,Ciudad Fronteriza,MX Amigos y Familia,186,173.0,110.0,363,145.0,180.424
-a02204fa67decf15b3e06a1c41307a77,Playa,Ciudad Principal,186,186.0,124.0,768,55.0,181.70433
-a07fcf9931f38d10f6670916aa03d61d,Ciudad Fronteriza,MX Amigos y Familia,180,157.0,82.0,664,75.0,142.40237
-a1630a209446aea6d2482519d1c69842,Ciudad Principal,MX Amigos y Familia,186,135.0,98.0,66,40.0,151.34299
-a20bfa2bf36665691633e2d8c58a3748,Ciudad Principal,Ciudad Principal,186,186.0,139.0,315,80.0,182.62334
-a2b73c7ff82681c2bda3ab24f16b9b9c,Playa,Ciudad Principal,186,147.0,81.0,2237,55.0,134.67134
-a2ca3ca524f761fdd4f85ffbf083994f,Ciudad Principal,Ciudad Principal,240,202.0,133.0,1275,95.0,201.93512
-a2ee808935cb6fda1e6e828727d9a019,Ciudad Fronteriza,MX Amigos y Familia,186,147.0,77.0,1388,135.0,153.95604
-a2f1dd94359b0726faa0eae4a81490cc,MX Amigos y Familia,Ciudad Principal,240,107.0,76.0,1627,90.0,110.44099
-a304a661e95d8f7968ab1f9d017a0b90,Ciudad Principal,Ecoturismo,240,240.0,166.0,392,125.0,237.77919
-a3dac1dbd1dba264e2cd4366fc007273,MX Amigos y Familia,Ciudad Principal,236,147.0,119.0,1627,90.0,162.48744
-a400b28ac6fe9034e323dd70849add56,Ciudad Principal,MX Amigos y Familia,186,119.0,101.0,590,70.0,127.83258
-a50541f978eb708e2d990b09d9b8c92e,Ciudad Principal,MX Amigos y Familia,186,167.0,85.0,66,40.0,158.83966
-a53d9e6736a7bed26d9b60f889359f26,Playa,Ciudad Principal,186,168.0,78.0,753,80.0,160.55922
-a5b5cf57a00b11fb68080f1f0cdfd4ad,Ciudad Fronteriza,MX Amigos y Familia,186,161.0,88.0,277,85.0,157.33752
-a678475429d7ab22a9f1893a54d2b463,Ciudad Principal,Ciudad Principal,186,181.0,116.0,401,85.0,171.67233
-a67d8b022ee1ca046669bd76a6ced4be,Playa,MX Amigos y Familia,186,186.0,115.0,523,170.0,179.75182
-a6e0d3182b7c8bfe0b9e634b3d3f05bd,Playa,Ciudad Principal,186,176.0,82.0,753,80.0,169.55229
-a703b7820c69e3bfb9680bfae153ae93,Ciudad Principal,Ciudad Principal,186,170.0,115.0,273,90.0,169.22139
-a712f6535fd69fb2b27e080560080c86,Ciudad Principal,Playa,186,121.0,81.0,3188,55.0,125.96793
-a8ca632c180ef80c8229b9dbe3e48505,Ciudad Principal,Ecoturismo,240,235.0,177.0,392,125.0,239.92493
-a9117cdd3d0bdc8c1e32601a5f74a909,MX Amigos y Familia,Ciudad Fronteriza,236,76.0,54.0,242,180.0,86.108
-a93b12622eab9aa78f2aa88008d4ad2e,Playa,MX Amigos y Familia,236,236.0,142.0,2309,55.0,211.42673
-a9b8322dd83c7e94548d7df692f2635d,Ciudad Principal,Ciudad Principal,220,186.0,136.0,783,90.0,199.40178
-a9fafa532f0de454d1e0ba5871d17a4a,Playa,Ciudad Principal,180,141.0,81.0,753,80.0,149.94745
-ac0b8bd7b2da624d23398cb30fcefcd0,Ciudad Principal,MX Amigos y Familia,220,164.0,140.0,590,70.0,173.80643
-ac2c4e2ca1564f536030a7d361b74fd6,Ciudad Principal,Ciudad Principal,240,196.0,144.0,1767,90.0,210.96452
-ad8d0f0434c316648f088e782e964205,Ciudad Principal,MX Amigos y Familia,186,113.0,66.0,14,80.0,99.82147
-adac9245c206d696a69ad521ee3d1611,Ciudad Principal,Ciudad Principal,186,168.0,131.0,273,90.0,175.42714
-adf9aa7dbf8c83fea2c27d15c5e11bb3,Ciudad Principal,Playa,186,186.0,137.0,3188,55.0,182.51524
-ae670eea358abfb3df2fe8b521938e62,MX Amigos y Familia,Ciudad Principal,240,240.0,151.0,1627,90.0,214.58537
-ae796b533d4511ac34c3920e34db03f0,Playa,Ciudad Principal,186,155.0,100.0,768,55.0,165.77428
-ae84a26d1a1fbc6968a645eaaac36ef6,MX Amigos y Familia,Ciudad Principal,186,112.0,68.0,1627,90.0,104.19926
-af10a5225c9965e5505058b814cd24f8,Ciudad Principal,MX Amigos y Familia,186,165.0,106.0,367,100.0,161.42448
-af3af0a08759d82aae4d473f41c3f2c7,Ciudad Fronteriza,MX Amigos y Familia,186,176.0,99.0,1388,135.0,173.17174
-b06d7977a278468933a532cad8978f87,Ciudad Principal,MX Amigos y Familia,186,121.0,86.0,14,80.0,122.621605
-b0d71f398f01bd461efdf82ce7957b3d,Ciudad Principal,Ciudad Principal,186,176.0,115.0,401,85.0,171.57124
-b0e91e144bed6621a9fbfc10442ddaf2,MX Amigos y Familia,Ciudad Principal,220,180.0,145.0,1627,90.0,195.91783
-b23e68fc453973123e75f88e58a3a833,Ciudad Principal,Ciudad Principal,180,177.0,141.0,273,90.0,175.29816
-b2a143d6670e053a837b1c866ec908f0,Ciudad Principal,MX Amigos y Familia,186,164.0,114.0,14,80.0,168.07318
-b2ae394cf1d607117438685c8e30a38b,Ciudad Principal,Ciudad Principal,186,161.0,123.0,783,90.0,171.57669
-b3c3442ee60a314d2662b26380b01d4c,Ciudad Principal,Ciudad Principal,186,178.0,122.0,401,85.0,175.18584
-b467364020cd08c0f69e159f35fc2328,MX Amigos y Familia,Ciudad Principal,240,98.0,79.0,1610,65.0,85.69327
-b475647c44c953f909bfd86e275ac76f,Playa,Ciudad Principal,186,168.0,95.0,2237,55.0,154.70424
-b47e4c0f59c5748db5b81e4c674a00da,Ciudad Principal,Ciudad Principal,240,240.0,167.0,1767,90.0,228.98375
-b4f43bca85c5a31e1895537e2234d3bb,Ciudad Principal,Ciudad Principal,186,169.0,125.0,315,80.0,177.32745
-b56ab68a1a86e1e4bafb9da5708d94ad,MX Amigos y Familia,Ciudad Principal,186,142.0,112.0,1610,65.0,151.27333
-b57ef5f408647aa060690f4929ca21cd,Ciudad Principal,MX Amigos y Familia,186,146.0,87.0,14,80.0,125.1488
-b6e09906d8bd01c1cbbdf44fb8b7d795,MX Amigos y Familia,Ciudad Fronteriza,186,117.0,78.0,2462,290.0,131.80142
-b71bed169f1fc954bfaea2b857387706,Ciudad Principal,Ecoturismo,240,240.0,172.0,392,125.0,239.71133
-b7979e1a2e8462658de4649f3ce779ba,Ciudad Principal,MX Amigos y Familia,186,135.0,99.0,66,40.0,147.5674
-b8009cf19a6a4ee3d1c0879360b5b625,Ciudad Principal,Ecoturismo,240,240.0,169.0,392,125.0,238.03369
-b83207fe842074cbbf79cae3a8dea9e6,Ciudad Principal,MX Amigos y Familia,186,144.0,123.0,590,70.0,151.39835
-b86f26f5289eb1a21e008d392222e9c2,Ciudad Fronteriza,MX Amigos y Familia,186,133.0,76.0,664,75.0,133.29686
-b9130891499eedd7e1982b3795f0011c,Ciudad Fronteriza,MX Amigos y Familia,186,167.0,66.0,363,145.0,156.51186
-b9d66e890a42c03261196c0bb62cd011,Ciudad Principal,Ecoturismo,240,232.0,153.0,392,125.0,228.95952
-ba638f50e8b8a706d40c7dd4a1389a53,Ciudad Principal,Ciudad Principal,220,211.0,129.0,1767,90.0,194.18619
-ba63eaf712ef53df5ecdf8d35fd1452f,Ciudad Principal,Ciudad Principal,220,206.0,147.0,1275,95.0,210.16434
-bac037b684836d94a87c954f8d53c985,Ciudad Principal,Playa,240,240.0,92.0,4619,100.0,229.30641
-bb17a8725f25ccd84d5ec72c8c8f2355,Ciudad Principal,Ciudad Principal,220,169.0,109.0,1275,95.0,176.70895
-bc07cccbaa5cd32110786dcdc43c41c3,Playa,Ciudad Principal,186,111.0,68.0,2237,55.0,112.68875
-bc1dd44735975b833b6b4f2214ba02e1,Ciudad Principal,Ecoturismo,236,236.0,165.0,392,125.0,235.84367
-bdc475f530a72230d916f10edac0e9b7,Ciudad Principal,MX Amigos y Familia,186,88.0,75.0,590,70.0,97.0715
-bdc8578bb029411abe52f15880ce23d6,Ciudad Principal,Ciudad Principal,240,192.0,142.0,783,90.0,215.56592
-be68914e6e8dd77432bd82403bdae430,MX Amigos y Familia,Ciudad Principal,180,170.0,128.0,1610,65.0,165.33504
-bf124012ecb0328c197952b1c4aeed90,Ciudad Principal,Ciudad Principal,236,192.0,147.0,1767,90.0,210.40236
-c119024bdb9d4e66f86080f88bf0e8b7,MX Amigos y Familia,Ciudad Principal,220,148.0,104.0,1627,90.0,138.86359
-c11e6d732ff45f37f7aabdb6ec72a473,Ciudad Principal,MX Amigos y Familia,220,87.0,77.0,590,70.0,97.240005
-c1d141fcf261b860cf84c08bd4f3af5d,Ciudad Principal,Ecoturismo,186,186.0,133.0,392,125.0,188.53712
-c48f7f26c9db5d7c6fb94529cb42aad2,MX Amigos y Familia,Ciudad Principal,240,196.0,157.0,1627,90.0,206.57376
-c4cf6bc4292765cbab0be100ba9a8f8a,Ciudad Principal,Playa,186,123.0,80.0,3188,55.0,121.80024
-c50e31777cf43112ffc86daf14298d8e,Ciudad Principal,Ciudad Principal,186,175.0,123.0,401,85.0,175.18584
-c5bce924d6a8ab62ec8bbfa6c6879ac4,Ciudad Principal,Ciudad Principal,240,239.0,169.0,1171,90.0,230.74602
-c66ce615d5c9ceff69ab15e556f22c04,Ciudad Fronteriza,MX Amigos y Familia,186,176.0,84.0,1388,135.0,156.91512
-c6bd3f9462040a45b9fd60545278099f,Playa,Ciudad Principal,186,142.0,96.0,768,55.0,157.08037
-c6bf5efebb67a08e24029a7c18099378,Playa,Ciudad Principal,186,184.0,92.0,753,80.0,174.86163
-c74f9d1042064027f33808a034c30f94,Ciudad Principal,Ciudad Principal,240,233.0,162.0,783,90.0,228.82289
-c783cfd13ae7b7a1c79a603208822f04,Ciudad Principal,MX Amigos y Familia,186,186.0,118.0,2632,95.0,175.76463
-c7a55f85aa152342b31027959b324f78,Ciudad Principal,MX Amigos y Familia,236,105.0,83.0,590,70.0,104.33242
-c7e7a650354c97f23d855f88f667f090,MX Amigos y Familia,Ciudad Principal,240,143.0,116.0,1610,65.0,144.31569
-c8406df0d29003f43ec99e6eaa6eaa69,Ciudad Principal,MX Amigos y Familia,186,186.0,129.0,2632,95.0,183.38586
-c8481e84a99f96b87644cdb37498de4d,Ciudad Principal,Ciudad Principal,240,222.0,132.0,783,90.0,196.17879
-c8cb0014082c4a1ab8d3b47fbe17cc8a,Ciudad Fronteriza,MX Amigos y Familia,186,186.0,107.0,1388,135.0,179.6355
-c95999d34662a83988a9b6ff92aa2508,Ciudad Principal,Ciudad Principal,240,175.0,107.0,1767,90.0,167.71553
-ca550f33826012c292b0abf2f3e2c9ad,Ciudad Principal,Ciudad Principal,240,225.0,156.0,1171,90.0,221.85014
-cb915a2a872583211b1fb9b4217a8202,Ciudad Principal,MX Amigos y Familia,186,121.0,97.0,590,70.0,123.3444
-cc49c51c312bf7a5abb06cc00361b07a,Ciudad Principal,Ecoturismo,240,238.0,158.0,392,125.0,233.90495
-cc711c923a087b7ea3bd4681e26d8a4b,Ciudad Principal,Ecoturismo,240,240.0,168.0,392,125.0,238.03369
-cc8f2d7bcd24803e507c84410af0f959,Ciudad Fronteriza,MX Amigos y Familia,186,148.0,85.0,1388,135.0,154.98195
-ccbc6da3344bd37e30ca3868188c58e4,Playa,MX Amigos y Familia,186,186.0,112.0,523,170.0,175.8468
-cd80aac5dee7e8c30b8d25723b44796a,Ciudad Principal,Playa,186,125.0,85.0,3188,55.0,130.78592
-cd9064bc667e68e63bc18ca201ed8b70,Ciudad Fronteriza,MX Amigos y Familia,186,154.0,77.0,1388,135.0,153.95604
-cd9758056fb577169ac8243a638fa864,Playa,Ciudad Principal,186,179.0,96.0,753,80.0,176.52122
-ce2990cea2ae9877a58391f8dd18752f,Ciudad Principal,Playa,240,223.0,95.0,6129,95.0,213.90314
-ce5d701fe08295b9c68823880fdbe834,Ciudad Principal,MX Amigos y Familia,186,106.0,85.0,14,80.0,122.621605
-ce8ab756d11c91b2187d770e55dc04b5,Playa,Ciudad Principal,186,155.0,79.0,753,80.0,160.6147
-cf3282c8cd06d545ca3428f2f9881aa4,Ciudad Principal,Playa,186,124.0,72.0,3188,55.0,110.01885
-cf687d358056e3a8d51b46911d26c978,Ciudad Principal,Ciudad Principal,186,185.0,144.0,315,80.0,183.90424
-cf6d401df482abe79a0b8e8ed231c0e7,Ciudad Principal,Ciudad Principal,186,186.0,119.0,273,90.0,171.3398
-cfd460654b6a4a7dd2525d621ad03ade,Ciudad Principal,Ciudad Principal,240,147.0,99.0,1767,90.0,154.41754
-d0377e46731bfc6b192ee3dd094ba922,Playa,MX Amigos y Familia,186,186.0,123.0,523,170.0,183.81767
-d0458c1f078d11e9621a38f99ba16013,Ciudad Principal,Ciudad Principal,240,221.0,140.0,783,90.0,210.90863
-d0dbd0ae503e9bfaa6e433d3b4573130,Ciudad Principal,MX Amigos y Familia,186,90.0,73.0,14,80.0,109.31903
-d1594135e58bcea832434808be153d1e,Ciudad Principal,Ecoturismo,240,233.0,150.0,392,125.0,228.95952
-d1c597fb7f21451febaf23ef126a195b,Ciudad Principal,Ciudad Principal,240,205.0,136.0,783,90.0,202.31677
-d2994b832d39e7affa5f4fc2c61c8db5,MX Amigos y Familia,Ciudad Fronteriza,186,150.0,83.0,222,230.0,148.007
-d4691c0ee9bef26a80a3438029d6978c,MX Amigos y Familia,Ciudad Fronteriza,220,169.0,113.0,242,180.0,173.83203
-d4effcdfef47a76d74d0f264afa63295,Ciudad Principal,MX Amigos y Familia,186,127.0,76.0,66,40.0,152.31938
-d621551134a9b403f808e93532793b52,Ciudad Principal,Ciudad Principal,240,154.0,97.0,1171,90.0,148.87027
-d632a729ef1d1994e46438affc8a9933,Playa,Ciudad Principal,180,180.0,109.0,753,80.0,179.89513
-d6469b41b07da19a71e70eea0eae1308,Ciudad Principal,Ciudad Principal,180,180.0,129.0,315,80.0,175.32094
-d6b78becf29ff1f1209dfbd5e81ea85f,Ciudad Principal,Ciudad Principal,240,228.0,160.0,1171,90.0,228.06433
-d70d02c22f3ac436958bd1eba8d6d17f,MX Amigos y Familia,Ciudad Fronteriza,186,137.0,87.0,222,230.0,150.16312
-d7496ef70de33d984195accef9a19978,Ciudad Principal,Ciudad Principal,180,143.0,112.0,273,90.0,162.19994
-d768c30a10c33532f92223b1d1c293af,Ciudad Principal,Ciudad Principal,186,183.0,118.0,1275,95.0,173.19162
-d7720883b08ec93a05f187b388c26acd,Ciudad Principal,MX Amigos y Familia,186,175.0,117.0,2632,95.0,174.78468
-d8cfd3d1ce020e69ac0cc881f66c7389,Playa,Ciudad Principal,186,162.0,73.0,753,80.0,154.78934
-d8fa8629b356d1b72e7a5e586c7e2bde,Ciudad Principal,Ciudad Principal,186,149.0,108.0,1275,95.0,163.64742
-d91158391922d0659a69992eff202d69,MX Amigos y Familia,Ciudad Principal,240,68.0,56.0,1627,90.0,95.65237
-d97b7ebd39c1efb7ba2bb055ac8cc911,Playa,Ciudad Principal,186,176.0,112.0,768,55.0,175.50768
-d9ee2a8cee58fdfe0e72dee9c60c43b8,Ciudad Fronteriza,MX Amigos y Familia,186,161.0,95.0,277,85.0,159.71422
-dae4a104ee12a1e1a4c5df7eb57bf3ab,Ciudad Principal,Ciudad Principal,186,179.0,136.0,401,85.0,179.52623
-db0f9d6a95097f6ea9c3c8a869f221b5,MX Amigos y Familia,Ciudad Fronteriza,186,123.0,79.0,2462,290.0,133.50638
-db61ed27781600ac52e5ccb058e1ecf0,Ciudad Principal,Ciudad Principal,186,176.0,121.0,401,85.0,175.18584
-db88d1914ee3d325b4e37c009876c5c5,Ciudad Principal,Ciudad Principal,220,217.0,159.0,1767,90.0,211.22585
-dbd781a75e09feafacb955fcaeddaefe,Ciudad Principal,Ciudad Principal,236,227.0,154.0,1171,90.0,221.39053
-dc231166eb89576ab7f1f1d402318165,Ciudad Principal,Ciudad Principal,186,147.0,112.0,401,85.0,159.96515
-dd4cdac27c03cc1a3df863f7b0a51168,MX Amigos y Familia,Ciudad Principal,186,186.0,153.0,1627,90.0,182.79337
-de22ab2aba5748e1a479d55d8fc040f0,Ciudad Principal,Ecoturismo,240,240.0,191.0,392,125.0,242.23334
-deb937615c0835bb14755d46020eb5a3,MX Amigos y Familia,Ciudad Principal,220,169.0,144.0,1610,65.0,186.01723
-df3d41fe4febd228704148e3c3eb3520,Ciudad Principal,Ciudad Principal,220,187.0,113.0,1275,95.0,177.94313
-dfc59b5e3083563517290c59c6424fee,Ciudad Principal,Ecoturismo,240,240.0,183.0,392,125.0,241.28656
-dff96b8a48c9cd25a19589323286fcc1,MX Amigos y Familia,Ciudad Fronteriza,186,177.0,95.0,222,230.0,167.5339
-dfffdb60fe43f0f9706163b3eca3a787,Ciudad Fronteriza,MX Amigos y Familia,186,140.0,85.0,363,145.0,154.44997
-e065c46c304fd0e451f84ac9d1ff896d,Ciudad Principal,Ciudad Principal,186,186.0,134.0,1171,90.0,180.61008
-e165430a4cd9285a62cce83b3fb05910,Ciudad Principal,Ciudad Principal,240,107.0,88.0,783,90.0,132.99263
-e1748ccb4e62e3e9cc0b33ef10301257,Ciudad Principal,Playa,186,116.0,76.0,3188,55.0,119.8039
-e1b497913ee2a40ebfd042df7410d593,Ciudad Fronteriza,MX Amigos y Familia,186,164.0,82.0,363,145.0,153.73842
-e1d57e5595b85215d496c7b211d65ca3,Ciudad Principal,Ciudad Principal,240,108.0,86.0,783,90.0,128.34807
-e1ee4a27b179af30b825c16f06232293,Playa,Ciudad Principal,186,127.0,80.0,768,55.0,128.34503
-e2ce315d1a9857a1ca3bc7b2d65470e4,Ciudad Principal,Ciudad Principal,186,175.0,122.0,401,85.0,175.18584
-e2e47a8eefaa3a3225d845a51cb7bfab,Ciudad Principal,Ciudad Principal,180,170.0,131.0,315,80.0,175.32094
-e422c63a84c7fd1ec54866001787dab3,Ciudad Principal,Ciudad Principal,186,180.0,124.0,273,90.0,173.7016
-e4337374a6a9ef95ce5f47630f49ef61,MX Amigos y Familia,Ciudad Principal,240,212.0,169.0,1627,90.0,217.50642
-e49736b8df7f8484fd42c32c6ac982b2,Playa,Ciudad Principal,186,123.0,67.0,2237,55.0,112.21127
-e49e3be3f74298fefdaa9e0f6e8ffd66,Ciudad Principal,MX Amigos y Familia,180,126.0,89.0,367,100.0,140.25163
-e4cb2c3d32c5d4a828c62ad62e5d7aad,Ciudad Principal,Ciudad Principal,180,173.0,128.0,315,80.0,174.62315
-e5855c9a610a04a9620524988e86a87f,MX Amigos y Familia,Ciudad Principal,240,192.0,146.0,1627,90.0,203.79773
-e5a79ec23cfe2c4a77aece2d36899bdf,Ciudad Principal,Ciudad Principal,220,211.0,151.0,1171,90.0,211.71945
-e62eb4280e64e524f9ed0827d9f9a3dc,Ciudad Principal,Ciudad Principal,186,174.0,130.0,401,85.0,176.32648
-e67867700396a0e4689441f8e01e91f0,Playa,MX Amigos y Familia,186,183.0,116.0,523,170.0,180.49748
-e686243d2b1ac1edd99143d1c1e5a977,Ciudad Principal,Ciudad Principal,186,157.0,101.0,315,80.0,157.23576
-e7eb722ef05e2cfdb9ae0fa6a9959c8a,Ciudad Principal,Ciudad Principal,220,208.0,169.0,1767,90.0,213.75801
-e8d1558ab69918fd0fc44d688cba7b57,MX Amigos y Familia,Ciudad Principal,180,167.0,136.0,1610,65.0,168.01408
-e9109d1b3a33a35934a1cbf42f3bd815,Ciudad Principal,MX Amigos y Familia,186,130.0,100.0,14,80.0,148.48079
-ea4bec414372a90e8b4116bccb640974,Ciudad Principal,MX Amigos y Familia,186,91.0,65.0,14,80.0,97.61151
-ea92657f9e79e3f8e04689b19fb577bd,Ciudad Principal,Ciudad Principal,186,164.0,108.0,1275,95.0,163.64742
-eb51341670b3c661485a54ae3c85a913,Ciudad Principal,Ciudad Principal,186,156.0,118.0,401,85.0,171.53761
-eb694a366e5ef4e470b7a4d53be422d6,Ciudad Principal,MX Amigos y Familia,240,143.0,111.0,590,70.0,140.27768
-eb7b6021aaac2874c4a2417e97a63db1,Ciudad Principal,Ciudad Principal,240,190.0,127.0,783,90.0,190.24944
-eb9cb8998777bd746671341a59acab48,Ciudad Principal,Ciudad Principal,220,176.0,122.0,1767,90.0,187.18866
-eccaf04ddb18ab1c1d22a7452b892f6f,Playa,MX Amigos y Familia,186,186.0,133.0,523,170.0,188.78249
-ed643effd8f77aefe9a7a8a44c88a13e,Ciudad Principal,Ciudad Principal,186,186.0,145.0,401,85.0,181.04285
-ed99b6c724ae147c39859f754ff55cad,Ciudad Principal,Ciudad Principal,186,186.0,129.0,1275,95.0,182.72981
-edc470c46e6bc51763118692cf806999,Playa,Ciudad Principal,186,186.0,117.0,768,55.0,179.43294
-edf61348223bb48bf5a47a6ad7b126d0,Ciudad Fronteriza,MX Amigos y Familia,186,135.0,70.0,664,75.0,124.94828
-ee194f662603be68b9cd4d05065c776d,Ciudad Principal,Ciudad Principal,186,175.0,145.0,401,85.0,181.04285
-ef86e1f180766a009f242b2d2ce83b98,Ciudad Principal,MX Amigos y Familia,186,182.0,130.0,2632,95.0,183.38586
-ef94a58ae764c1deb8c2b0fdd2aeb3d0,Ciudad Principal,MX Amigos y Familia,240,123.0,93.0,590,70.0,119.25194
-efc1bb5ae2719b13e4565e9a24a4a8ff,MX Amigos y Familia,Ciudad Principal,220,196.0,148.0,1627,90.0,196.30994
-eff281cf392412d30200ac949caff587,Ciudad Fronteriza,MX Amigos y Familia,186,164.0,73.0,363,145.0,156.87523
-effadafd7ff3835250ddbf1fbc259d0e,Ciudad Principal,Ciudad Principal,186,185.0,122.0,315,80.0,175.2519
-f043cca6e85496372def3a21ff893561,Playa,MX Amigos y Familia,220,142.0,111.0,2309,55.0,175.4325
-f07b493054a241c1ac996197e8154024,Ciudad Principal,Ciudad Principal,186,167.0,137.0,273,90.0,177.9378
-f0a03e0431131483ed9ed8b6f6ca3463,Ciudad Principal,Ciudad Principal,186,186.0,140.0,1171,90.0,183.50558
-f0c49ff5268f79408f8b356f0adf00c7,Ciudad Principal,Ciudad Principal,186,174.0,125.0,1275,95.0,178.1119
-f1d2ec885f9ccd8371d06cf709ffdb1a,Ciudad Principal,MX Amigos y Familia,240,160.0,127.0,590,70.0,161.0515
-f1e5a5090d4e4cc753751df29616d5c5,Ciudad Principal,MX Amigos y Familia,186,118.0,72.0,14,80.0,105.35901
-f213d9d1fdde932c8498c86f0ceffe17,MX Amigos y Familia,Ciudad Principal,240,135.0,111.0,1627,90.0,159.10121
-f21e55b06f8244e4906de1aacc2d214a,Ciudad Principal,Ciudad Principal,186,106.0,70.0,273,90.0,106.907265
-f257285faf339a614c7522e3044a19da,Ciudad Principal,MX Amigos y Familia,180,153.0,103.0,66,40.0,153.64397
-f2d4c05bb4b9a98494b1e368aa32e905,Playa,MX Amigos y Familia,186,175.0,100.0,523,170.0,167.81418
-f2fc48e7e80b3038e5837933b6e80a71,Ciudad Principal,Ciudad Principal,186,177.0,123.0,315,80.0,175.2519
-f3768699e9fe579ade7d86bfd0e90c9c,MX Amigos y Familia,Ciudad Principal,240,188.0,163.0,1627,90.0,212.78795
-f3ac5fc5a10f8eb9088e18a01f594ada,MX Amigos y Familia,Ciudad Principal,220,124.0,92.0,1627,90.0,132.66753
-f47472b402a5b82ed92d714db316db7c,Ciudad Fronteriza,MX Amigos y Familia,180,178.0,99.0,1388,135.0,171.79814
-f491c7b6c1a1cf02bd6d1eb6ef088106,Playa,MX Amigos y Familia,186,186.0,122.0,523,170.0,183.81767
-f4b9378ebda60dddae86c61d029e0c6b,Ciudad Principal,Ciudad Principal,220,215.0,128.0,783,90.0,193.99045
-f5405c1d089b1c9f52c9360910dfb748,Playa,Ciudad Principal,186,168.0,85.0,753,80.0,172.8195
-f544c8693ee258e5eede65980110682c,Playa,MX Amigos y Familia,186,186.0,112.0,523,170.0,175.8468
-f576db4f8610b2339a915cf3ba18408b,Playa,Ciudad Principal,186,159.0,78.0,753,80.0,160.55922
-f5e759866d0b4b5f36058ab4f9a7977c,Ciudad Principal,MX Amigos y Familia,186,161.0,101.0,66,40.0,155.13913
-f68edbcb4f1e62a2688413dbd4b5b9f0,Ciudad Principal,Ciudad Principal,240,201.0,130.0,1275,95.0,198.11731
-f6e15107c5ab4ab9d61b8dbd3266ab39,Ciudad Principal,Ciudad Principal,186,109.0,69.0,273,90.0,105.548065
-f7a73c248ba7ec9d2343e9baa76ba63a,Ciudad Principal,Ciudad Principal,186,165.0,126.0,1767,90.0,175.85147
-f7b3b446e9286bfd0168d59250953cf0,Ciudad Fronteriza,MX Amigos y Familia,186,154.0,95.0,664,75.0,152.22462
-f861c28a90b1d5c8d21443ddbd74fb57,Ciudad Principal,MX Amigos y Familia,186,186.0,130.0,2632,95.0,183.38586
-f9340bb8260737b2f750609a2ead296d,Ciudad Fronteriza,MX Amigos y Familia,186,155.0,104.0,363,145.0,172.4005
-f94adaa1b2594104a7679dd1362c2924,MX Amigos y Familia,Ciudad Fronteriza,236,138.0,87.0,242,180.0,137.02232
-f9774a2c2f04d2c8776c70a5072408e3,Ciudad Principal,Ciudad Principal,240,164.0,99.0,783,90.0,153.08101
-f9d426f70ef7ebb8595c39bf242604c6,Ciudad Principal,Ciudad Principal,186,186.0,140.0,273,90.0,179.38359
-fa5a7426097567a1fc711a21e0e14927,MX Amigos y Familia,Ciudad Principal,220,137.0,113.0,1610,65.0,142.23935
-fa6ce2ca01353ba4bfae405622cdfe35,Ciudad Principal,Ciudad Principal,186,185.0,142.0,315,80.0,183.8772
-fa9ac4c7bcf5b628c18b64ac73fb3bfb,Playa,Ciudad Principal,186,185.0,102.0,768,55.0,165.77428
-fab26fa77e7f1968f194594c483a30a1,MX Amigos y Familia,Ciudad Principal,240,148.0,56.0,1627,90.0,95.65237
-fb5826a11a4aec72b096e7a476a74026,Playa,MX Amigos y Familia,186,172.0,121.0,523,170.0,183.81767
-fb813187cefe246d1422b66b3d121ff5,Ciudad Principal,Ciudad Principal,240,191.0,122.0,1767,90.0,186.91156
-fbe60fbb597f664dc623007b87050efb,MX Amigos y Familia,Ciudad Principal,186,180.0,139.0,6464,115.0,186.44502
-fc8f53f45bd907650b0d5cb3464bfba0,Ciudad Principal,MX Amigos y Familia,186,181.0,115.0,14,80.0,168.95273
-fd3a669727ca612d02e7c59b445b2810,Ciudad Principal,MX Amigos y Familia,180,165.0,101.0,14,80.0,147.58212
-ff003b2ad186512b4485ae6da942d08b,MX Amigos y Familia,Ciudad Principal,220,181.0,132.0,1627,90.0,184.40338
-ff322aa9f105aebebb8810655c53c08b,Ciudad Principal,Ciudad Principal,186,186.0,128.0,1275,95.0,182.03203
-ffb6c291e87241d8be98556077caacda,Playa,Ciudad Principal,186,153.0,95.0,768,55.0,153.56909
-ffec950d11caa52fc06223925fc85282,Ciudad Fronteriza,MX Amigos y Familia,186,118.0,77.0,664,75.0,129.9825
-ffef9414df43ed20dccf1946bf88c0a8,Playa,Ciudad Principal,186,186.0,89.0,753,80.0,167.60785
+Flight_ID,Destination_Type,Origin_Type,Capacity,Passengers,Bookings,Route_ID,Duration,Passengers_Prediction,STD,STA,ArrivalStation,DepartureStation
+005d4d93fa0425fdaf06fcadf4a5e329,Ciudad Fronteriza,MX Amigos y Familia,186,159.0,84.0,363,145.0,154.44997,2023-03-13 06:05:00,2023-03-13 08:30:00,BM,AV
+005efbc1dc541d9092e3f245bf82e79f,Ciudad Principal,MX Amigos y Familia,186,90.0,68.0,66,40.0,108.32196,2023-03-19 08:45:00,2023-03-19 09:25:00,AT,BG
+00d9f09710f3bfc7a350d7ff0a677377,Ciudad Principal,Ciudad Principal,186,180.0,137.0,315,80.0,182.40999,2023-03-15 22:35:00,2023-03-15 23:55:00,AO,AT
+0115b6bf0fb764377c8e91121409eb14,Ciudad Principal,Ciudad Principal,186,146.0,107.0,273,90.0,160.2145,2023-03-04 08:15:00,2023-03-04 09:45:00,AO,AW
+01940c082920ca0cb0abe1710cdd39ac,Ciudad Principal,Ciudad Principal,240,240.0,170.0,1171,90.0,233.00636,2023-03-16 16:35:00,2023-03-16 18:05:00,AO,AW
+01e67177dbaffceb5c08cce7be98e589,Playa,MX Amigos y Familia,186,186.0,129.0,523,170.0,186.56927,2023-03-08 09:00:00,2023-03-08 11:50:00,AK,BP
+01ea816c37f5e833309a0ff4ceeea07f,Ciudad Principal,Ciudad Principal,180,179.0,129.0,401,85.0,173.17735,2023-03-10 06:00:00,2023-03-10 07:25:00,AT,AO
+030fc9c65e073eb899f0f846cd72a474,Ciudad Fronteriza,MX Amigos y Familia,186,163.0,68.0,1388,135.0,158.6775,2023-03-27 06:55:00,2023-03-27 09:10:00,BM,AD
+0391a2e34aa9d27e214e68e5495bc267,Ciudad Principal,MX Amigos y Familia,186,107.0,81.0,14,80.0,119.62955,2023-03-23 06:00:00,2023-03-23 07:20:00,AW,AD
+03a5dc646906ec7d043a32bdeb0f838f,Playa,Ciudad Principal,186,186.0,103.0,753,80.0,178.27318,2023-03-18 13:20:00,2023-03-18 14:40:00,AQ,AT
+03b66068d4d59d8ce558c9fbb3d0f784,Ciudad Principal,Ciudad Principal,186,186.0,119.0,1767,90.0,171.01556,2023-03-02 11:20:00,2023-03-02 12:50:00,AO,AW
+03cccccf08b90385d5e372156905ff24,Ciudad Principal,MX Amigos y Familia,240,161.0,129.0,590,70.0,163.68442,2023-03-21 22:45:00,2023-03-21 23:55:00,AW,BJ
+04359982c99e209e1eede3fd168e3f1f,Ciudad Principal,Ciudad Principal,186,175.0,115.0,273,90.0,169.22139,2023-03-02 08:15:00,2023-03-02 09:45:00,AO,AW
+04acfcd55124aa83195d839b68af48c9,MX Amigos y Familia,Ciudad Fronteriza,186,124.0,89.0,222,230.0,150.51945,2023-03-27 09:50:00,2023-03-27 13:40:00,AD,BM
+06bbcf9232b2d4ed434637b86a6f2266,Ciudad Principal,MX Amigos y Familia,220,206.0,166.0,590,70.0,209.95715,2023-03-16 22:45:00,2023-03-16 23:55:00,AW,BJ
+077a58c772f6da66b849dd5bce70c302,Ciudad Principal,Playa,186,177.0,133.0,3188,55.0,181.06552,2023-03-17 12:15:00,2023-03-17 13:10:00,AO,BD
+078b6b898c856a7cad4ae293d8cffa18,Ciudad Fronteriza,MX Amigos y Familia,186,186.0,113.0,1388,135.0,183.70648,2023-03-25 06:55:00,2023-03-25 09:10:00,BM,AD
+07cb2c722c1a1bcdced0f7c11ad6cdd1,Playa,Ciudad Principal,186,147.0,71.0,753,80.0,150.49634,2023-03-29 13:20:00,2023-03-29 14:40:00,AQ,AT
+08701ff1c97be1d543d931d51ee37fa6,Ciudad Fronteriza,MX Amigos y Familia,186,146.0,88.0,363,145.0,156.8887,2023-03-23 06:05:00,2023-03-23 08:30:00,BM,AV
+0931e5f672eebd99ee241948d25db455,Playa,Ciudad Principal,186,186.0,118.0,768,55.0,180.10355,2023-03-17 10:35:00,2023-03-17 11:30:00,BD,AO
+0942b64d7bc63d44436ad3b6b755af3d,Ciudad Principal,Ciudad Principal,240,175.0,123.0,783,90.0,184.10973,2023-03-29 06:00:00,2023-03-29 07:30:00,AO,AW
+0996429b01207cbbbff9265503322cdd,Playa,MX Amigos y Familia,186,171.0,89.0,523,170.0,159.50375,2023-03-17 09:00:00,2023-03-17 11:50:00,AK,BP
+09983b45d9e8bccecdf2af971c38fcb0,Ciudad Principal,Playa,186,116.0,86.0,3188,55.0,130.78592,2023-03-25 12:15:00,2023-03-25 13:10:00,AO,BD
+0a358f516bb354e1fa21e6e34c7b25f5,Ciudad Principal,MX Amigos y Familia,186,183.0,128.0,2632,95.0,182.68808,2023-03-10 12:55:00,2023-03-10 14:30:00,AO,BP
+0adaf0a53ef8e4cca51d9152240ef4dd,Playa,Ciudad Principal,180,174.0,85.0,753,80.0,166.32181,2023-03-23 13:20:00,2023-03-23 14:40:00,AQ,AT
+0afe56f10f4ae723ca22241217d75663,Ciudad Fronteriza,MX Amigos y Familia,186,175.0,94.0,1388,135.0,165.93614,2023-03-30 06:55:00,2023-03-30 09:10:00,BM,AD
+0b4fdfd403e7796eb961833629bdc6b4,Playa,Ciudad Principal,186,186.0,109.0,768,55.0,176.7389,2023-03-18 10:35:00,2023-03-18 11:30:00,BD,AO
+0b5ae656c4dc2fa650905844a03c78ad,MX Amigos y Familia,Ciudad Fronteriza,186,135.0,71.0,222,230.0,128.75548,2023-03-23 09:50:00,2023-03-23 13:40:00,AD,BM
+0bf73eb6f8da73f4e40af649331348a7,MX Amigos y Familia,Ciudad Principal,240,159.0,119.0,1610,65.0,147.66435,2023-03-27 21:00:00,2023-03-27 22:05:00,BJ,AW
+0c60ce752b4e2c2705412774ff79b0d8,Ciudad Principal,MX Amigos y Familia,186,144.0,108.0,14,80.0,158.14267,2023-03-28 06:00:00,2023-03-28 07:20:00,AW,AD
+0ce92fad873180265eaf20a319b52d34,Ciudad Principal,Ciudad Principal,240,66.0,45.0,783,90.0,68.5785,2023-03-19 06:00:00,2023-03-19 07:30:00,AO,AW
+0d000688ab70e35f9e74e1cea6e26b6d,Ciudad Principal,Ciudad Principal,240,240.0,156.0,1767,90.0,219.76488,2023-03-16 11:20:00,2023-03-16 12:50:00,AO,AW
+0d4204ac030df71db470c37be3811d6b,MX Amigos y Familia,Ciudad Principal,220,169.0,117.0,1627,90.0,161.29555,2023-03-24 06:00:00,2023-03-24 07:30:00,AL,AW
+0dcc6327b9c214d5c34c305850703735,Playa,Ciudad Principal,186,186.0,111.0,768,55.0,175.50768,2023-03-13 10:35:00,2023-03-13 11:30:00,BD,AO
+0deed44ceadb7124cc512a7e44a84c36,Ciudad Principal,Ciudad Principal,240,160.0,118.0,1171,90.0,176.85234,2023-03-08 16:35:00,2023-03-08 18:05:00,AO,AW
+0e5fb5a77f4c7ba839290091ef352c51,Ciudad Principal,Ciudad Principal,186,155.0,121.0,273,90.0,169.75774,2023-03-25 08:15:00,2023-03-25 09:45:00,AO,AW
+0e75e0139cf911fb0d991dc97d0da704,Ciudad Fronteriza,MX Amigos y Familia,186,156.0,87.0,277,85.0,155.20598,2023-03-06 06:05:00,2023-03-06 07:30:00,BM,AV
+0e8f1e0fbcde264a95643af1d2ef3dce,Ciudad Principal,MX Amigos y Familia,186,182.0,118.0,14,80.0,169.88086,2023-03-17 06:00:00,2023-03-17 07:20:00,AW,AD
+0ef5c6aaa99c06ab75a459f9a3fe545e,MX Amigos y Familia,Ciudad Principal,236,169.0,135.0,1610,65.0,176.77089,2023-03-29 21:00:00,2023-03-29 22:05:00,BJ,AW
+10b605994c6b599259318de70d27f6d8,Ciudad Principal,Playa,220,198.0,107.0,4619,100.0,198.38286,2023-03-11 18:15:00,2023-03-11 19:55:00,AW,AK
+110375b561c218e3460f4e2a849a0dd8,Playa,Ciudad Principal,186,170.0,98.0,753,80.0,175.4166,2023-03-03 13:20:00,2023-03-03 14:40:00,AQ,AT
+12150d812d1ae6f2d93033e8ea95e83e,Playa,Ciudad Principal,186,173.0,104.0,768,55.0,166.4022,2023-03-26 10:35:00,2023-03-26 11:30:00,BD,AO
+12d76c49d3c13f69b95d57b904656f1e,Playa,Ciudad Principal,186,167.0,82.0,753,80.0,169.55229,2023-03-21 13:20:00,2023-03-21 14:40:00,AQ,AT
+12e0e10d166b57a54429269cd394ca30,Ciudad Principal,Ecoturismo,240,240.0,177.0,392,125.0,239.92493,2023-03-23 09:05:00,2023-03-23 11:10:00,AT,AU
+1310bad8c046521da840efcd34b3ca32,Ciudad Fronteriza,MX Amigos y Familia,186,172.0,96.0,1388,135.0,168.93419,2023-03-22 06:55:00,2023-03-22 09:10:00,BM,AD
+1461ca79766ad1c687f3b1140298ba61,Playa,Ciudad Principal,180,154.0,73.0,753,80.0,145.34029,2023-03-09 13:20:00,2023-03-09 14:40:00,AQ,AT
+148988b17b957b5d83a37b60d38e45ae,Ciudad Principal,MX Amigos y Familia,186,144.0,56.0,66,40.0,121.67027,2023-03-12 08:45:00,2023-03-12 09:25:00,AT,BG
+14a316031ef81190e22909329515b4c3,Ciudad Principal,Playa,186,172.0,99.0,3188,55.0,157.22107,2023-03-26 12:15:00,2023-03-26 13:10:00,AO,BD
+1504940b75d2a83cfb3996b11a1bec21,Ciudad Fronteriza,MX Amigos y Familia,186,153.0,85.0,1388,135.0,154.98195,2023-03-16 06:55:00,2023-03-16 09:10:00,BM,AD
+150f3f10fa73e8060389c1b431f395de,Ciudad Principal,MX Amigos y Familia,186,179.0,119.0,367,100.0,173.47476,2023-03-09 07:45:00,2023-03-09 09:25:00,AT,BG
+15efc2f8ead53138a143fa6fd72d80a7,Ciudad Principal,Playa,186,105.0,69.0,3188,55.0,108.41291,2023-03-14 12:15:00,2023-03-14 13:10:00,AO,BD
+1627d4a56022b5f29b3eb309e94f86bb,Ciudad Principal,MX Amigos y Familia,240,240.0,191.0,590,70.0,231.39978,2023-03-20 22:45:00,2023-03-20 23:55:00,AW,BJ
+16b6438c9efab1f06ccb385b0d935dea,Ciudad Principal,Ciudad Principal,186,149.0,100.0,273,90.0,154.92163,2023-03-09 08:15:00,2023-03-09 09:45:00,AO,AW
+16b9e7729ae8cdaee8d4040efa18a4a4,Ciudad Principal,MX Amigos y Familia,186,167.0,110.0,367,100.0,165.21684,2023-03-08 07:45:00,2023-03-08 09:25:00,AT,BG
+1723395238d7f44a7b3d324613bcb1cc,Ciudad Fronteriza,MX Amigos y Familia,180,113.0,58.0,664,75.0,110.30777,2023-03-03 06:55:00,2023-03-03 08:10:00,BM,AD
+176602ff1f602f1350aefe0b551cc9c4,Ciudad Principal,Ciudad Principal,186,185.0,143.0,401,85.0,181.02048,2023-03-23 06:00:00,2023-03-23 07:25:00,AT,AO
+1834b9758770da2d5c042a10e51ec945,Playa,MX Amigos y Familia,186,186.0,124.0,523,170.0,184.47137,2023-03-06 09:00:00,2023-03-06 11:50:00,AK,BP
+18606fe92d351737745d96cc2553671c,Ciudad Principal,Ecoturismo,240,240.0,190.0,392,125.0,241.95247,2023-03-16 09:05:00,2023-03-16 11:10:00,AT,AU
+196c10dc076c5a8344dcc20ecc883663,Ciudad Principal,Ciudad Principal,186,107.0,78.0,273,90.0,118.02362,2023-03-26 08:15:00,2023-03-26 09:45:00,AO,AW
+1984de1f561877c474541a70b5571a43,Playa,Ciudad Principal,186,155.0,74.0,753,80.0,154.78934,2023-03-10 13:20:00,2023-03-10 14:40:00,AQ,AT
+19a309a5f9ba41b44a6ed706059dbbb3,Ciudad Principal,MX Amigos y Familia,186,86.0,60.0,14,80.0,90.23567,2023-03-04 06:00:00,2023-03-04 07:20:00,AW,AD
+19f1a70edab2e8348fea365566615fbf,Ciudad Principal,Ciudad Principal,240,198.0,139.0,1767,90.0,202.32735,2023-03-12 11:20:00,2023-03-12 12:50:00,AO,AW
+19fb26e4794095c6f1bf4e8f67995c02,MX Amigos y Familia,Ciudad Fronteriza,240,88.0,55.0,242,180.0,91.30214,2023-03-01 06:10:00,2023-03-01 09:10:00,AJ,BM
+1a0959208d42310d0914183e8e4fb8f2,Playa,Ciudad Principal,240,178.0,119.0,768,55.0,188.01982,2023-03-12 10:35:00,2023-03-12 11:30:00,BD,AO
+1a3009eeea74a83559f39ef6f555b4d1,Ciudad Principal,Ciudad Principal,186,186.0,127.0,315,80.0,178.51245,2023-03-28 22:35:00,2023-03-28 23:55:00,AO,AT
+1aa785904076cb494a45e8283cf976ee,Ciudad Principal,Ciudad Principal,220,211.0,164.0,783,90.0,215.274,2023-03-07 06:00:00,2023-03-07 07:30:00,AO,AW
+1b2ca62e634381833cc48a10c36fc155,Ciudad Principal,Ciudad Principal,240,112.0,87.0,1171,90.0,131.70158,2023-03-01 16:35:00,2023-03-01 18:05:00,AO,AW
+1c1e9a2a81ad6f58b80f39f75f42e58c,MX Amigos y Familia,Ciudad Fronteriza,186,147.0,92.0,2462,290.0,151.90787,2023-03-04 08:50:00,2023-03-04 13:40:00,AD,BM
+1c55abf2d89cad241431c019abe7f2d8,Ciudad Principal,Ciudad Principal,180,151.0,106.0,401,85.0,154.45686,2023-03-19 06:00:00,2023-03-19 07:25:00,AT,AO
+1c5743f9353fd5946f2e9b2cca1339d7,MX Amigos y Familia,Ciudad Fronteriza,186,156.0,88.0,222,230.0,153.24583,2023-03-18 09:50:00,2023-03-18 13:40:00,AD,BM
+1c86527fa04fe3a33d1a12ce20a71d45,MX Amigos y Familia,Ciudad Fronteriza,180,149.0,81.0,222,230.0,142.72127,2023-03-28 09:50:00,2023-03-28 13:40:00,AD,BM
+1ca50d911e7950c66558b465d19de62e,Playa,Ciudad Principal,186,181.0,70.0,753,80.0,168.98477,2023-03-27 13:20:00,2023-03-27 14:40:00,AQ,AT
+1d43a78c83497d228f039beae8d6f0d3,Playa,Ciudad Principal,186,153.0,78.0,753,80.0,160.55922,2023-03-15 13:20:00,2023-03-15 14:40:00,AQ,AT
+1d5264e02cc6e0cb71d925e4284426cb,Playa,Ciudad Principal,180,157.0,86.0,753,80.0,161.62993,2023-03-04 13:20:00,2023-03-04 14:40:00,AQ,AT
+1e0d1c4d5bb5561e9138298e287117ce,Ciudad Principal,MX Amigos y Familia,186,186.0,143.0,14,80.0,182.41754,2023-03-21 06:00:00,2023-03-21 07:20:00,AW,AD
+1e1545d17ba6a258b0abd9cdd2614638,Ciudad Principal,Playa,186,121.0,74.0,3188,55.0,113.77221,2023-03-22 12:15:00,2023-03-22 13:10:00,AO,BD
+1e749391ec2b12afe7da3d364d870ae9,Ciudad Principal,MX Amigos y Familia,220,121.0,92.0,590,70.0,118.67979,2023-03-14 22:45:00,2023-03-14 23:55:00,AW,BJ
+1f97df1356e018dfd98886bea4085d65,Ciudad Principal,Playa,186,167.0,100.0,3188,55.0,157.22107,2023-03-21 12:15:00,2023-03-21 13:10:00,AO,BD
+1ffabb2dd25e711c36bdb9df674fa544,Ciudad Principal,Ciudad Principal,240,223.0,158.0,1767,90.0,224.25069,2023-03-24 11:20:00,2023-03-24 12:50:00,AO,AW
+212fc44d25e49084cfb11e9a8c4c798f,MX Amigos y Familia,Ciudad Principal,186,103.0,71.0,1627,90.0,101.53064,2023-03-04 06:00:00,2023-03-04 07:30:00,AL,AW
+2178cce8b984db064950bb2b999786a5,Ciudad Principal,Ciudad Principal,240,215.0,147.0,1171,90.0,213.8353,2023-03-05 16:35:00,2023-03-05 18:05:00,AO,AW
+21a05ed6b47a7f56c586e6672a4c6b17,Ciudad Principal,Playa,186,143.0,105.0,3188,55.0,160.92215,2023-03-24 12:15:00,2023-03-24 13:10:00,AO,BD
+21b09f4cca9d5886647e35c368dbd5b8,Ciudad Fronteriza,MX Amigos y Familia,186,175.0,82.0,363,145.0,153.73842,2023-03-27 06:05:00,2023-03-27 08:30:00,BM,AV
+22681c7a364c28b938ab681d61a7ef6d,Ciudad Principal,Ciudad Principal,186,165.0,97.0,401,85.0,143.79173,2023-03-26 06:00:00,2023-03-26 07:25:00,AT,AO
+227c8dea55a305bde194e27703f367ad,Ciudad Principal,MX Amigos y Familia,240,91.0,72.0,590,70.0,88.95923,2023-03-07 22:45:00,2023-03-07 23:55:00,AW,BJ
+23552d3cc26f956f07d6a9b63f196fd7,MX Amigos y Familia,Ciudad Fronteriza,220,65.0,51.0,242,180.0,68.87393,2023-03-08 06:10:00,2023-03-08 09:10:00,AJ,BM
+23aa29d23641d18de486b329ecf4b136,Ciudad Principal,Ecoturismo,240,240.0,176.0,392,125.0,239.92493,2023-03-05 09:05:00,2023-03-05 11:10:00,AT,AU
+23af39e1b1d634652e358d78218621b1,Ciudad Principal,Playa,186,143.0,89.0,3188,55.0,142.18697,2023-03-16 12:15:00,2023-03-16 13:10:00,AO,BD
+2417047ae9595f74172715fdc7f3f164,Ciudad Principal,Ecoturismo,240,240.0,173.0,392,125.0,239.71133,2023-03-01 09:05:00,2023-03-01 11:10:00,AT,AU
+241a2259ffc1f7101062b9ad6772f03c,Ciudad Principal,MX Amigos y Familia,186,173.0,141.0,590,70.0,167.20522,2023-03-12 22:45:00,2023-03-12 23:55:00,AW,BJ
+2450364e11ef233569c02759bc737775,Playa,MX Amigos y Familia,186,171.0,105.0,523,170.0,170.94325,2023-03-20 09:00:00,2023-03-20 11:50:00,AK,BP
+248afe082e4f5230d71cd0b6dad794ca,Ciudad Principal,MX Amigos y Familia,180,157.0,91.0,66,40.0,146.41411,2023-03-17 08:45:00,2023-03-17 09:25:00,AT,BG
+24ebcf8c6e8cd8b1963deee0b64e0670,Ciudad Principal,Ciudad Principal,220,40.0,31.0,783,90.0,43.503685,2023-03-26 06:00:00,2023-03-26 07:30:00,AO,AW
+2548c62946f7449858c97e9d979a18a2,Ciudad Principal,Ciudad Principal,186,184.0,144.0,315,80.0,183.90424,2023-03-17 22:35:00,2023-03-17 23:55:00,AO,AT
+25ff646bc348d6ed503bd9c721dc66cb,Playa,MX Amigos y Familia,186,184.0,114.0,523,170.0,179.53343,2023-03-10 09:00:00,2023-03-10 11:50:00,AK,BP
+26310a4694a50064131bab73ed64a5c1,MX Amigos y Familia,Ciudad Principal,240,213.0,168.0,1610,65.0,221.23811,2023-03-20 21:00:00,2023-03-20 22:05:00,BJ,AW
+263480aa59881a1e031a4fe9e9517885,Ciudad Principal,Ciudad Principal,186,167.0,117.0,273,90.0,169.32248,2023-03-30 08:15:00,2023-03-30 09:45:00,AO,AW
+26807fc290d7ae4712121f6902337d63,Ciudad Principal,MX Amigos y Familia,186,172.0,98.0,66,40.0,151.34299,2023-03-31 08:45:00,2023-03-31 09:25:00,AT,BG
+2693a750f4a3fc0614d52249b53fd35e,MX Amigos y Familia,Ciudad Fronteriza,186,145.0,89.0,2462,290.0,146.52713,2023-03-08 08:50:00,2023-03-08 13:40:00,AD,BM
+26f678a49d7017d356abb76b55c2b4da,MX Amigos y Familia,Ciudad Fronteriza,186,186.0,103.0,222,230.0,174.97694,2023-03-13 09:50:00,2023-03-13 13:40:00,AD,BM
+27fc64668e00edd03e3b9c1969881af2,Ciudad Fronteriza,MX Amigos y Familia,186,158.0,91.0,1388,135.0,162.32797,2023-03-20 06:55:00,2023-03-20 09:10:00,BM,AD
+286c18062a71f52b7c854b3b22db6bb2,MX Amigos y Familia,Ciudad Principal,240,134.0,116.0,1610,65.0,144.31569,2023-03-21 21:00:00,2023-03-21 22:05:00,BJ,AW
+28b7cd49af689edd91842e14a4957274,Ciudad Principal,Ciudad Principal,186,186.0,126.0,273,90.0,174.36238,2023-03-17 08:15:00,2023-03-17 09:45:00,AO,AW
+28f170940014a04c9ab6995447143ba0,MX Amigos y Familia,Ciudad Fronteriza,186,145.0,71.0,222,230.0,128.75548,2023-03-20 09:50:00,2023-03-20 13:40:00,AD,BM
+294647ea7aec43d42d5628333d429b5a,Ciudad Principal,MX Amigos y Familia,186,152.0,104.0,66,40.0,153.96103,2023-03-23 08:45:00,2023-03-23 09:25:00,AT,BG
+2a09404ca3584712f9f6419a767c801c,Ciudad Principal,Ciudad Principal,240,182.0,131.0,1171,90.0,194.39876,2023-03-28 16:35:00,2023-03-28 18:05:00,AO,AW
+2a6c464c7e2adcaba628204eea2a2eae,Ciudad Principal,Ciudad Principal,186,140.0,101.0,401,85.0,150.26112,2023-03-15 06:00:00,2023-03-15 07:25:00,AT,AO
+2b7ae21eb0a1580393212a63ea114aca,Playa,Ciudad Principal,186,157.0,119.0,768,55.0,171.61427,2023-03-15 10:35:00,2023-03-15 11:30:00,BD,AO
+2b7b3d8554faa4c22fd6e5e33b1551ba,Ciudad Principal,MX Amigos y Familia,186,186.0,115.0,2632,95.0,176.87932,2023-03-31 12:55:00,2023-03-31 14:30:00,AO,BP
+2d9674423e7a450d700d703ddffa50ea,Ciudad Principal,Ciudad Principal,186,186.0,123.0,401,85.0,175.18584,2023-03-31 06:00:00,2023-03-31 07:25:00,AT,AO
+2da66c0fa26a600d6c585b725ca7b518,Ciudad Principal,Ciudad Principal,220,193.0,124.0,1767,90.0,187.26428,2023-03-30 11:20:00,2023-03-30 12:50:00,AO,AW
+2ece134f8cd47d602b0a76ad7481d5f5,Ciudad Principal,Ciudad Principal,240,65.0,38.0,783,90.0,54.8343,2023-03-12 06:00:00,2023-03-12 07:30:00,AO,AW
+2fec9f3d9557a53586617680f79b9de7,Playa,Ciudad Principal,180,169.0,89.0,753,80.0,159.95218,2023-03-26 13:20:00,2023-03-26 14:40:00,AQ,AT
+2ffe3d3f1b3172db782691256a7b3dcd,Ciudad Principal,Ciudad Principal,220,216.0,141.0,783,90.0,207.68602,2023-03-18 06:00:00,2023-03-18 07:30:00,AO,AW
+302819011c2ad1782dccd21f5cd3f9dc,Playa,MX Amigos y Familia,186,166.0,105.0,523,170.0,170.94325,2023-03-15 09:00:00,2023-03-15 11:50:00,AK,BP
+304926e63d7b79783d4439805cb33a2e,Ciudad Principal,Ciudad Principal,186,157.0,91.0,273,90.0,142.6919,2023-03-20 08:15:00,2023-03-20 09:45:00,AO,AW
+3069147262f62392a911d7ff6672b61e,MX Amigos y Familia,Ciudad Principal,186,183.0,130.0,6464,115.0,182.60689,2023-03-04 10:30:00,2023-03-04 12:25:00,BQ,AO
+307104b823f609eeee1791265c498d72,Ciudad Principal,Ecoturismo,240,240.0,164.0,392,125.0,237.05777,2023-03-13 09:05:00,2023-03-13 11:10:00,AT,AU
+307bbeccf9ecc33cd5acd663a4109717,Ciudad Principal,MX Amigos y Familia,186,152.0,109.0,66,40.0,160.9956,2023-03-18 08:45:00,2023-03-18 09:25:00,AT,BG
+3104cc6d391618857e4ce25d9f50d856,Ciudad Principal,Ciudad Principal,186,172.0,139.0,273,90.0,178.15115,2023-03-22 08:15:00,2023-03-22 09:45:00,AO,AW
+31355e1dc5f8888da0a49a8b63095d49,Playa,MX Amigos y Familia,186,172.0,118.0,523,170.0,181.3733,2023-03-04 09:00:00,2023-03-04 11:50:00,AK,BP
+31414366d7df5ef2001366d868263527,Ciudad Principal,Ciudad Principal,186,150.0,94.0,273,90.0,146.671,2023-03-10 08:15:00,2023-03-10 09:45:00,AO,AW
+324fc989b788c529d64327e4e08d2f75,Ciudad Principal,Ciudad Principal,186,158.0,110.0,401,85.0,160.46542,2023-03-03 06:00:00,2023-03-03 07:25:00,AT,AO
+327628df9d6824b08774db34a18738d6,Ciudad Principal,Ciudad Principal,186,170.0,134.0,401,85.0,178.0765,2023-03-07 06:00:00,2023-03-07 07:25:00,AT,AO
+329f49b180c036c2385ad16ebbbf7504,MX Amigos y Familia,Ciudad Fronteriza,186,173.0,102.0,222,230.0,174.83443,2023-03-17 09:50:00,2023-03-17 13:40:00,AD,BM
+335159b5006bbceafec157a1f0789da8,Playa,Ciudad Principal,186,186.0,83.0,753,80.0,172.8195,2023-03-13 13:20:00,2023-03-13 14:40:00,AQ,AT
+33a4a35785623b0939ec6f6230173b9e,MX Amigos y Familia,Ciudad Principal,240,146.0,93.0,1627,90.0,132.66753,2023-03-03 06:00:00,2023-03-03 07:30:00,AL,AW
+33a8c4bef26c53bed70f32aacd9b436c,Playa,Ciudad Principal,186,179.0,92.0,753,80.0,174.86163,2023-03-17 13:20:00,2023-03-17 14:40:00,AQ,AT
+33c99cea7edd115454d3bb571a2d1fe8,Ciudad Principal,Ciudad Principal,186,186.0,141.0,315,80.0,183.8772,2023-03-03 22:35:00,2023-03-03 23:55:00,AO,AT
+345376d7ba4c26015cfc609b1dc304ca,Ciudad Principal,Ciudad Principal,180,180.0,126.0,1275,95.0,177.45435,2023-03-13 12:40:00,2023-03-13 14:15:00,AW,BA
+345376d7ba4c26015cfc609b1dc304ca,Ciudad Principal,Ciudad Principal,180,180.0,126.0,1275,95.0,177.45435,2023-03-13 10:40:00,2023-03-13 12:00:00,BA,AB
+351c32a9e35bdd2f02fbe83ff525ab0e,Ciudad Principal,Ecoturismo,240,240.0,192.0,392,125.0,242.23334,2023-03-11 09:05:00,2023-03-11 11:10:00,AT,AU
+3546c7df6f1eae84ed7f26fdbc0d4cd1,Ciudad Principal,MX Amigos y Familia,180,165.0,97.0,367,100.0,153.97697,2023-03-02 07:45:00,2023-03-02 09:25:00,AT,BG
+35812868021727df44c69e420a9f36f9,Playa,Ciudad Principal,180,156.0,77.0,753,80.0,152.04228,2023-03-22 13:20:00,2023-03-22 14:40:00,AQ,AT
+359c342abf8e43594bdf919d1bb45238,Ciudad Principal,MX Amigos y Familia,186,149.0,126.0,590,70.0,153.49007,2023-03-10 22:45:00,2023-03-10 23:55:00,AW,BJ
+35bd6a0c8e9e26bae6836b5bd8b6b06b,Ciudad Principal,MX Amigos y Familia,240,190.0,154.0,590,70.0,198.45024,2023-03-17 22:45:00,2023-03-17 23:55:00,AW,BJ
+3622c36638a60432c230153ae87efe6d,Ciudad Principal,MX Amigos y Familia,180,147.0,100.0,66,40.0,149.23878,2023-03-20 08:45:00,2023-03-20 09:25:00,AT,BG
+36772929b3a14c119ea59fa53cbf4c59,Ciudad Principal,Playa,220,220.0,96.0,4619,100.0,217.79535,2023-03-25 18:15:00,2023-03-25 19:55:00,AW,AK
+36c89a5ce5b88be7e10990eb2a6c371a,Ciudad Principal,Ciudad Principal,240,140.0,112.0,1171,90.0,170.68396,2023-03-25 16:35:00,2023-03-25 18:05:00,AO,AW
+36dbf9a3a89801905f9ec431ee9f80f9,Playa,MX Amigos y Familia,186,186.0,118.0,523,170.0,181.3733,2023-03-05 09:00:00,2023-03-05 11:50:00,AK,BP
+36eb2be29a97757545a981070b4231b0,Ciudad Principal,Ciudad Principal,240,184.0,133.0,1767,90.0,195.8731,2023-03-25 11:20:00,2023-03-25 12:50:00,AO,AW
+37992fbeafe15ffc0914727bf2333a56,Ciudad Principal,Ciudad Principal,220,43.0,23.0,783,90.0,41.252773,2023-03-05 06:00:00,2023-03-05 07:30:00,AO,AW
+3963ca6a28fce6e1255dbe26c9dad474,Ciudad Fronteriza,MX Amigos y Familia,186,165.0,85.0,1388,135.0,154.98195,2023-03-21 06:55:00,2023-03-21 09:10:00,BM,AD
+39e1fe5dd67babd6cb011d0d8b48770e,Ciudad Principal,Ciudad Principal,186,176.0,124.0,783,90.0,176.02313,2023-03-02 06:00:00,2023-03-02 07:30:00,AO,AW
+39e8665323fe6c190cdbb461aaab11d5,Ciudad Principal,MX Amigos y Familia,186,181.0,111.0,14,80.0,161.82816,2023-03-29 06:00:00,2023-03-29 07:20:00,AW,AD
+39faa76eb4de9b6fda3a64c372fa753a,Playa,MX Amigos y Familia,186,159.0,106.0,523,170.0,171.67152,2023-03-28 09:00:00,2023-03-28 11:50:00,AK,BP
+3a7515aae4ef960bf4a30468c2ccd627,Ciudad Principal,Ciudad Principal,186,171.0,126.0,1767,90.0,175.85147,2023-03-26 11:20:00,2023-03-26 12:50:00,AO,AW
+3bc71f93fc6930cc895a02b43e43b119,Ciudad Principal,Playa,186,170.0,96.0,3188,55.0,153.4339,2023-03-18 12:15:00,2023-03-18 13:10:00,AO,BD
+3c80d4419c327396afa50004c6a728e0,Playa,Ciudad Principal,186,164.0,90.0,768,55.0,147.16914,2023-03-20 10:35:00,2023-03-20 11:30:00,BD,AO
+3d5101a93f28dd5288927a58dab12d1c,MX Amigos y Familia,Ciudad Fronteriza,186,126.0,77.0,2462,290.0,131.80142,2023-03-09 08:50:00,2023-03-09 13:40:00,AD,BM
+3d857f85cc90bb0b5d66be44ca2a77f8,Ciudad Principal,Playa,240,167.0,96.0,3188,55.0,154.92508,2023-03-12 12:15:00,2023-03-12 13:10:00,AO,BD
+3e6b7493ebf4b3107eadb0e90c7fe49e,Playa,MX Amigos y Familia,186,186.0,118.0,523,170.0,181.3733,2023-03-29 09:00:00,2023-03-29 11:50:00,AK,BP
+3ef4f8db66d05b7ee6f6aae681c56f00,Ciudad Principal,Ciudad Principal,180,180.0,131.0,783,90.0,176.75078,2023-03-24 06:00:00,2023-03-24 07:30:00,AO,AW
+3f8237ab1d88fadfa9eb04362a2ebfd9,MX Amigos y Familia,Ciudad Principal,186,178.0,136.0,1610,65.0,173.26895,2023-03-02 21:00:00,2023-03-02 22:05:00,BJ,AW
+403b7bb830666a23a78abc39a2b3635b,Ciudad Principal,Ciudad Principal,180,175.0,139.0,315,80.0,177.73605,2023-03-09 22:35:00,2023-03-09 23:55:00,AO,AT
+4088e0d905e02c91f7ce8937c686261d,Ciudad Principal,Playa,240,136.0,80.0,1426,145.0,144.68636,2023-03-31 12:20:00,2023-03-31 14:45:00,AW,AY
+40c81fd5c3b66dcc06c7bfac23d72fdf,Ciudad Principal,Ciudad Principal,240,215.0,146.0,1767,90.0,211.6054,2023-03-03 11:20:00,2023-03-03 12:50:00,AO,AW
+419ae6d111348e9f40b15c6fa3f83d25,Ciudad Principal,MX Amigos y Familia,186,133.0,79.0,14,80.0,116.156815,2023-03-20 06:00:00,2023-03-20 07:20:00,AW,AD
+41c03042aa154940a8e0f5df25edeccf,Ciudad Principal,MX Amigos y Familia,180,104.0,84.0,367,100.0,131.78432,2023-03-05 07:45:00,2023-03-05 09:25:00,AT,BG
+43016b87252f6691235795e6cacadc00,Ciudad Principal,MX Amigos y Familia,186,186.0,132.0,7060,120.0,184.12193,2023-03-18 13:05:00,2023-03-18 15:05:00,AO,BQ
+4425c56dfa6490fcf38c7c41fe24c8d5,Ciudad Principal,Ciudad Principal,240,198.0,111.0,1767,90.0,173.42476,2023-03-10 11:20:00,2023-03-10 12:50:00,AO,AW
+4442a1ca9480a3f6d7e12d739bbd272c,MX Amigos y Familia,Ciudad Fronteriza,180,140.0,78.0,222,230.0,137.50148,2023-03-29 09:50:00,2023-03-29 13:40:00,AD,BM
+445da712acc8cf38cacfce4fe56dfda7,Playa,MX Amigos y Familia,186,186.0,119.0,523,170.0,181.3733,2023-03-13 09:00:00,2023-03-13 11:50:00,AK,BP
+446ffad3969352d907aaff303b90853b,MX Amigos y Familia,Ciudad Principal,240,240.0,182.0,1610,65.0,236.5089,2023-03-30 21:00:00,2023-03-30 22:05:00,BJ,AW
+44bc8778ea0edb3373d0a3c2263a58a7,Ciudad Principal,Ciudad Principal,240,224.0,163.0,783,90.0,228.82289,2023-03-15 06:00:00,2023-03-15 07:30:00,AO,AW
+44bf5dbab515c9f75cb65a46a5b36331,Ciudad Principal,Ciudad Principal,186,186.0,141.0,315,80.0,183.8772,2023-03-12 22:35:00,2023-03-12 23:55:00,AO,AT
+460b98b05f4dab4af530ef0d88650380,Playa,MX Amigos y Familia,186,170.0,119.0,523,170.0,181.3733,2023-03-14 09:00:00,2023-03-14 11:50:00,AK,BP
+463c014cdf1efd1a6549b1f1835e51c0,MX Amigos y Familia,Ciudad Fronteriza,186,167.0,88.0,222,230.0,153.24583,2023-03-31 09:50:00,2023-03-31 13:40:00,AD,BM
+468f0f815748cf8dca990254c7e0e166,MX Amigos y Familia,Ciudad Fronteriza,220,109.0,73.0,242,180.0,116.43653,2023-03-02 06:10:00,2023-03-02 09:10:00,AJ,BM
+46e7fe3a0ca231405d9ebd1b0dde52bf,MX Amigos y Familia,Ciudad Fronteriza,236,66.0,43.0,242,180.0,63.64504,2023-03-05 06:10:00,2023-03-05 09:10:00,AJ,BM
+471fc03a602c058aee948c4b832f16c0,Ciudad Principal,Ciudad Principal,180,174.0,121.0,1767,90.0,172.63646,2023-03-08 11:20:00,2023-03-08 12:50:00,AO,AW
+4990d3baf5b1680303b0ec4f6a12efba,Ciudad Principal,Ciudad Principal,240,156.0,102.0,1767,90.0,154.41754,2023-03-14 11:20:00,2023-03-14 12:50:00,AO,AW
+4997a559b8e55b4a09f4d2dfc174b4ba,Ciudad Principal,MX Amigos y Familia,186,112.0,77.0,367,100.0,127.489784,2023-03-06 07:45:00,2023-03-06 09:25:00,AT,BG
+4a0c8a8b1898485e3631bf5d7ac8e253,Ciudad Principal,Ecoturismo,220,220.0,173.0,392,125.0,224.38263,2023-03-27 09:05:00,2023-03-27 11:10:00,AT,AU
+4a6a0688e024de81427fa0833a31b2cc,Ciudad Principal,Ecoturismo,236,236.0,166.0,392,125.0,236.35306,2023-03-19 09:05:00,2023-03-19 11:10:00,AT,AU
+4a9fdc68aeb1b399cb6ca314d4a4f404,MX Amigos y Familia,Ciudad Fronteriza,180,134.0,84.0,2462,290.0,140.41672,2023-03-10 08:50:00,2023-03-10 13:40:00,AD,BM
+4b50ec79aaf36a29606cfe6f1f2fcfc4,MX Amigos y Familia,Ciudad Principal,240,178.0,116.0,1627,90.0,161.1596,2023-03-23 06:00:00,2023-03-23 07:30:00,AL,AW
+4c22bc55358c01037bef25e0d2bdb009,Ciudad Principal,Ciudad Principal,240,240.0,153.0,783,90.0,223.17056,2023-03-17 06:00:00,2023-03-17 07:30:00,AO,AW
+4e0ba92d506562ad12c7f5efd02d579b,MX Amigos y Familia,Ciudad Principal,220,215.0,169.0,1610,65.0,214.39104,2023-03-16 21:00:00,2023-03-16 22:05:00,BJ,AW
+4e3c576c49551345bcf8aac128a9ce6a,Ciudad Principal,MX Amigos y Familia,180,180.0,125.0,2632,95.0,177.73405,2023-03-03 12:55:00,2023-03-03 14:30:00,AO,BP
+4e42c53dc038253fa98a2285375183b2,Ciudad Principal,Ciudad Principal,220,186.0,109.0,1275,95.0,176.70895,2023-03-06 12:40:00,2023-03-06 14:15:00,AW,BA
+4e42c53dc038253fa98a2285375183b2,Ciudad Principal,Ciudad Principal,220,186.0,109.0,1275,95.0,176.70895,2023-03-06 10:40:00,2023-03-06 12:00:00,BA,AB
+4e6cc303e09d579b726c355e01361d0e,Ciudad Fronteriza,MX Amigos y Familia,180,178.0,108.0,1388,135.0,178.16951,2023-03-28 06:55:00,2023-03-28 09:10:00,BM,AD
+4ebba3cc6933080d80af6fdfd59d8133,Ciudad Principal,MX Amigos y Familia,186,186.0,140.0,7060,120.0,187.49632,2023-03-25 13:05:00,2023-03-25 15:05:00,AO,BQ
+4f3445c41bb917858482268c535a6d02,Playa,Ciudad Principal,186,157.0,92.0,768,55.0,154.30176,2023-03-30 10:35:00,2023-03-30 11:30:00,BD,AO
+4f6004f539ad838fdb5d9f3ffee06be0,MX Amigos y Familia,Ciudad Fronteriza,220,190.0,117.0,242,180.0,187.47466,2023-03-03 06:10:00,2023-03-03 09:10:00,AJ,BM
+500f49a8eb1378465110ba6e882b6d93,Ciudad Fronteriza,MX Amigos y Familia,186,182.0,49.0,277,85.0,171.61884,2023-03-11 06:05:00,2023-03-11 07:30:00,BM,AV
+50254759818974be2eb8dc89bc9be14e,MX Amigos y Familia,Ciudad Fronteriza,186,181.0,93.0,222,230.0,167.4461,2023-03-15 09:50:00,2023-03-15 13:40:00,AD,BM
+5033a1aa36c1ca962a20edf579ccd9df,Ciudad Principal,Ciudad Principal,240,191.0,128.0,1171,90.0,193.61127,2023-03-23 16:35:00,2023-03-23 18:05:00,AO,AW
+5245242e0788af748a9b64f3cd5050c0,Ciudad Principal,Ciudad Principal,186,181.0,125.0,401,85.0,177.26138,2023-03-27 06:00:00,2023-03-27 07:25:00,AT,AO
+526f832cf56e5d90276866c8f53ccd80,Ciudad Principal,MX Amigos y Familia,180,116.0,88.0,14,80.0,125.81564,2023-03-09 06:00:00,2023-03-09 07:20:00,AW,AD
+52f0b5f996dedaf25127827c7750878a,Playa,Ciudad Principal,186,154.0,86.0,768,55.0,136.8034,2023-03-19 10:35:00,2023-03-19 11:30:00,BD,AO
+532fa5635678d6838bd3520a69fe50e8,MX Amigos y Familia,Ciudad Fronteriza,186,88.0,52.0,242,180.0,74.90541,2023-03-07 06:10:00,2023-03-07 09:10:00,AJ,BM
+5351564ea129c99df77d7a57a15c01f3,Ciudad Fronteriza,MX Amigos y Familia,186,163.0,102.0,363,145.0,172.25798,2023-03-12 06:05:00,2023-03-12 08:30:00,BM,AV
+538e2552b738ff124a71d07f25b13b9c,Ciudad Principal,Ciudad Principal,220,178.0,130.0,1171,90.0,192.99791,2023-03-07 16:35:00,2023-03-07 18:05:00,AO,AW
+53fab14bd20db00d03fcaaa012b84bb1,MX Amigos y Familia,Ciudad Fronteriza,186,135.0,81.0,222,230.0,143.55919,2023-03-22 09:50:00,2023-03-22 13:40:00,AD,BM
+54c61b2d4ecfc38fe87c0397b48b11bd,Playa,Ciudad Principal,186,164.0,76.0,753,80.0,160.55922,2023-03-16 13:20:00,2023-03-16 14:40:00,AQ,AT
+558148fbea0ed000c4250c592b1b4f0f,MX Amigos y Familia,Ciudad Principal,240,240.0,173.0,1610,65.0,234.3413,2023-03-17 21:00:00,2023-03-17 22:05:00,BJ,AW
+56695e664c3daf7940318c67d9923c11,Ciudad Principal,Ciudad Principal,186,169.0,148.0,401,85.0,181.43495,2023-03-21 06:00:00,2023-03-21 07:25:00,AT,AO
+56c20bea53bf94018ee5df571324357a,Ciudad Principal,MX Amigos y Familia,186,113.0,87.0,66,40.0,161.36685,2023-03-21 08:45:00,2023-03-21 09:25:00,AT,BG
+57406fbd963df2ca3b30cdcf92c3f8f5,MX Amigos y Familia,Ciudad Fronteriza,186,118.0,77.0,222,230.0,138.3394,2023-03-24 09:50:00,2023-03-24 13:40:00,AD,BM
+5769781175838c1516f48275f7377e97,MX Amigos y Familia,Ciudad Principal,220,139.0,115.0,1610,65.0,142.23935,2023-03-14 21:00:00,2023-03-14 22:05:00,BJ,AW
+5789c4419f0d6d29dea5710056c93da7,Ciudad Principal,Ciudad Principal,186,160.0,125.0,401,85.0,177.26138,2023-03-02 06:00:00,2023-03-02 07:25:00,AT,AO
+57b08b476afbbf09f749263c1b6ab70a,MX Amigos y Familia,Ciudad Principal,186,141.0,89.0,1627,90.0,130.40842,2023-03-09 06:00:00,2023-03-09 07:30:00,AL,AW
+581ab61b41a4c94b2cd81187c129d625,MX Amigos y Familia,Ciudad Fronteriza,186,166.0,104.0,222,230.0,171.0971,2023-03-19 09:50:00,2023-03-19 13:40:00,AD,BM
+584d71522a395b1f0ccd2733f0e8dfbb,Ciudad Principal,MX Amigos y Familia,186,186.0,129.0,7060,120.0,183.10907,2023-03-11 13:05:00,2023-03-11 15:05:00,AO,BQ
+58a8e6c75df266d1ad7a8715419a6344,MX Amigos y Familia,Ciudad Principal,186,121.0,87.0,1627,90.0,126.01794,2023-03-25 06:00:00,2023-03-25 07:30:00,AL,AW
+5923527ff7124fb026fa118aadb97f42,Ciudad Principal,Ciudad Principal,186,166.0,130.0,401,85.0,176.32648,2023-03-08 06:00:00,2023-03-08 07:25:00,AT,AO
+59a236d617a48bfd3bd1b278448ddd69,Ciudad Principal,Ciudad Principal,186,157.0,117.0,783,90.0,167.746,2023-03-08 06:00:00,2023-03-08 07:30:00,AO,AW
+5a05ac1d3e86961bdbbbcb350bb9a7e5,MX Amigos y Familia,Ciudad Fronteriza,186,182.0,95.0,222,230.0,167.5339,2023-03-14 09:50:00,2023-03-14 13:40:00,AD,BM
+5a086d653e0ae58ae597414d966ccb19,Playa,MX Amigos y Familia,240,140.0,108.0,2309,55.0,166.95616,2023-03-06 17:15:00,2023-03-06 18:10:00,AR,AJ
+5a420979a70d3070cdd94e48d7643f54,Ciudad Principal,Ciudad Principal,186,185.0,99.0,273,90.0,157.6287,2023-03-24 08:15:00,2023-03-24 09:45:00,AO,AW
+5aa258b8b1638b3ab36fcc67c08ad5ac,Ciudad Principal,MX Amigos y Familia,220,181.0,143.0,590,70.0,180.74121,2023-03-26 22:45:00,2023-03-26 23:55:00,AW,BJ
+5abcaf5ab26eb42e1311a2787fbfe5ea,Playa,MX Amigos y Familia,186,165.0,102.0,523,170.0,166.08798,2023-03-02 09:00:00,2023-03-02 11:50:00,AK,BP
+5b3d1d32329e557e32525fd44cb70964,Playa,MX Amigos y Familia,186,150.0,80.0,523,170.0,150.02318,2023-03-16 09:00:00,2023-03-16 11:50:00,AK,BP
+5c2d6a356bdec7fa2b506431bfc197d6,Ciudad Principal,Ciudad Principal,220,202.0,132.0,1171,90.0,192.99791,2023-03-02 16:35:00,2023-03-02 18:05:00,AO,AW
+5c95524812ff35732c37a3c490a2b728,Ciudad Principal,Ciudad Principal,236,146.0,108.0,1171,90.0,164.97473,2023-03-14 16:35:00,2023-03-14 18:05:00,AO,AW
+5cda1af1671d12d7d429be1e73c0cd8f,Ciudad Principal,MX Amigos y Familia,180,180.0,106.0,367,100.0,160.2553,2023-03-10 07:45:00,2023-03-10 09:25:00,AT,BG
+5d07fbdeb6c9d3f64eb0d6be8a4cfbfa,Ciudad Principal,Ecoturismo,240,240.0,180.0,392,125.0,241.0218,2023-03-15 09:05:00,2023-03-15 11:10:00,AT,AU
+5d0ae4d54ff84ce948fe9d03dfb766b7,Playa,Ciudad Principal,186,133.0,84.0,768,55.0,135.92308,2023-03-14 10:35:00,2023-03-14 11:30:00,BD,AO
+5dc6fe7635b6a95e1c3a6e58643e0009,Ciudad Principal,Ciudad Principal,240,222.0,156.0,1171,90.0,221.85014,2023-03-06 16:35:00,2023-03-06 18:05:00,AO,AW
+5dedafbfe46e7f6a39767a42374b9184,Ciudad Principal,Ciudad Principal,240,190.0,135.0,1767,90.0,197.48741,2023-03-22 11:20:00,2023-03-22 12:50:00,AO,AW
+5e8d23b67e63cb35dc1857c43ac7c2d6,Playa,Ciudad Principal,240,167.0,83.0,753,80.0,172.0285,2023-03-30 13:20:00,2023-03-30 14:40:00,AQ,AT
+5e8f03570eb01399ff457730f5dae393,Ciudad Fronteriza,MX Amigos y Familia,186,162.0,94.0,1388,135.0,165.93614,2023-03-23 06:55:00,2023-03-23 09:10:00,BM,AD
+5ea4a103bdb8ab0fbe0a79121c54ab9a,Playa,MX Amigos y Familia,240,201.0,142.0,2309,55.0,209.30849,2023-03-23 17:15:00,2023-03-23 18:10:00,AR,AJ
+5f5288cce050d0a641ba4d7267051dc0,Ciudad Principal,MX Amigos y Familia,186,139.0,100.0,66,40.0,150.17683,2023-03-28 08:45:00,2023-03-28 09:25:00,AT,BG
+6015e44942f8a1fc68cb850adba2c7f7,Ciudad Principal,Playa,186,164.0,101.0,3188,55.0,157.22107,2023-03-30 12:15:00,2023-03-30 13:10:00,AO,BD
+612fb4b4d3ae680e9225ae4d57c194e1,MX Amigos y Familia,Ciudad Principal,240,240.0,145.0,1627,90.0,203.79773,2023-03-17 06:00:00,2023-03-17 07:30:00,AL,AW
+614658d1183b6c7665f7f1d1646a499a,Ciudad Principal,Ciudad Principal,186,186.0,130.0,1275,95.0,182.72981,2023-03-29 12:40:00,2023-03-29 14:15:00,AW,BA
+614658d1183b6c7665f7f1d1646a499a,Ciudad Principal,Ciudad Principal,186,186.0,130.0,1275,95.0,182.72981,2023-03-29 10:40:00,2023-03-29 12:00:00,BA,BB
+61d519ca4a8a0b7f1a7cb39af3308a07,Ciudad Principal,Ciudad Principal,240,236.0,161.0,1171,90.0,228.06433,2023-03-17 16:35:00,2023-03-17 18:05:00,AO,AW
+625f83391d5881e550f9e14e39d45bba,Ciudad Principal,Ciudad Principal,240,237.0,146.0,1767,90.0,211.6054,2023-03-18 11:20:00,2023-03-18 12:50:00,AO,AW
+632e5557d51cd9e8e2f4beef10158f4f,MX Amigos y Familia,Ciudad Fronteriza,186,148.0,81.0,2462,290.0,138.67068,2023-03-02 08:50:00,2023-03-02 13:40:00,AD,BM
+637cc3b515b79cf0b9e0b7b352722710,Playa,MX Amigos y Familia,240,193.0,108.0,2309,55.0,166.95616,2023-03-20 17:15:00,2023-03-20 18:10:00,AR,AJ
+638a238490d0a4789e103c60202047ae,MX Amigos y Familia,Ciudad Fronteriza,186,181.0,96.0,222,230.0,169.99126,2023-03-26 09:50:00,2023-03-26 13:40:00,AD,BM
+63980de1bb9a0a96c9fa88a6b6332752,Ciudad Principal,Ciudad Principal,186,171.0,126.0,401,85.0,174.45987,2023-03-18 06:00:00,2023-03-18 07:25:00,AT,AO
+639f8e7f95716365affe68c2dd8765a1,Ciudad Principal,Ciudad Principal,186,185.0,137.0,315,80.0,182.40999,2023-03-22 22:35:00,2023-03-22 23:55:00,AO,AT
+64bd9ae046ad424c34f0d55962bfae5c,Ciudad Principal,Ciudad Principal,240,149.0,100.0,1171,90.0,153.46964,2023-03-11 16:35:00,2023-03-11 18:05:00,AO,AW
+64ded5717ac09b51abf8f7154e38f719,Playa,MX Amigos y Familia,186,177.0,110.0,523,170.0,175.8468,2023-03-24 09:00:00,2023-03-24 11:50:00,AK,BP
+65761b008aa711ed18cea092b27530ee,Ciudad Principal,Ciudad Principal,180,180.0,114.0,273,90.0,166.88802,2023-03-31 08:15:00,2023-03-31 09:45:00,AO,AW
+6584b90ec3b10091855f8d5bd9c605b2,Ciudad Fronteriza,MX Amigos y Familia,186,169.0,43.0,277,85.0,166.80603,2023-03-10 06:05:00,2023-03-10 07:30:00,BM,AV
+659a7f18d6f87d22d23cd4ba4439bff2,Ciudad Principal,Ciudad Principal,240,212.0,118.0,1171,90.0,176.85234,2023-03-18 16:35:00,2023-03-18 18:05:00,AO,AW
+65c7a572557098ee104d976c125d2912,Ciudad Principal,MX Amigos y Familia,186,114.0,73.0,14,80.0,109.31903,2023-03-15 06:00:00,2023-03-15 07:20:00,AW,AD
+66ab690c31c6fb113f67297dfc5be824,Ciudad Principal,Ciudad Principal,186,161.0,102.0,1767,90.0,156.61464,2023-03-13 11:20:00,2023-03-13 12:50:00,AO,AW
+683af89701857709815487a685f417cb,Ciudad Principal,MX Amigos y Familia,186,186.0,117.0,14,80.0,169.6984,2023-03-27 06:00:00,2023-03-27 07:20:00,AW,AD
+684e38ba0a815f7a2fbc7af1144ce351,MX Amigos y Familia,Ciudad Principal,186,182.0,150.0,1610,65.0,183.54146,2023-03-03 21:00:00,2023-03-03 22:05:00,BJ,AW
+68bd0474dc72ff9814c85d81aca48d61,Ciudad Principal,Playa,186,146.0,97.0,3188,55.0,152.55904,2023-03-23 12:15:00,2023-03-23 13:10:00,AO,BD
+68c219b1153137f12a3d25904c7fc6af,Playa,Ciudad Principal,186,160.0,32.0,753,80.0,87.17257,2023-03-28 13:20:00,2023-03-28 14:40:00,AQ,AT
+68dc3b50e512da0be171b4727060d13a,MX Amigos y Familia,Ciudad Fronteriza,180,146.0,79.0,2462,290.0,132.8248,2023-03-11 08:50:00,2023-03-11 13:40:00,AD,BM
+68ee0151de89af4615bf22172041ede8,MX Amigos y Familia,Ciudad Principal,186,186.0,138.0,6464,115.0,186.44502,2023-03-25 10:30:00,2023-03-25 12:25:00,BQ,AO
+69aea0be8308867a985f69dc7e518b2a,Ciudad Principal,MX Amigos y Familia,186,118.0,99.0,590,70.0,127.71838,2023-03-09 22:45:00,2023-03-09 23:55:00,AW,BJ
+6a00cedc8fcceb9cbe9ee8c22274c0dd,Playa,Ciudad Principal,186,128.0,84.0,768,55.0,135.92308,2023-03-29 10:35:00,2023-03-29 11:30:00,BD,AO
+6abc46c7cf3c0403b7fcab1a0ca2d50f,Ciudad Principal,Ciudad Principal,186,182.0,133.0,1171,90.0,180.61008,2023-03-10 16:35:00,2023-03-10 18:05:00,AO,AW
+6b0e74d76c1cbc034a0524ca2b34cfb2,Playa,MX Amigos y Familia,180,178.0,132.0,523,170.0,182.12189,2023-03-12 09:00:00,2023-03-12 11:50:00,AK,BP
+6bd6dc5b1b23c1bebd941891fb81de4b,Ciudad Principal,Ciudad Principal,240,226.0,160.0,783,90.0,228.82289,2023-03-06 06:00:00,2023-03-06 07:30:00,AO,AW
+6c2c9d16ba2b2e9c1845bad2bd0e951f,Playa,Ciudad Principal,186,169.0,80.0,753,80.0,163.52518,2023-03-05 13:20:00,2023-03-05 14:40:00,AQ,AT
+6c41a80224b77f291e02235701791819,Playa,Ciudad Principal,186,165.0,83.0,753,80.0,172.8195,2023-03-02 13:20:00,2023-03-02 14:40:00,AQ,AT
+6c4af9112df2b902f7806f5ab6f80a52,Ciudad Principal,Ciudad Principal,186,186.0,140.0,273,90.0,179.38359,2023-03-28 08:15:00,2023-03-28 09:45:00,AO,AW
+6cc0b10574a7af8ebfa1430f244f4bac,MX Amigos y Familia,Ciudad Principal,186,141.0,116.0,1610,65.0,157.89058,2023-03-22 21:00:00,2023-03-22 22:05:00,BJ,AW
+6d22170bbaafb0a4fb55781c70167b4d,Ciudad Principal,MX Amigos y Familia,186,123.0,97.0,14,80.0,144.10652,2023-03-22 06:00:00,2023-03-22 07:20:00,AW,AD
+6e1f973583909994ef5c961cd3e13cad,MX Amigos y Familia,Ciudad Fronteriza,186,146.0,83.0,222,230.0,148.007,2023-03-30 09:50:00,2023-03-30 13:40:00,AD,BM
+6e2f92f344cb377e7d22093af70df9d4,Ciudad Principal,Ciudad Principal,186,169.0,126.0,401,85.0,174.45987,2023-03-22 06:00:00,2023-03-22 07:25:00,AT,AO
+6e99ad40ec5212f016a857a114da2b65,Ciudad Principal,MX Amigos y Familia,186,186.0,128.0,2632,95.0,182.68808,2023-03-20 12:55:00,2023-03-20 14:30:00,AO,BP
+6eb7dbc3622511a55e0ebb0a1d6ba8ae,Ciudad Principal,MX Amigos y Familia,186,159.0,111.0,66,40.0,161.3456,2023-03-15 08:45:00,2023-03-15 09:25:00,AT,BG
+6f68089a1ddaaebab75b78699db642f4,Ciudad Principal,MX Amigos y Familia,186,169.0,97.0,66,40.0,151.34299,2023-03-14 08:45:00,2023-03-14 09:25:00,AT,BG
+712ef23874387be60b1adda0b9c8179b,Playa,MX Amigos y Familia,186,185.0,72.0,523,170.0,145.48726,2023-03-22 09:00:00,2023-03-22 11:50:00,AK,BP
+714e275f9b02fa7c481107c095bd6cab,Ciudad Principal,Ciudad Principal,240,164.0,103.0,783,90.0,152.24051,2023-03-25 06:00:00,2023-03-25 07:30:00,AO,AW
+71706c9858c33ff423377e0222e98053,Ciudad Principal,Ecoturismo,220,188.0,128.0,392,125.0,203.96164,2023-03-28 09:05:00,2023-03-28 11:10:00,AT,AU
+71d5d39d313697d94dd95161086d38a2,Ciudad Fronteriza,MX Amigos y Familia,186,162.0,92.0,1388,135.0,165.93614,2023-03-17 06:55:00,2023-03-17 09:10:00,BM,AD
+732541ded7d7c5b736b35844acd0538a,Ciudad Principal,MX Amigos y Familia,186,146.0,98.0,14,80.0,144.10652,2023-03-24 06:00:00,2023-03-24 07:20:00,AW,AD
+733c91779f52fb6624425714ec776643,Ciudad Principal,Ecoturismo,240,230.0,136.0,392,125.0,214.6374,2023-03-18 09:05:00,2023-03-18 11:10:00,AT,AU
+746d7996557b9cf0e167ce4a3baf7db6,Ciudad Principal,Ecoturismo,240,240.0,172.0,392,125.0,239.71133,2023-03-21 09:05:00,2023-03-21 11:10:00,AT,AU
+749f87244e844bcb73ad018829bff433,Ciudad Principal,MX Amigos y Familia,180,69.0,53.0,14,80.0,78.1296,2023-03-12 06:00:00,2023-03-12 07:20:00,AW,AD
+74b2fedb8fa47d5ff09549ad451252b8,MX Amigos y Familia,Ciudad Fronteriza,186,83.0,55.0,2462,290.0,98.52629,2023-03-06 08:50:00,2023-03-06 13:40:00,AD,BM
+74f19fb966c4a1e1a3f1da10564693a3,Ciudad Principal,MX Amigos y Familia,186,145.0,106.0,14,80.0,155.89781,2023-03-10 06:00:00,2023-03-10 07:20:00,AW,AD
+7687ce24012215a6ba86b2f7f790414e,Ciudad Principal,MX Amigos y Familia,186,161.0,101.0,66,40.0,155.13913,2023-03-24 08:45:00,2023-03-24 09:25:00,AT,BG
+76e08472b7831636073c7171c6f6cfaa,Ciudad Fronteriza,MX Amigos y Familia,180,115.0,63.0,664,75.0,115.96409,2023-03-10 06:55:00,2023-03-10 08:10:00,BM,AD
+7708752d499899e5b75c53a00acd28bb,Playa,MX Amigos y Familia,186,186.0,126.0,523,170.0,184.57741,2023-03-19 09:00:00,2023-03-19 11:50:00,AK,BP
+77b1dc334575229dacc39c1917b46466,Ciudad Fronteriza,MX Amigos y Familia,186,154.0,86.0,363,145.0,154.44997,2023-03-18 06:05:00,2023-03-18 08:30:00,BM,AV
+77e2d994c8492f2b3d9e1e832d231ce4,Ciudad Principal,Ciudad Principal,186,165.0,123.0,401,85.0,175.18584,2023-03-14 06:00:00,2023-03-14 07:25:00,AT,AO
+77eba57a1ffdad11b3bb2c3a7783d220,Playa,MX Amigos y Familia,186,186.0,128.0,523,170.0,185.72339,2023-03-26 09:00:00,2023-03-26 11:50:00,AK,BP
+77f0d8912010b7626b9729b80bb5250b,Playa,MX Amigos y Familia,186,152.0,102.0,523,170.0,166.08798,2023-03-03 09:00:00,2023-03-03 11:50:00,AK,BP
+788b219ec199658a4184e982cac50f55,Ciudad Principal,Ciudad Principal,240,181.0,130.0,1171,90.0,194.39876,2023-03-21 16:35:00,2023-03-21 18:05:00,AO,AW
+79c5c583d12f6ffc794cdb785eef16a7,Ciudad Principal,Ciudad Principal,186,169.0,107.0,273,90.0,160.2145,2023-03-03 08:15:00,2023-03-03 09:45:00,AO,AW
+79e499791dd863b58db389816ca30aa1,Playa,MX Amigos y Familia,240,166.0,99.0,2309,55.0,159.5038,2023-03-09 17:15:00,2023-03-09 18:10:00,AR,AJ
+7ac2a5efe7fca4fa7efa3c3753ba61d8,Ciudad Fronteriza,MX Amigos y Familia,186,132.0,72.0,664,75.0,124.94828,2023-03-07 06:55:00,2023-03-07 08:10:00,BM,AD
+7b367584b14ca4fa0a98efda9c199e28,Ciudad Principal,Ciudad Principal,186,166.0,122.0,315,80.0,175.2519,2023-03-07 22:35:00,2023-03-07 23:55:00,AO,AT
+7bd11adabc0c0b3bfe88960e9e88c952,Ciudad Principal,Ciudad Principal,186,162.0,118.0,1767,90.0,170.73032,2023-03-11 11:20:00,2023-03-11 12:50:00,AO,AW
+7bdf4565ae9089531e9b4bb8c4a8d63c,Ciudad Fronteriza,MX Amigos y Familia,186,178.0,100.0,363,145.0,172.1438,2023-03-26 06:05:00,2023-03-26 08:30:00,BM,AV
+7be9cdc1fefa29daab1eb10c1ca24ba2,MX Amigos y Familia,Ciudad Fronteriza,240,201.0,116.0,242,180.0,193.71165,2023-03-10 06:10:00,2023-03-10 09:10:00,AJ,BM
+7c04cd76542bc5e7cf64fdc7ff729999,MX Amigos y Familia,Ciudad Fronteriza,240,187.0,117.0,242,180.0,187.41881,2023-03-11 06:10:00,2023-03-11 09:10:00,AJ,BM
+7cb4a85ba2efd32ae4542c9d82bef2ab,Ciudad Principal,Ciudad Principal,186,186.0,134.0,315,80.0,180.96027,2023-03-29 22:35:00,2023-03-29 23:55:00,AO,AT
+7d8caf3a35a7dbc88b1e2b9c8b1be4aa,Ciudad Principal,MX Amigos y Familia,186,83.0,65.0,14,80.0,97.61151,2023-03-05 06:00:00,2023-03-05 07:20:00,AW,AD
+7e5b63bc3253c575ca7787efbb478460,Ciudad Principal,Playa,186,154.0,98.0,3188,55.0,152.55904,2023-03-27 12:15:00,2023-03-27 13:10:00,AO,BD
+7e9aea66c4b45426f9ab0d2c811c5a72,Ciudad Principal,Ciudad Principal,186,170.0,122.0,401,85.0,175.18584,2023-03-20 06:00:00,2023-03-20 07:25:00,AT,AO
+7ea82e2528e4eb9cf465aa8db1dd222e,Ciudad Principal,Ciudad Principal,240,240.0,151.0,1275,95.0,228.02959,2023-03-20 12:40:00,2023-03-20 14:15:00,AW,BA
+7ea82e2528e4eb9cf465aa8db1dd222e,Ciudad Principal,Ciudad Principal,240,240.0,151.0,1275,95.0,228.02959,2023-03-20 10:40:00,2023-03-20 12:00:00,BA,AB
+7fcdc3a2d37ee94480e49f0227888596,Playa,Ciudad Principal,186,161.0,94.0,768,55.0,154.30176,2023-03-28 10:35:00,2023-03-28 11:30:00,BD,AO
+801bfae7d27b6c10cecdbe626cf7c91a,Ciudad Principal,MX Amigos y Familia,240,74.0,54.0,590,70.0,72.965256,2023-03-01 22:45:00,2023-03-01 23:55:00,AW,BJ
+809bdfeb0f387d2e1e62e33977ac4281,Ciudad Principal,Ciudad Principal,186,180.0,138.0,315,80.0,182.62334,2023-03-16 22:35:00,2023-03-16 23:55:00,AO,AT
+80aa458e6c2139763f7280f9f728c1a2,Ciudad Fronteriza,MX Amigos y Familia,240,192.0,111.0,1388,135.0,183.68347,2023-03-14 06:55:00,2023-03-14 09:10:00,BM,AD
+80eef425da9f7680c1f57fe718a0155b,Ciudad Principal,MX Amigos y Familia,186,158.0,69.0,66,40.0,139.9068,2023-03-13 08:45:00,2023-03-13 09:25:00,AT,BG
+8180e12533d7b6960948f79c0f95ce81,Ciudad Principal,Ciudad Principal,186,153.0,111.0,401,85.0,159.96515,2023-03-29 06:00:00,2023-03-29 07:25:00,AT,AO
+81ffe9ed2e098f1a77b108d47bee728a,Playa,Ciudad Principal,186,166.0,82.0,753,80.0,169.55229,2023-03-24 13:20:00,2023-03-24 14:40:00,AQ,AT
+82c9999ed1c06fb97bc8c6ca70984150,MX Amigos y Familia,Ciudad Principal,220,210.0,167.0,1610,65.0,207.46547,2023-03-24 21:00:00,2023-03-24 22:05:00,BJ,AW
+830d9b167319eee2c051a8f359c3ae29,MX Amigos y Familia,Ciudad Principal,240,112.0,90.0,1610,65.0,103.77894,2023-03-01 21:00:00,2023-03-01 22:05:00,BJ,AW
+834bf52c3f7dedfa4d3faf61446f409f,MX Amigos y Familia,Ciudad Principal,186,186.0,153.0,1610,65.0,183.95653,2023-03-12 21:00:00,2023-03-12 22:05:00,BJ,AW
+83fed750176a0d7f9afbb89868553c90,Ciudad Principal,Ciudad Principal,240,219.0,164.0,1767,90.0,227.1465,2023-03-06 11:20:00,2023-03-06 12:50:00,AO,AW
+8468e1a270fef4fe378826c092504e69,Ciudad Principal,Playa,240,207.0,105.0,4619,100.0,208.7069,2023-03-04 18:15:00,2023-03-04 19:55:00,AW,AK
+84d240e9fb5d085ace434a55efac83a8,Ciudad Principal,Ciudad Principal,186,142.0,95.0,273,90.0,146.7588,2023-03-11 08:15:00,2023-03-11 09:45:00,AO,AW
+857573bbc6fd54a88d7bcc24a7c4114f,Ciudad Principal,MX Amigos y Familia,220,133.0,103.0,590,70.0,126.319374,2023-03-23 22:45:00,2023-03-23 23:55:00,AW,BJ
+859a24bea86badd4fa376ae61cdb19a2,Ciudad Principal,Ciudad Principal,240,150.0,105.0,1767,90.0,163.95708,2023-03-01 11:20:00,2023-03-01 12:50:00,AO,AW
+859f4fa7dd2c3add2918a063d040ffa9,MX Amigos y Familia,Ciudad Fronteriza,186,137.0,79.0,222,230.0,138.39488,2023-03-12 09:50:00,2023-03-12 13:40:00,AD,BM
+861bc75943e841bdb5c49bff0a1c9d0d,MX Amigos y Familia,Ciudad Fronteriza,186,135.0,66.0,2462,290.0,121.98145,2023-03-07 08:50:00,2023-03-07 13:40:00,AD,BM
+86e2c88d0d4cd8a19fa5f5854932cea8,MX Amigos y Familia,Ciudad Principal,240,71.0,49.0,1627,90.0,76.61634,2023-03-19 06:00:00,2023-03-19 07:30:00,AL,AW
+8801e9b404435e24300d20b6d0b611fb,Ciudad Principal,Ciudad Principal,186,167.0,103.0,1275,95.0,158.77257,2023-03-08 12:40:00,2023-03-08 14:15:00,AW,BA
+8801e9b404435e24300d20b6d0b611fb,Ciudad Principal,Ciudad Principal,186,167.0,103.0,1275,95.0,158.77257,2023-03-08 10:40:00,2023-03-08 12:00:00,BA,BB
+8816f1a3bd2ec8fcbfcec641a2fea893,Ciudad Principal,MX Amigos y Familia,186,186.0,89.0,367,100.0,141.42082,2023-03-11 07:45:00,2023-03-11 09:25:00,AT,BG
+88f47a668b7a7d611cadd550247050b2,Ciudad Principal,Ciudad Principal,186,150.0,121.0,273,90.0,169.75774,2023-03-01 08:15:00,2023-03-01 09:45:00,AO,AW
+899e9db8de3b58cba2d781e4d6f8350e,MX Amigos y Familia,Ciudad Principal,186,180.0,142.0,1610,65.0,177.01611,2023-03-05 21:00:00,2023-03-05 22:05:00,BJ,AW
+89af405011550d9a8d8e5eaa185b733c,Ciudad Fronteriza,MX Amigos y Familia,186,136.0,97.0,664,75.0,147.86398,2023-03-06 06:55:00,2023-03-06 08:10:00,BM,AD
+89b19a26af3eb285659b1cf1e83cfb90,Ciudad Principal,MX Amigos y Familia,186,186.0,148.0,590,70.0,169.7657,2023-03-05 22:45:00,2023-03-05 23:55:00,AW,BJ
+89c3f76222aeb7906d1f0b101c2ba3e0,MX Amigos y Familia,Ciudad Fronteriza,180,143.0,88.0,2462,290.0,142.65688,2023-03-03 08:50:00,2023-03-03 13:40:00,AD,BM
+89c58c028e91d297bd30f5d718b5569c,Ciudad Principal,MX Amigos y Familia,180,172.0,90.0,66,40.0,164.22757,2023-03-16 08:45:00,2023-03-16 09:25:00,AT,BG
+89de47c096ce70e75747221c8f23760a,Ciudad Principal,Ecoturismo,240,240.0,162.0,392,125.0,235.59184,2023-03-12 09:05:00,2023-03-12 11:10:00,AT,AU
+8a49f6c1b9292b012cd54afb53e2a576,Ciudad Principal,MX Amigos y Familia,186,110.0,74.0,14,80.0,109.31903,2023-03-11 06:00:00,2023-03-11 07:20:00,AW,AD
+8a9f81dde1ccb2df5e657ae79db23d3d,Ciudad Principal,Ciudad Principal,240,130.0,93.0,783,90.0,145.11737,2023-03-04 06:00:00,2023-03-04 07:30:00,AO,AW
+8aa864260521fd77def8ed569d310a8d,Ciudad Principal,Ciudad Principal,240,228.0,157.0,1171,90.0,221.85014,2023-03-09 16:35:00,2023-03-09 18:05:00,AO,AW
+8ac6c646e5ff18ae9614c79a139bd9b8,Ciudad Principal,Ciudad Principal,186,171.0,115.0,1275,95.0,172.90807,2023-03-03 12:40:00,2023-03-03 14:15:00,AW,BA
+8ac6c646e5ff18ae9614c79a139bd9b8,Ciudad Principal,Ciudad Principal,186,171.0,115.0,1275,95.0,172.90807,2023-03-03 10:40:00,2023-03-03 12:00:00,BA,AB
+8bf8b19d3428fc2a720996af665a9b02,Playa,MX Amigos y Familia,186,170.0,110.0,2309,55.0,166.41402,2023-03-02 17:15:00,2023-03-02 18:10:00,AR,AJ
+8ca18a4777e33a82e533ab3f925c0d86,Ciudad Principal,Ciudad Principal,186,186.0,130.0,1275,95.0,182.72981,2023-03-27 12:40:00,2023-03-27 14:15:00,AW,BA
+8ca18a4777e33a82e533ab3f925c0d86,Ciudad Principal,Ciudad Principal,186,186.0,130.0,1275,95.0,182.72981,2023-03-27 10:40:00,2023-03-27 12:00:00,BA,AB
+8cf9ba715f2e0d1e661f59811318c93a,Ciudad Principal,MX Amigos y Familia,240,141.0,112.0,590,70.0,140.27768,2023-03-27 22:45:00,2023-03-27 23:55:00,AW,BJ
+8d96ab60448299d27c2cd2aa3a8b0eb6,MX Amigos y Familia,Ciudad Principal,186,180.0,131.0,6464,115.0,182.60689,2023-03-11 10:30:00,2023-03-11 12:25:00,BQ,AO
+8dcdb6464f460623a171b3047a9d3d64,Ciudad Principal,MX Amigos y Familia,180,160.0,106.0,590,70.0,151.23248,2023-03-19 22:45:00,2023-03-19 23:55:00,AW,BJ
+8ddc71671176f04f4bd7395bc30e2678,Ciudad Principal,Ciudad Principal,240,149.0,115.0,1171,90.0,171.91812,2023-03-04 16:35:00,2023-03-04 18:05:00,AO,AW
+8e154f28efff239cbd2243e47d15f6cf,Ciudad Principal,Ciudad Principal,180,162.0,125.0,315,80.0,174.3903,2023-03-13 22:35:00,2023-03-13 23:55:00,AO,AT
+8e1e8e0c8a7aafcec27895376507326d,Ciudad Principal,Playa,186,186.0,105.0,3188,55.0,160.92215,2023-03-20 12:15:00,2023-03-20 13:10:00,AO,BD
+8e3128ebb58b650b5bf02d0caa356ccb,Ciudad Principal,Ciudad Principal,186,175.0,149.0,273,90.0,180.42282,2023-03-06 08:15:00,2023-03-06 09:45:00,AO,AW
+8e7829e80017d013a2bb7d6748e3825a,Ciudad Principal,Ecoturismo,220,220.0,171.0,392,125.0,224.38263,2023-03-03 09:05:00,2023-03-03 11:10:00,AT,AU
+8f000fa4f46b397fec2dbf0221189386,Ciudad Principal,Playa,186,186.0,99.0,352,90.0,176.93504,2023-03-12 19:45:00,2023-03-12 21:15:00,AT,AK
+8fb8bfe8738004fbad2c0d5943bf6e41,Ciudad Principal,MX Amigos y Familia,186,136.0,103.0,367,100.0,158.36732,2023-03-07 07:45:00,2023-03-07 09:25:00,AT,BG
+8fb97be35341b63164da8e577e9f7625,Ciudad Principal,Ciudad Principal,186,157.0,118.0,273,90.0,169.50494,2023-03-23 08:15:00,2023-03-23 09:45:00,AO,AW
+8fe641657d3006b46a9e8f6249fff090,Ciudad Principal,Ciudad Principal,186,180.0,120.0,1171,90.0,172.20229,2023-03-13 16:35:00,2023-03-13 18:05:00,AO,AW
+90569e1bdaa3417593566b1fd524623b,MX Amigos y Familia,Ciudad Principal,220,220.0,180.0,1610,65.0,219.61668,2023-03-31 21:00:00,2023-03-31 22:05:00,BJ,AW
+906b34890c7a3fd8ec37beb31aa22fae,Playa,Ciudad Principal,186,86.0,59.0,2237,55.0,94.063156,2023-03-02 15:40:00,2023-03-02 16:35:00,BD,AO
+90a2ef2cbf7e774d6c33bfb52fcf7433,Ciudad Principal,Ciudad Principal,220,220.0,140.0,1171,90.0,203.93796,2023-03-12 16:35:00,2023-03-12 18:05:00,AO,AW
+90a62efa559fcc57a60e857fef8faa55,Ciudad Principal,MX Amigos y Familia,180,99.0,64.0,14,80.0,93.66636,2023-03-30 06:00:00,2023-03-30 07:20:00,AW,AD
+90d2d14b3bbe86fc13424dee3c845220,Ciudad Fronteriza,MX Amigos y Familia,186,146.0,84.0,363,145.0,154.44997,2023-03-25 06:05:00,2023-03-25 08:30:00,BM,AV
+90e77ddb03aa8e48ce301362d3773eed,MX Amigos y Familia,Ciudad Principal,220,215.0,132.0,1627,90.0,184.40338,2023-03-20 06:00:00,2023-03-20 07:30:00,AL,AW
+9125707acfd0b87e09470b394e3e26be,Ciudad Principal,Ciudad Principal,186,138.0,108.0,783,90.0,159.22383,2023-03-11 06:00:00,2023-03-11 07:30:00,AO,AW
+914c0b81068fb34315154201f99f422d,Ciudad Principal,Ciudad Principal,240,194.0,149.0,1767,90.0,216.44817,2023-03-21 11:20:00,2023-03-21 12:50:00,AO,AW
+91cfa4ea23c09ace0ae1a70bfad6c6c4,Ciudad Principal,Ciudad Principal,240,228.0,192.0,783,90.0,236.84456,2023-03-21 06:00:00,2023-03-21 07:30:00,AO,AW
+91d62953111b8f184442df52e9418725,Ciudad Principal,Ecoturismo,240,240.0,168.0,392,125.0,238.03369,2023-03-30 09:05:00,2023-03-30 11:10:00,AT,AU
+920274b534d1f41e039a3d7a54857292,Ciudad Fronteriza,MX Amigos y Familia,186,153.0,96.0,277,85.0,157.30983,2023-03-02 06:05:00,2023-03-02 07:30:00,BM,AV
+920865c0913b665249cdbf6d024b53a0,Ciudad Principal,MX Amigos y Familia,186,174.0,121.0,14,80.0,173.98709,2023-03-13 06:00:00,2023-03-13 07:20:00,AW,AD
+92ad866b773b9b53e67281c009324c10,Ciudad Principal,Ciudad Principal,186,104.0,71.0,273,90.0,106.44983,2023-03-05 08:15:00,2023-03-05 09:45:00,AO,AW
+93547ef4c3d1f35372cbef1e8c7cf094,MX Amigos y Familia,Ciudad Principal,240,117.0,101.0,1610,65.0,119.37957,2023-03-06 21:00:00,2023-03-06 22:05:00,BJ,AW
+9361371896731dde0c60b6d957141e75,Ciudad Fronteriza,MX Amigos y Familia,186,159.0,86.0,664,75.0,147.48448,2023-03-01 06:55:00,2023-03-01 08:10:00,BM,AD
+93d5ebac25f027b2aeb457b22a777d58,Ciudad Principal,Ciudad Principal,240,142.0,119.0,783,90.0,172.86378,2023-03-22 06:00:00,2023-03-22 07:30:00,AO,AW
+94cfc5d9fcd40987187691f44897c5f9,Ciudad Principal,MX Amigos y Familia,186,79.0,61.0,14,80.0,92.95513,2023-03-07 06:00:00,2023-03-07 07:20:00,AW,AD
+94d8e32e1eb89700bcf426722fafa8ce,Ciudad Principal,Ciudad Principal,186,175.0,123.0,273,90.0,172.27066,2023-03-21 08:15:00,2023-03-21 09:45:00,AO,AW
+94deae298a05550228e6117c784e88d3,Ciudad Fronteriza,MX Amigos y Familia,186,158.0,93.0,1388,135.0,165.93614,2023-03-19 06:55:00,2023-03-19 09:10:00,BM,AD
+94e13eb319763f68e7971dc0f29adf73,Ciudad Principal,Ciudad Principal,186,156.0,115.0,1171,90.0,167.70595,2023-03-22 16:35:00,2023-03-22 18:05:00,AO,AW
+952d7a9401e8206e91a4987c0e0e49b8,MX Amigos y Familia,Ciudad Principal,186,163.0,131.0,1610,65.0,166.30383,2023-03-09 21:00:00,2023-03-09 22:05:00,BJ,AW
+954b871458791b380cb31082758e79bc,Ciudad Principal,Ciudad Principal,180,180.0,127.0,315,80.0,174.62315,2023-03-23 22:35:00,2023-03-23 23:55:00,AO,AT
+95b455b1195516052f7a81c9c8fd0b63,Ciudad Fronteriza,MX Amigos y Familia,186,174.0,102.0,1388,135.0,173.28592,2023-03-15 06:55:00,2023-03-15 09:10:00,BM,AD
+9653c09e530f827658d51eef1b4130b4,Ciudad Principal,MX Amigos y Familia,186,180.0,142.0,7060,120.0,187.49632,2023-03-04 13:05:00,2023-03-04 15:05:00,AO,BQ
+965f55cec1bd1312f122e2a946653d16,Ciudad Principal,Ciudad Principal,186,176.0,131.0,273,90.0,175.42714,2023-03-29 08:15:00,2023-03-29 09:45:00,AO,AW
+969f65376d9ef4b02527ad4cd3fe1ab6,Ciudad Principal,Ciudad Principal,240,201.0,139.0,1767,90.0,202.32735,2023-03-20 11:20:00,2023-03-20 12:50:00,AO,AW
+96c6a56d0ee9535705dd1470b9ac7e33,Ciudad Principal,MX Amigos y Familia,236,193.0,161.0,590,70.0,206.8918,2023-03-31 22:45:00,2023-03-31 23:55:00,AW,BJ
+973d98635812b8b2aa1431d726d27e20,MX Amigos y Familia,Ciudad Principal,240,87.0,51.0,1627,90.0,81.19927,2023-03-26 06:00:00,2023-03-26 07:30:00,AL,AW
+97cc324e83bc779f113839190b5a07cf,Playa,MX Amigos y Familia,220,220.0,136.0,2309,55.0,197.55168,2023-03-30 17:15:00,2023-03-30 18:10:00,AR,AJ
+97d721ab2c5328defda3e8026cf137cc,Ciudad Principal,Ecoturismo,240,240.0,178.0,392,125.0,241.0218,2023-03-14 09:05:00,2023-03-14 11:10:00,AT,AU
+98184934b274002a9e9828e6c80a4171,Ciudad Fronteriza,MX Amigos y Familia,186,152.0,92.0,363,145.0,165.40416,2023-03-17 06:05:00,2023-03-17 08:30:00,BM,AV
+985212a4082ea0fdd3fc94c8d5a7a624,Ciudad Fronteriza,MX Amigos y Familia,186,161.0,96.0,277,85.0,157.30983,2023-03-03 06:05:00,2023-03-03 07:30:00,BM,AV
+98940ebc6b25ae90cc70f154af92477f,Ciudad Fronteriza,MX Amigos y Familia,186,144.0,91.0,664,75.0,146.56607,2023-03-04 06:55:00,2023-03-04 08:10:00,BM,AD
+99cf3d640b520712667f65ee5973f1d0,Playa,MX Amigos y Familia,186,186.0,109.0,523,170.0,175.8468,2023-03-30 09:00:00,2023-03-30 11:50:00,AK,BP
+99f4bca2fa91fd76f0a1531aee32ac57,Ciudad Principal,Ecoturismo,220,220.0,158.0,392,125.0,220.77713,2023-03-22 09:05:00,2023-03-22 11:10:00,AT,AU
+9a0cfa14691866619ec812edca7aa7e4,Ciudad Principal,Ecoturismo,220,220.0,142.0,392,125.0,214.8704,2023-03-09 09:05:00,2023-03-09 11:10:00,AT,AU
+9a70aeda41dd28f0db2a15205ee21fc9,Ciudad Principal,Ciudad Principal,186,167.0,131.0,401,85.0,176.32648,2023-03-01 06:00:00,2023-03-01 07:25:00,AT,AO
+9a89753a3d8da74f111226894c340ca4,Ciudad Principal,Ciudad Principal,220,220.0,175.0,1171,90.0,217.78064,2023-03-31 16:35:00,2023-03-31 18:05:00,AO,AW
+9ab8b7508b8677587576bd141392ed4c,Ciudad Principal,Ciudad Principal,186,167.0,117.0,401,85.0,171.35515,2023-03-05 06:00:00,2023-03-05 07:25:00,AT,AO
+9b291f9169664d4c6d85c9357b354eb4,Playa,MX Amigos y Familia,220,183.0,123.0,2309,55.0,188.08829,2023-03-27 17:15:00,2023-03-27 18:10:00,AR,AJ
+9c72f27b647874edaceda5087a65fe02,MX Amigos y Familia,Ciudad Principal,186,186.0,149.0,1610,65.0,182.78636,2023-03-10 21:00:00,2023-03-10 22:05:00,BJ,AW
+9cae51056797a36d1a4a139133b17922,Ciudad Principal,Ciudad Principal,186,181.0,131.0,315,80.0,179.21024,2023-03-01 22:35:00,2023-03-01 23:55:00,AO,AT
+9d3226b86efd0a6970d9305e060d10d8,Ciudad Principal,MX Amigos y Familia,186,121.0,79.0,14,80.0,116.156815,2023-03-19 06:00:00,2023-03-19 07:20:00,AW,AD
+9e62b167e524b54a90e27ab30b2e3059,Playa,MX Amigos y Familia,186,167.0,109.0,523,170.0,175.8468,2023-03-25 09:00:00,2023-03-25 11:50:00,AK,BP
+9ed6bbbc4b06bd9a689a1f4ad1845b8c,Ciudad Principal,Ciudad Principal,186,186.0,119.0,315,80.0,171.88895,2023-03-26 22:35:00,2023-03-26 23:55:00,AO,AT
+9f3bb9cb89c328ce171e9e9145bb1e81,Ciudad Principal,Ciudad Principal,240,217.0,164.0,1171,90.0,229.23178,2023-03-27 16:35:00,2023-03-27 18:05:00,AO,AW
+9f6effa11e79ae93b49be9b4acc7e228,Ciudad Fronteriza,MX Amigos y Familia,186,163.0,108.0,277,85.0,170.15346,2023-03-09 06:05:00,2023-03-09 07:30:00,BM,AV
+9fdbff73ee35c3bf58a7c85f3f3aff1f,Ciudad Principal,Ecoturismo,240,240.0,193.0,392,125.0,242.12634,2023-03-06 09:05:00,2023-03-06 11:10:00,AT,AU
+9fdf0a8865271fcff2a865b4728c7541,Ciudad Principal,MX Amigos y Familia,180,137.0,88.0,367,100.0,137.39423,2023-03-04 07:45:00,2023-03-04 09:25:00,AT,BG
+9fe1d4771d5e1c1b153423b7223389e5,Ciudad Principal,Ciudad Principal,186,166.0,131.0,315,80.0,179.21024,2023-03-08 22:35:00,2023-03-08 23:55:00,AO,AT
+a01a0e862409ce547dfa0ed07c0b5c7d,Ciudad Fronteriza,MX Amigos y Familia,186,173.0,110.0,363,145.0,180.424,2023-03-20 06:05:00,2023-03-20 08:30:00,BM,AV
+a02204fa67decf15b3e06a1c41307a77,Playa,Ciudad Principal,186,186.0,124.0,768,55.0,181.70433,2023-03-31 10:35:00,2023-03-31 11:30:00,BD,AO
+a07fcf9931f38d10f6670916aa03d61d,Ciudad Fronteriza,MX Amigos y Familia,180,157.0,82.0,664,75.0,142.40237,2023-03-11 06:55:00,2023-03-11 08:10:00,BM,AD
+a1630a209446aea6d2482519d1c69842,Ciudad Principal,MX Amigos y Familia,186,135.0,98.0,66,40.0,151.34299,2023-03-27 08:45:00,2023-03-27 09:25:00,AT,BG
+a20bfa2bf36665691633e2d8c58a3748,Ciudad Principal,Ciudad Principal,186,186.0,139.0,315,80.0,182.62334,2023-03-30 22:35:00,2023-03-30 23:55:00,AO,AT
+a2b73c7ff82681c2bda3ab24f16b9b9c,Playa,Ciudad Principal,186,147.0,81.0,2237,55.0,134.67134,2023-03-26 15:40:00,2023-03-26 16:35:00,BD,AO
+a2ca3ca524f761fdd4f85ffbf083994f,Ciudad Principal,Ciudad Principal,240,202.0,133.0,1275,95.0,201.93512,2023-03-18 12:40:00,2023-03-18 14:15:00,AW,BA
+a2ca3ca524f761fdd4f85ffbf083994f,Ciudad Principal,Ciudad Principal,240,202.0,133.0,1275,95.0,201.93512,2023-03-18 10:40:00,2023-03-18 12:00:00,BA,BB
+a2ee808935cb6fda1e6e828727d9a019,Ciudad Fronteriza,MX Amigos y Familia,186,147.0,77.0,1388,135.0,153.95604,2023-03-18 06:55:00,2023-03-18 09:10:00,BM,AD
+a2f1dd94359b0726faa0eae4a81490cc,MX Amigos y Familia,Ciudad Principal,240,107.0,76.0,1627,90.0,110.44099,2023-03-02 06:00:00,2023-03-02 07:30:00,AL,AW
+a304a661e95d8f7968ab1f9d017a0b90,Ciudad Principal,Ecoturismo,240,240.0,166.0,392,125.0,237.77919,2023-03-20 09:05:00,2023-03-20 11:10:00,AT,AU
+a3dac1dbd1dba264e2cd4366fc007273,MX Amigos y Familia,Ciudad Principal,236,147.0,119.0,1627,90.0,162.48744,2023-03-30 06:00:00,2023-03-30 07:30:00,AL,AW
+a400b28ac6fe9034e323dd70849add56,Ciudad Principal,MX Amigos y Familia,186,119.0,101.0,590,70.0,127.83258,2023-03-13 22:45:00,2023-03-13 23:55:00,AW,BJ
+a50541f978eb708e2d990b09d9b8c92e,Ciudad Principal,MX Amigos y Familia,186,167.0,85.0,66,40.0,158.83966,2023-03-26 08:45:00,2023-03-26 09:25:00,AT,BG
+a53d9e6736a7bed26d9b60f889359f26,Playa,Ciudad Principal,186,168.0,78.0,753,80.0,160.55922,2023-03-20 13:20:00,2023-03-20 14:40:00,AQ,AT
+a5b5cf57a00b11fb68080f1f0cdfd4ad,Ciudad Fronteriza,MX Amigos y Familia,186,161.0,88.0,277,85.0,157.33752,2023-03-05 06:05:00,2023-03-05 07:30:00,BM,AV
+a678475429d7ab22a9f1893a54d2b463,Ciudad Principal,Ciudad Principal,186,181.0,116.0,401,85.0,171.67233,2023-03-25 06:00:00,2023-03-25 07:25:00,AT,AO
+a67d8b022ee1ca046669bd76a6ced4be,Playa,MX Amigos y Familia,186,186.0,115.0,523,170.0,179.75182,2023-03-27 09:00:00,2023-03-27 11:50:00,AK,BP
+a6e0d3182b7c8bfe0b9e634b3d3f05bd,Playa,Ciudad Principal,186,176.0,82.0,753,80.0,169.55229,2023-03-19 13:20:00,2023-03-19 14:40:00,AQ,AT
+a703b7820c69e3bfb9680bfae153ae93,Ciudad Principal,Ciudad Principal,186,170.0,115.0,273,90.0,169.22139,2023-03-15 08:15:00,2023-03-15 09:45:00,AO,AW
+a712f6535fd69fb2b27e080560080c86,Ciudad Principal,Playa,186,121.0,81.0,3188,55.0,125.96793,2023-03-13 12:15:00,2023-03-13 13:10:00,AO,BD
+a8ca632c180ef80c8229b9dbe3e48505,Ciudad Principal,Ecoturismo,240,235.0,177.0,392,125.0,239.92493,2023-03-08 09:05:00,2023-03-08 11:10:00,AT,AU
+a9117cdd3d0bdc8c1e32601a5f74a909,MX Amigos y Familia,Ciudad Fronteriza,236,76.0,54.0,242,180.0,86.108,2023-03-06 06:10:00,2023-03-06 09:10:00,AJ,BM
+a93b12622eab9aa78f2aa88008d4ad2e,Playa,MX Amigos y Familia,236,236.0,142.0,2309,55.0,211.42673,2023-03-16 17:15:00,2023-03-16 18:10:00,AR,AJ
+a9b8322dd83c7e94548d7df692f2635d,Ciudad Principal,Ciudad Principal,220,186.0,136.0,783,90.0,199.40178,2023-03-30 06:00:00,2023-03-30 07:30:00,AO,AW
+a9fafa532f0de454d1e0ba5871d17a4a,Playa,Ciudad Principal,180,141.0,81.0,753,80.0,149.94745,2023-03-07 13:20:00,2023-03-07 14:40:00,AQ,AT
+ac0b8bd7b2da624d23398cb30fcefcd0,Ciudad Principal,MX Amigos y Familia,220,164.0,140.0,590,70.0,173.80643,2023-03-24 22:45:00,2023-03-24 23:55:00,AW,BJ
+ac2c4e2ca1564f536030a7d361b74fd6,Ciudad Principal,Ciudad Principal,240,196.0,144.0,1767,90.0,210.96452,2023-03-29 11:20:00,2023-03-29 12:50:00,AO,AW
+ad8d0f0434c316648f088e782e964205,Ciudad Principal,MX Amigos y Familia,186,113.0,66.0,14,80.0,99.82147,2023-03-26 06:00:00,2023-03-26 07:20:00,AW,AD
+adac9245c206d696a69ad521ee3d1611,Ciudad Principal,Ciudad Principal,186,168.0,131.0,273,90.0,175.42714,2023-03-27 08:15:00,2023-03-27 09:45:00,AO,AW
+adf9aa7dbf8c83fea2c27d15c5e11bb3,Ciudad Principal,Playa,186,186.0,137.0,3188,55.0,182.51524,2023-03-31 12:15:00,2023-03-31 13:10:00,AO,BD
+ae670eea358abfb3df2fe8b521938e62,MX Amigos y Familia,Ciudad Principal,240,240.0,151.0,1627,90.0,214.58537,2023-03-16 06:00:00,2023-03-16 07:30:00,AL,AW
+ae796b533d4511ac34c3920e34db03f0,Playa,Ciudad Principal,186,155.0,100.0,768,55.0,165.77428,2023-03-16 10:35:00,2023-03-16 11:30:00,BD,AO
+ae84a26d1a1fbc6968a645eaaac36ef6,MX Amigos y Familia,Ciudad Principal,186,112.0,68.0,1627,90.0,104.19926,2023-03-11 06:00:00,2023-03-11 07:30:00,AL,AW
+af10a5225c9965e5505058b814cd24f8,Ciudad Principal,MX Amigos y Familia,186,165.0,106.0,367,100.0,161.42448,2023-03-03 07:45:00,2023-03-03 09:25:00,AT,BG
+af3af0a08759d82aae4d473f41c3f2c7,Ciudad Fronteriza,MX Amigos y Familia,186,176.0,99.0,1388,135.0,173.17174,2023-03-24 06:55:00,2023-03-24 09:10:00,BM,AD
+b06d7977a278468933a532cad8978f87,Ciudad Principal,MX Amigos y Familia,186,121.0,86.0,14,80.0,122.621605,2023-03-03 06:00:00,2023-03-03 07:20:00,AW,AD
+b0d71f398f01bd461efdf82ce7957b3d,Ciudad Principal,Ciudad Principal,186,176.0,115.0,401,85.0,171.57124,2023-03-11 06:00:00,2023-03-11 07:25:00,AT,AO
+b0e91e144bed6621a9fbfc10442ddaf2,MX Amigos y Familia,Ciudad Principal,220,180.0,145.0,1627,90.0,195.91783,2023-03-22 06:00:00,2023-03-22 07:30:00,AL,AW
+b23e68fc453973123e75f88e58a3a833,Ciudad Principal,Ciudad Principal,180,177.0,141.0,273,90.0,175.29816,2023-03-07 08:15:00,2023-03-07 09:45:00,AO,AW
+b2a143d6670e053a837b1c866ec908f0,Ciudad Principal,MX Amigos y Familia,186,164.0,114.0,14,80.0,168.07318,2023-03-06 06:00:00,2023-03-06 07:20:00,AW,AD
+b2ae394cf1d607117438685c8e30a38b,Ciudad Principal,Ciudad Principal,186,161.0,123.0,783,90.0,171.57669,2023-03-23 06:00:00,2023-03-23 07:30:00,AO,AW
+b3c3442ee60a314d2662b26380b01d4c,Ciudad Principal,Ciudad Principal,186,178.0,122.0,401,85.0,175.18584,2023-03-24 06:00:00,2023-03-24 07:25:00,AT,AO
+b467364020cd08c0f69e159f35fc2328,MX Amigos y Familia,Ciudad Principal,240,98.0,79.0,1610,65.0,85.69327,2023-03-07 21:00:00,2023-03-07 22:05:00,BJ,AW
+b475647c44c953f909bfd86e275ac76f,Playa,Ciudad Principal,186,168.0,95.0,2237,55.0,154.70424,2023-03-12 15:40:00,2023-03-12 16:35:00,BD,AO
+b47e4c0f59c5748db5b81e4c674a00da,Ciudad Principal,Ciudad Principal,240,240.0,167.0,1767,90.0,228.98375,2023-03-17 11:20:00,2023-03-17 12:50:00,AO,AW
+b4f43bca85c5a31e1895537e2234d3bb,Ciudad Principal,Ciudad Principal,186,169.0,125.0,315,80.0,177.32745,2023-03-05 22:35:00,2023-03-05 23:55:00,AO,AT
+b56ab68a1a86e1e4bafb9da5708d94ad,MX Amigos y Familia,Ciudad Principal,186,142.0,112.0,1610,65.0,151.27333,2023-03-13 21:00:00,2023-03-13 22:05:00,BJ,AW
+b57ef5f408647aa060690f4929ca21cd,Ciudad Principal,MX Amigos y Familia,186,146.0,87.0,14,80.0,125.1488,2023-03-31 06:00:00,2023-03-31 07:20:00,AW,AD
+b6e09906d8bd01c1cbbdf44fb8b7d795,MX Amigos y Familia,Ciudad Fronteriza,186,117.0,78.0,2462,290.0,131.80142,2023-03-05 08:50:00,2023-03-05 13:40:00,AD,BM
+b71bed169f1fc954bfaea2b857387706,Ciudad Principal,Ecoturismo,240,240.0,172.0,392,125.0,239.71133,2023-03-31 09:05:00,2023-03-31 11:10:00,AT,AU
+b7979e1a2e8462658de4649f3ce779ba,Ciudad Principal,MX Amigos y Familia,186,135.0,99.0,66,40.0,147.5674,2023-03-22 08:45:00,2023-03-22 09:25:00,AT,BG
+b8009cf19a6a4ee3d1c0879360b5b625,Ciudad Principal,Ecoturismo,240,240.0,169.0,392,125.0,238.03369,2023-03-10 09:05:00,2023-03-10 11:10:00,AT,AU
+b83207fe842074cbbf79cae3a8dea9e6,Ciudad Principal,MX Amigos y Familia,186,144.0,123.0,590,70.0,151.39835,2023-03-03 22:45:00,2023-03-03 23:55:00,AW,BJ
+b86f26f5289eb1a21e008d392222e9c2,Ciudad Fronteriza,MX Amigos y Familia,186,133.0,76.0,664,75.0,133.29686,2023-03-02 06:55:00,2023-03-02 08:10:00,BM,AD
+b9130891499eedd7e1982b3795f0011c,Ciudad Fronteriza,MX Amigos y Familia,186,167.0,66.0,363,145.0,156.51186,2023-03-31 06:05:00,2023-03-31 08:30:00,BM,AV
+b9d66e890a42c03261196c0bb62cd011,Ciudad Principal,Ecoturismo,240,232.0,153.0,392,125.0,228.95952,2023-03-04 09:05:00,2023-03-04 11:10:00,AT,AU
+ba638f50e8b8a706d40c7dd4a1389a53,Ciudad Principal,Ciudad Principal,220,211.0,129.0,1767,90.0,194.18619,2023-03-15 11:20:00,2023-03-15 12:50:00,AO,AW
+ba63eaf712ef53df5ecdf8d35fd1452f,Ciudad Principal,Ciudad Principal,220,206.0,147.0,1275,95.0,210.16434,2023-03-25 12:40:00,2023-03-25 14:15:00,AW,BA
+ba63eaf712ef53df5ecdf8d35fd1452f,Ciudad Principal,Ciudad Principal,220,206.0,147.0,1275,95.0,210.16434,2023-03-25 10:40:00,2023-03-25 12:00:00,BA,BB
+bac037b684836d94a87c954f8d53c985,Ciudad Principal,Playa,240,240.0,92.0,4619,100.0,229.30641,2023-03-18 18:15:00,2023-03-18 19:55:00,AW,AK
+bb17a8725f25ccd84d5ec72c8c8f2355,Ciudad Principal,Ciudad Principal,220,169.0,109.0,1275,95.0,176.70895,2023-03-11 12:40:00,2023-03-11 14:15:00,AW,BA
+bb17a8725f25ccd84d5ec72c8c8f2355,Ciudad Principal,Ciudad Principal,220,169.0,109.0,1275,95.0,176.70895,2023-03-11 10:40:00,2023-03-11 12:00:00,BA,BB
+bc07cccbaa5cd32110786dcdc43c41c3,Playa,Ciudad Principal,186,111.0,68.0,2237,55.0,112.68875,2023-03-05 15:40:00,2023-03-05 16:35:00,BD,AO
+bc1dd44735975b833b6b4f2214ba02e1,Ciudad Principal,Ecoturismo,236,236.0,165.0,392,125.0,235.84367,2023-03-24 09:05:00,2023-03-24 11:10:00,AT,AU
+bdc475f530a72230d916f10edac0e9b7,Ciudad Principal,MX Amigos y Familia,186,88.0,75.0,590,70.0,97.0715,2023-03-22 22:45:00,2023-03-22 23:55:00,AW,BJ
+bdc8578bb029411abe52f15880ce23d6,Ciudad Principal,Ciudad Principal,240,192.0,142.0,783,90.0,215.56592,2023-03-13 06:00:00,2023-03-13 07:30:00,AO,AW
+be68914e6e8dd77432bd82403bdae430,MX Amigos y Familia,Ciudad Principal,180,170.0,128.0,1610,65.0,165.33504,2023-03-19 21:00:00,2023-03-19 22:05:00,BJ,AW
+bf124012ecb0328c197952b1c4aeed90,Ciudad Principal,Ciudad Principal,236,192.0,147.0,1767,90.0,210.40236,2023-03-27 11:20:00,2023-03-27 12:50:00,AO,AW
+c119024bdb9d4e66f86080f88bf0e8b7,MX Amigos y Familia,Ciudad Principal,220,148.0,104.0,1627,90.0,138.86359,2023-03-01 06:00:00,2023-03-01 07:30:00,AL,AW
+c11e6d732ff45f37f7aabdb6ec72a473,Ciudad Principal,MX Amigos y Familia,220,87.0,77.0,590,70.0,97.240005,2023-03-28 22:45:00,2023-03-28 23:55:00,AW,BJ
+c1d141fcf261b860cf84c08bd4f3af5d,Ciudad Principal,Ecoturismo,186,186.0,133.0,392,125.0,188.53712,2023-03-29 09:05:00,2023-03-29 11:10:00,AT,AU
+c48f7f26c9db5d7c6fb94529cb42aad2,MX Amigos y Familia,Ciudad Principal,240,196.0,157.0,1627,90.0,206.57376,2023-03-13 06:00:00,2023-03-13 07:30:00,AL,AW
+c4cf6bc4292765cbab0be100ba9a8f8a,Ciudad Principal,Playa,186,123.0,80.0,3188,55.0,121.80024,2023-03-28 12:15:00,2023-03-28 13:10:00,AO,BD
+c50e31777cf43112ffc86daf14298d8e,Ciudad Principal,Ciudad Principal,186,175.0,123.0,401,85.0,175.18584,2023-03-06 06:00:00,2023-03-06 07:25:00,AT,AO
+c5bce924d6a8ab62ec8bbfa6c6879ac4,Ciudad Principal,Ciudad Principal,240,239.0,169.0,1171,90.0,230.74602,2023-03-20 16:35:00,2023-03-20 18:05:00,AO,AW
+c66ce615d5c9ceff69ab15e556f22c04,Ciudad Fronteriza,MX Amigos y Familia,186,176.0,84.0,1388,135.0,156.91512,2023-03-26 06:55:00,2023-03-26 09:10:00,BM,AD
+c6bd3f9462040a45b9fd60545278099f,Playa,Ciudad Principal,186,142.0,96.0,768,55.0,157.08037,2023-03-22 10:35:00,2023-03-22 11:30:00,BD,AO
+c6bf5efebb67a08e24029a7c18099378,Playa,Ciudad Principal,186,184.0,92.0,753,80.0,174.86163,2023-03-06 13:20:00,2023-03-06 14:40:00,AQ,AT
+c74f9d1042064027f33808a034c30f94,Ciudad Principal,Ciudad Principal,240,233.0,162.0,783,90.0,228.82289,2023-03-16 06:00:00,2023-03-16 07:30:00,AO,AW
+c783cfd13ae7b7a1c79a603208822f04,Ciudad Principal,MX Amigos y Familia,186,186.0,118.0,2632,95.0,175.76463,2023-03-17 12:55:00,2023-03-17 14:30:00,AO,BP
+c7a55f85aa152342b31027959b324f78,Ciudad Principal,MX Amigos y Familia,236,105.0,83.0,590,70.0,104.33242,2023-03-29 22:45:00,2023-03-29 23:55:00,AW,BJ
+c7e7a650354c97f23d855f88f667f090,MX Amigos y Familia,Ciudad Principal,240,143.0,116.0,1610,65.0,144.31569,2023-03-08 21:00:00,2023-03-08 22:05:00,BJ,AW
+c8406df0d29003f43ec99e6eaa6eaa69,Ciudad Principal,MX Amigos y Familia,186,186.0,129.0,2632,95.0,183.38586,2023-03-27 12:55:00,2023-03-27 14:30:00,AO,BP
+c8481e84a99f96b87644cdb37498de4d,Ciudad Principal,Ciudad Principal,240,222.0,132.0,783,90.0,196.17879,2023-03-27 06:00:00,2023-03-27 07:30:00,AO,AW
+c8cb0014082c4a1ab8d3b47fbe17cc8a,Ciudad Fronteriza,MX Amigos y Familia,186,186.0,107.0,1388,135.0,179.6355,2023-03-13 06:55:00,2023-03-13 09:10:00,BM,AD
+c95999d34662a83988a9b6ff92aa2508,Ciudad Principal,Ciudad Principal,240,175.0,107.0,1767,90.0,167.71553,2023-03-09 11:20:00,2023-03-09 12:50:00,AO,AW
+ca550f33826012c292b0abf2f3e2c9ad,Ciudad Principal,Ciudad Principal,240,225.0,156.0,1171,90.0,221.85014,2023-03-15 16:35:00,2023-03-15 18:05:00,AO,AW
+cb915a2a872583211b1fb9b4217a8202,Ciudad Principal,MX Amigos y Familia,186,121.0,97.0,590,70.0,123.3444,2023-03-02 22:45:00,2023-03-02 23:55:00,AW,BJ
+cc49c51c312bf7a5abb06cc00361b07a,Ciudad Principal,Ecoturismo,240,238.0,158.0,392,125.0,233.90495,2023-03-02 09:05:00,2023-03-02 11:10:00,AT,AU
+cc711c923a087b7ea3bd4681e26d8a4b,Ciudad Principal,Ecoturismo,240,240.0,168.0,392,125.0,238.03369,2023-03-17 09:05:00,2023-03-17 11:10:00,AT,AU
+cc8f2d7bcd24803e507c84410af0f959,Ciudad Fronteriza,MX Amigos y Familia,186,148.0,85.0,1388,135.0,154.98195,2023-03-12 06:55:00,2023-03-12 09:10:00,BM,AD
+ccbc6da3344bd37e30ca3868188c58e4,Playa,MX Amigos y Familia,186,186.0,112.0,523,170.0,175.8468,2023-03-31 09:00:00,2023-03-31 11:50:00,AK,BP
+cd80aac5dee7e8c30b8d25723b44796a,Ciudad Principal,Playa,186,125.0,85.0,3188,55.0,130.78592,2023-03-19 12:15:00,2023-03-19 13:10:00,AO,BD
+cd9064bc667e68e63bc18ca201ed8b70,Ciudad Fronteriza,MX Amigos y Familia,186,154.0,77.0,1388,135.0,153.95604,2023-03-31 06:55:00,2023-03-31 09:10:00,BM,AD
+cd9758056fb577169ac8243a638fa864,Playa,Ciudad Principal,186,179.0,96.0,753,80.0,176.52122,2023-03-11 13:20:00,2023-03-11 14:40:00,AQ,AT
+ce2990cea2ae9877a58391f8dd18752f,Ciudad Principal,Playa,240,223.0,95.0,6129,95.0,213.90314,2023-03-17 17:20:00,2023-03-17 18:55:00,AW,BD
+ce5d701fe08295b9c68823880fdbe834,Ciudad Principal,MX Amigos y Familia,186,106.0,85.0,14,80.0,122.621605,2023-03-14 06:00:00,2023-03-14 07:20:00,AW,AD
+ce8ab756d11c91b2187d770e55dc04b5,Playa,Ciudad Principal,186,155.0,79.0,753,80.0,160.6147,2023-03-14 13:20:00,2023-03-14 14:40:00,AQ,AT
+cf3282c8cd06d545ca3428f2f9881aa4,Ciudad Principal,Playa,186,124.0,72.0,3188,55.0,110.01885,2023-03-29 12:15:00,2023-03-29 13:10:00,AO,BD
+cf687d358056e3a8d51b46911d26c978,Ciudad Principal,Ciudad Principal,186,185.0,144.0,315,80.0,183.90424,2023-03-02 22:35:00,2023-03-02 23:55:00,AO,AT
+cf6d401df482abe79a0b8e8ed231c0e7,Ciudad Principal,Ciudad Principal,186,186.0,119.0,273,90.0,171.3398,2023-03-16 08:15:00,2023-03-16 09:45:00,AO,AW
+cfd460654b6a4a7dd2525d621ad03ade,Ciudad Principal,Ciudad Principal,240,147.0,99.0,1767,90.0,154.41754,2023-03-19 11:20:00,2023-03-19 12:50:00,AO,AW
+d0377e46731bfc6b192ee3dd094ba922,Playa,MX Amigos y Familia,186,186.0,123.0,523,170.0,183.81767,2023-03-23 09:00:00,2023-03-23 11:50:00,AK,BP
+d0458c1f078d11e9621a38f99ba16013,Ciudad Principal,Ciudad Principal,240,221.0,140.0,783,90.0,210.90863,2023-03-10 06:00:00,2023-03-10 07:30:00,AO,AW
+d0dbd0ae503e9bfaa6e433d3b4573130,Ciudad Principal,MX Amigos y Familia,186,90.0,73.0,14,80.0,109.31903,2023-03-02 06:00:00,2023-03-02 07:20:00,AW,AD
+d1594135e58bcea832434808be153d1e,Ciudad Principal,Ecoturismo,240,233.0,150.0,392,125.0,228.95952,2023-03-26 09:05:00,2023-03-26 11:10:00,AT,AU
+d1c597fb7f21451febaf23ef126a195b,Ciudad Principal,Ciudad Principal,240,205.0,136.0,783,90.0,202.31677,2023-03-03 06:00:00,2023-03-03 07:30:00,AO,AW
+d2994b832d39e7affa5f4fc2c61c8db5,MX Amigos y Familia,Ciudad Fronteriza,186,150.0,83.0,222,230.0,148.007,2023-03-25 09:50:00,2023-03-25 13:40:00,AD,BM
+d4691c0ee9bef26a80a3438029d6978c,MX Amigos y Familia,Ciudad Fronteriza,220,169.0,113.0,242,180.0,173.83203,2023-03-04 06:10:00,2023-03-04 09:10:00,AJ,BM
+d4effcdfef47a76d74d0f264afa63295,Ciudad Principal,MX Amigos y Familia,186,127.0,76.0,66,40.0,152.31938,2023-03-25 08:45:00,2023-03-25 09:25:00,AT,BG
+d621551134a9b403f808e93532793b52,Ciudad Principal,Ciudad Principal,240,154.0,97.0,1171,90.0,148.87027,2023-03-19 16:35:00,2023-03-19 18:05:00,AO,AW
+d632a729ef1d1994e46438affc8a9933,Playa,Ciudad Principal,180,180.0,109.0,753,80.0,179.89513,2023-03-12 13:20:00,2023-03-12 14:40:00,AQ,AT
+d6469b41b07da19a71e70eea0eae1308,Ciudad Principal,Ciudad Principal,180,180.0,129.0,315,80.0,175.32094,2023-03-21 22:35:00,2023-03-21 23:55:00,AO,AT
+d6b78becf29ff1f1209dfbd5e81ea85f,Ciudad Principal,Ciudad Principal,240,228.0,160.0,1171,90.0,228.06433,2023-03-30 16:35:00,2023-03-30 18:05:00,AO,AW
+d70d02c22f3ac436958bd1eba8d6d17f,MX Amigos y Familia,Ciudad Fronteriza,186,137.0,87.0,222,230.0,150.16312,2023-03-21 09:50:00,2023-03-21 13:40:00,AD,BM
+d7496ef70de33d984195accef9a19978,Ciudad Principal,Ciudad Principal,180,143.0,112.0,273,90.0,162.19994,2023-03-14 08:15:00,2023-03-14 09:45:00,AO,AW
+d768c30a10c33532f92223b1d1c293af,Ciudad Principal,Ciudad Principal,186,183.0,118.0,1275,95.0,173.19162,2023-03-17 12:40:00,2023-03-17 14:15:00,AW,BA
+d768c30a10c33532f92223b1d1c293af,Ciudad Principal,Ciudad Principal,186,183.0,118.0,1275,95.0,173.19162,2023-03-17 10:40:00,2023-03-17 12:00:00,BA,AB
+d7720883b08ec93a05f187b388c26acd,Ciudad Principal,MX Amigos y Familia,186,175.0,117.0,2632,95.0,174.78468,2023-03-13 12:55:00,2023-03-13 14:30:00,AO,BP
+d8cfd3d1ce020e69ac0cc881f66c7389,Playa,Ciudad Principal,186,162.0,73.0,753,80.0,154.78934,2023-03-25 13:20:00,2023-03-25 14:40:00,AQ,AT
+d8fa8629b356d1b72e7a5e586c7e2bde,Ciudad Principal,Ciudad Principal,186,149.0,108.0,1275,95.0,163.64742,2023-03-15 12:40:00,2023-03-15 14:15:00,AW,BA
+d8fa8629b356d1b72e7a5e586c7e2bde,Ciudad Principal,Ciudad Principal,186,149.0,108.0,1275,95.0,163.64742,2023-03-15 10:40:00,2023-03-15 12:00:00,BA,BB
+d91158391922d0659a69992eff202d69,MX Amigos y Familia,Ciudad Principal,240,68.0,56.0,1627,90.0,95.65237,2023-03-05 06:00:00,2023-03-05 07:30:00,AL,AW
+d97b7ebd39c1efb7ba2bb055ac8cc911,Playa,Ciudad Principal,186,176.0,112.0,768,55.0,175.50768,2023-03-23 10:35:00,2023-03-23 11:30:00,BD,AO
+d9ee2a8cee58fdfe0e72dee9c60c43b8,Ciudad Fronteriza,MX Amigos y Familia,186,161.0,95.0,277,85.0,159.71422,2023-03-04 06:05:00,2023-03-04 07:30:00,BM,AV
+dae4a104ee12a1e1a4c5df7eb57bf3ab,Ciudad Principal,Ciudad Principal,186,179.0,136.0,401,85.0,179.52623,2023-03-17 06:00:00,2023-03-17 07:25:00,AT,AO
+db0f9d6a95097f6ea9c3c8a869f221b5,MX Amigos y Familia,Ciudad Fronteriza,186,123.0,79.0,2462,290.0,133.50638,2023-03-01 08:50:00,2023-03-01 13:40:00,AD,BM
+db61ed27781600ac52e5ccb058e1ecf0,Ciudad Principal,Ciudad Principal,186,176.0,121.0,401,85.0,175.18584,2023-03-16 06:00:00,2023-03-16 07:25:00,AT,AO
+db88d1914ee3d325b4e37c009876c5c5,Ciudad Principal,Ciudad Principal,220,217.0,159.0,1767,90.0,211.22585,2023-03-28 11:20:00,2023-03-28 12:50:00,AO,AW
+dbd781a75e09feafacb955fcaeddaefe,Ciudad Principal,Ciudad Principal,236,227.0,154.0,1171,90.0,221.39053,2023-03-29 16:35:00,2023-03-29 18:05:00,AO,AW
+dc231166eb89576ab7f1f1d402318165,Ciudad Principal,Ciudad Principal,186,147.0,112.0,401,85.0,159.96515,2023-03-12 06:00:00,2023-03-12 07:25:00,AT,AO
+dd4cdac27c03cc1a3df863f7b0a51168,MX Amigos y Familia,Ciudad Principal,186,186.0,153.0,1627,90.0,182.79337,2023-03-18 06:00:00,2023-03-18 07:30:00,AL,AW
+de22ab2aba5748e1a479d55d8fc040f0,Ciudad Principal,Ecoturismo,240,240.0,191.0,392,125.0,242.23334,2023-03-07 09:05:00,2023-03-07 11:10:00,AT,AU
+deb937615c0835bb14755d46020eb5a3,MX Amigos y Familia,Ciudad Principal,220,169.0,144.0,1610,65.0,186.01723,2023-03-23 21:00:00,2023-03-23 22:05:00,BJ,AW
+df3d41fe4febd228704148e3c3eb3520,Ciudad Principal,Ciudad Principal,220,187.0,113.0,1275,95.0,177.94313,2023-03-31 12:40:00,2023-03-31 14:15:00,AW,BA
+df3d41fe4febd228704148e3c3eb3520,Ciudad Principal,Ciudad Principal,220,187.0,113.0,1275,95.0,177.94313,2023-03-31 10:40:00,2023-03-31 12:00:00,BA,AB
+dfc59b5e3083563517290c59c6424fee,Ciudad Principal,Ecoturismo,240,240.0,183.0,392,125.0,241.28656,2023-03-25 09:05:00,2023-03-25 11:10:00,AT,AU
+dff96b8a48c9cd25a19589323286fcc1,MX Amigos y Familia,Ciudad Fronteriza,186,177.0,95.0,222,230.0,167.5339,2023-03-16 09:50:00,2023-03-16 13:40:00,AD,BM
+dfffdb60fe43f0f9706163b3eca3a787,Ciudad Fronteriza,MX Amigos y Familia,186,140.0,85.0,363,145.0,154.44997,2023-03-19 06:05:00,2023-03-19 08:30:00,BM,AV
+e065c46c304fd0e451f84ac9d1ff896d,Ciudad Principal,Ciudad Principal,186,186.0,134.0,1171,90.0,180.61008,2023-03-03 16:35:00,2023-03-03 18:05:00,AO,AW
+e165430a4cd9285a62cce83b3fb05910,Ciudad Principal,Ciudad Principal,240,107.0,88.0,783,90.0,132.99263,2023-03-01 06:00:00,2023-03-01 07:30:00,AO,AW
+e1748ccb4e62e3e9cc0b33ef10301257,Ciudad Principal,Playa,186,116.0,76.0,3188,55.0,119.8039,2023-03-15 12:15:00,2023-03-15 13:10:00,AO,BD
+e1b497913ee2a40ebfd042df7410d593,Ciudad Fronteriza,MX Amigos y Familia,186,164.0,82.0,363,145.0,153.73842,2023-03-30 06:05:00,2023-03-30 08:30:00,BM,AV
+e1d57e5595b85215d496c7b211d65ca3,Ciudad Principal,Ciudad Principal,240,108.0,86.0,783,90.0,128.34807,2023-03-14 06:00:00,2023-03-14 07:30:00,AO,AW
+e1ee4a27b179af30b825c16f06232293,Playa,Ciudad Principal,186,127.0,80.0,768,55.0,128.34503,2023-03-21 10:35:00,2023-03-21 11:30:00,BD,AO
+e2ce315d1a9857a1ca3bc7b2d65470e4,Ciudad Principal,Ciudad Principal,186,175.0,122.0,401,85.0,175.18584,2023-03-28 06:00:00,2023-03-28 07:25:00,AT,AO
+e2e47a8eefaa3a3225d845a51cb7bfab,Ciudad Principal,Ciudad Principal,180,170.0,131.0,315,80.0,175.32094,2023-03-10 22:35:00,2023-03-10 23:55:00,AO,AT
+e422c63a84c7fd1ec54866001787dab3,Ciudad Principal,Ciudad Principal,186,180.0,124.0,273,90.0,173.7016,2023-03-18 08:15:00,2023-03-18 09:45:00,AO,AW
+e4337374a6a9ef95ce5f47630f49ef61,MX Amigos y Familia,Ciudad Principal,240,212.0,169.0,1627,90.0,217.50642,2023-03-27 06:00:00,2023-03-27 07:30:00,AL,AW
+e49736b8df7f8484fd42c32c6ac982b2,Playa,Ciudad Principal,186,123.0,67.0,2237,55.0,112.21127,2023-03-19 15:40:00,2023-03-19 16:35:00,BD,AO
+e49e3be3f74298fefdaa9e0f6e8ffd66,Ciudad Principal,MX Amigos y Familia,180,126.0,89.0,367,100.0,140.25163,2023-03-01 07:45:00,2023-03-01 09:25:00,AT,BG
+e4cb2c3d32c5d4a828c62ad62e5d7aad,Ciudad Principal,Ciudad Principal,180,173.0,128.0,315,80.0,174.62315,2023-03-06 22:35:00,2023-03-06 23:55:00,AO,AT
+e5855c9a610a04a9620524988e86a87f,MX Amigos y Familia,Ciudad Principal,240,192.0,146.0,1627,90.0,203.79773,2023-03-15 06:00:00,2023-03-15 07:30:00,AL,AW
+e5a79ec23cfe2c4a77aece2d36899bdf,Ciudad Principal,Ciudad Principal,220,211.0,151.0,1171,90.0,211.71945,2023-03-24 16:35:00,2023-03-24 18:05:00,AO,AW
+e62eb4280e64e524f9ed0827d9f9a3dc,Ciudad Principal,Ciudad Principal,186,174.0,130.0,401,85.0,176.32648,2023-03-09 06:00:00,2023-03-09 07:25:00,AT,AO
+e67867700396a0e4689441f8e01e91f0,Playa,MX Amigos y Familia,186,183.0,116.0,523,170.0,180.49748,2023-03-11 09:00:00,2023-03-11 11:50:00,AK,BP
+e686243d2b1ac1edd99143d1c1e5a977,Ciudad Principal,Ciudad Principal,186,157.0,101.0,315,80.0,157.23576,2023-03-19 22:35:00,2023-03-19 23:55:00,AO,AT
+e7eb722ef05e2cfdb9ae0fa6a9959c8a,Ciudad Principal,Ciudad Principal,220,208.0,169.0,1767,90.0,213.75801,2023-03-07 11:20:00,2023-03-07 12:50:00,AO,AW
+e8d1558ab69918fd0fc44d688cba7b57,MX Amigos y Familia,Ciudad Principal,180,167.0,136.0,1610,65.0,168.01408,2023-03-26 21:00:00,2023-03-26 22:05:00,BJ,AW
+e9109d1b3a33a35934a1cbf42f3bd815,Ciudad Principal,MX Amigos y Familia,186,130.0,100.0,14,80.0,148.48079,2023-03-01 06:00:00,2023-03-01 07:20:00,AW,AD
+ea4bec414372a90e8b4116bccb640974,Ciudad Principal,MX Amigos y Familia,186,91.0,65.0,14,80.0,97.61151,2023-03-08 06:00:00,2023-03-08 07:20:00,AW,AD
+ea92657f9e79e3f8e04689b19fb577bd,Ciudad Principal,Ciudad Principal,186,164.0,108.0,1275,95.0,163.64742,2023-03-24 12:40:00,2023-03-24 14:15:00,AW,BA
+ea92657f9e79e3f8e04689b19fb577bd,Ciudad Principal,Ciudad Principal,186,164.0,108.0,1275,95.0,163.64742,2023-03-24 10:40:00,2023-03-24 12:00:00,BA,AB
+eb51341670b3c661485a54ae3c85a913,Ciudad Principal,Ciudad Principal,186,156.0,118.0,401,85.0,171.53761,2023-03-04 06:00:00,2023-03-04 07:25:00,AT,AO
+eb694a366e5ef4e470b7a4d53be422d6,Ciudad Principal,MX Amigos y Familia,240,143.0,111.0,590,70.0,140.27768,2023-03-06 22:45:00,2023-03-06 23:55:00,AW,BJ
+eb7b6021aaac2874c4a2417e97a63db1,Ciudad Principal,Ciudad Principal,240,190.0,127.0,783,90.0,190.24944,2023-03-09 06:00:00,2023-03-09 07:30:00,AO,AW
+eb9cb8998777bd746671341a59acab48,Ciudad Principal,Ciudad Principal,220,176.0,122.0,1767,90.0,187.18866,2023-03-05 11:20:00,2023-03-05 12:50:00,AO,AW
+eccaf04ddb18ab1c1d22a7452b892f6f,Playa,MX Amigos y Familia,186,186.0,133.0,523,170.0,188.78249,2023-03-01 09:00:00,2023-03-01 11:50:00,AK,BP
+ed643effd8f77aefe9a7a8a44c88a13e,Ciudad Principal,Ciudad Principal,186,186.0,145.0,401,85.0,181.04285,2023-03-30 06:00:00,2023-03-30 07:25:00,AT,AO
+ed99b6c724ae147c39859f754ff55cad,Ciudad Principal,Ciudad Principal,186,186.0,129.0,1275,95.0,182.72981,2023-03-22 12:40:00,2023-03-22 14:15:00,AW,BA
+ed99b6c724ae147c39859f754ff55cad,Ciudad Principal,Ciudad Principal,186,186.0,129.0,1275,95.0,182.72981,2023-03-22 10:40:00,2023-03-22 12:00:00,BA,BB
+edc470c46e6bc51763118692cf806999,Playa,Ciudad Principal,186,186.0,117.0,768,55.0,179.43294,2023-03-24 10:35:00,2023-03-24 11:30:00,BD,AO
+edf61348223bb48bf5a47a6ad7b126d0,Ciudad Fronteriza,MX Amigos y Familia,186,135.0,70.0,664,75.0,124.94828,2023-03-08 06:55:00,2023-03-08 08:10:00,BM,AD
+ee194f662603be68b9cd4d05065c776d,Ciudad Principal,Ciudad Principal,186,175.0,145.0,401,85.0,181.04285,2023-03-13 06:00:00,2023-03-13 07:25:00,AT,AO
+ef86e1f180766a009f242b2d2ce83b98,Ciudad Principal,MX Amigos y Familia,186,182.0,130.0,2632,95.0,183.38586,2023-03-06 12:55:00,2023-03-06 14:30:00,AO,BP
+ef94a58ae764c1deb8c2b0fdd2aeb3d0,Ciudad Principal,MX Amigos y Familia,240,123.0,93.0,590,70.0,119.25194,2023-03-08 22:45:00,2023-03-08 23:55:00,AW,BJ
+efc1bb5ae2719b13e4565e9a24a4a8ff,MX Amigos y Familia,Ciudad Principal,220,196.0,148.0,1627,90.0,196.30994,2023-03-31 06:00:00,2023-03-31 07:30:00,AL,AW
+eff281cf392412d30200ac949caff587,Ciudad Fronteriza,MX Amigos y Familia,186,164.0,73.0,363,145.0,156.87523,2023-03-16 06:05:00,2023-03-16 08:30:00,BM,AV
+effadafd7ff3835250ddbf1fbc259d0e,Ciudad Principal,Ciudad Principal,186,185.0,122.0,315,80.0,175.2519,2023-03-20 22:35:00,2023-03-20 23:55:00,AO,AT
+f043cca6e85496372def3a21ff893561,Playa,MX Amigos y Familia,220,142.0,111.0,2309,55.0,175.4325,2023-03-13 17:15:00,2023-03-13 18:10:00,AR,AJ
+f07b493054a241c1ac996197e8154024,Ciudad Principal,Ciudad Principal,186,167.0,137.0,273,90.0,177.9378,2023-03-13 08:15:00,2023-03-13 09:45:00,AO,AW
+f0a03e0431131483ed9ed8b6f6ca3463,Ciudad Principal,Ciudad Principal,186,186.0,140.0,1171,90.0,183.50558,2023-03-26 16:35:00,2023-03-26 18:05:00,AO,AW
+f0c49ff5268f79408f8b356f0adf00c7,Ciudad Principal,Ciudad Principal,186,174.0,125.0,1275,95.0,178.1119,2023-03-10 12:40:00,2023-03-10 14:15:00,AW,BA
+f0c49ff5268f79408f8b356f0adf00c7,Ciudad Principal,Ciudad Principal,186,174.0,125.0,1275,95.0,178.1119,2023-03-10 10:40:00,2023-03-10 12:00:00,BA,AB
+f1d2ec885f9ccd8371d06cf709ffdb1a,Ciudad Principal,MX Amigos y Familia,240,160.0,127.0,590,70.0,161.0515,2023-03-30 22:45:00,2023-03-30 23:55:00,AW,BJ
+f1e5a5090d4e4cc753751df29616d5c5,Ciudad Principal,MX Amigos y Familia,186,118.0,72.0,14,80.0,105.35901,2023-03-25 06:00:00,2023-03-25 07:20:00,AW,AD
+f213d9d1fdde932c8498c86f0ceffe17,MX Amigos y Familia,Ciudad Principal,240,135.0,111.0,1627,90.0,159.10121,2023-03-08 06:00:00,2023-03-08 07:30:00,AL,AW
+f21e55b06f8244e4906de1aacc2d214a,Ciudad Principal,Ciudad Principal,186,106.0,70.0,273,90.0,106.907265,2023-03-12 08:15:00,2023-03-12 09:45:00,AO,AW
+f257285faf339a614c7522e3044a19da,Ciudad Principal,MX Amigos y Familia,180,153.0,103.0,66,40.0,153.64397,2023-03-29 08:45:00,2023-03-29 09:25:00,AT,BG
+f2d4c05bb4b9a98494b1e368aa32e905,Playa,MX Amigos y Familia,186,175.0,100.0,523,170.0,167.81418,2023-03-09 09:00:00,2023-03-09 11:50:00,AK,BP
+f2fc48e7e80b3038e5837933b6e80a71,Ciudad Principal,Ciudad Principal,186,177.0,123.0,315,80.0,175.2519,2023-03-14 22:35:00,2023-03-14 23:55:00,AO,AT
+f3768699e9fe579ade7d86bfd0e90c9c,MX Amigos y Familia,Ciudad Principal,240,188.0,163.0,1627,90.0,212.78795,2023-03-06 06:00:00,2023-03-06 07:30:00,AL,AW
+f3ac5fc5a10f8eb9088e18a01f594ada,MX Amigos y Familia,Ciudad Principal,220,124.0,92.0,1627,90.0,132.66753,2023-03-10 06:00:00,2023-03-10 07:30:00,AL,AW
+f47472b402a5b82ed92d714db316db7c,Ciudad Fronteriza,MX Amigos y Familia,180,178.0,99.0,1388,135.0,171.79814,2023-03-29 06:55:00,2023-03-29 09:10:00,BM,AD
+f491c7b6c1a1cf02bd6d1eb6ef088106,Playa,MX Amigos y Familia,186,186.0,122.0,523,170.0,183.81767,2023-03-21 09:00:00,2023-03-21 11:50:00,AK,BP
+f4b9378ebda60dddae86c61d029e0c6b,Ciudad Principal,Ciudad Principal,220,215.0,128.0,783,90.0,193.99045,2023-03-31 06:00:00,2023-03-31 07:30:00,AO,AW
+f5405c1d089b1c9f52c9360910dfb748,Playa,Ciudad Principal,186,168.0,85.0,753,80.0,172.8195,2023-03-01 13:20:00,2023-03-01 14:40:00,AQ,AT
+f544c8693ee258e5eede65980110682c,Playa,MX Amigos y Familia,186,186.0,112.0,523,170.0,175.8468,2023-03-18 09:00:00,2023-03-18 11:50:00,AK,BP
+f576db4f8610b2339a915cf3ba18408b,Playa,Ciudad Principal,186,159.0,78.0,753,80.0,160.55922,2023-03-08 13:20:00,2023-03-08 14:40:00,AQ,AT
+f5e759866d0b4b5f36058ab4f9a7977c,Ciudad Principal,MX Amigos y Familia,186,161.0,101.0,66,40.0,155.13913,2023-03-30 08:45:00,2023-03-30 09:25:00,AT,BG
+f68edbcb4f1e62a2688413dbd4b5b9f0,Ciudad Principal,Ciudad Principal,240,201.0,130.0,1275,95.0,198.11731,2023-03-04 12:40:00,2023-03-04 14:15:00,AW,BA
+f68edbcb4f1e62a2688413dbd4b5b9f0,Ciudad Principal,Ciudad Principal,240,201.0,130.0,1275,95.0,198.11731,2023-03-04 10:40:00,2023-03-04 12:00:00,BA,BB
+f6e15107c5ab4ab9d61b8dbd3266ab39,Ciudad Principal,Ciudad Principal,186,109.0,69.0,273,90.0,105.548065,2023-03-19 08:15:00,2023-03-19 09:45:00,AO,AW
+f7a73c248ba7ec9d2343e9baa76ba63a,Ciudad Principal,Ciudad Principal,186,165.0,126.0,1767,90.0,175.85147,2023-03-04 11:20:00,2023-03-04 12:50:00,AO,AW
+f7b3b446e9286bfd0168d59250953cf0,Ciudad Fronteriza,MX Amigos y Familia,186,154.0,95.0,664,75.0,152.22462,2023-03-05 06:55:00,2023-03-05 08:10:00,BM,AD
+f861c28a90b1d5c8d21443ddbd74fb57,Ciudad Principal,MX Amigos y Familia,186,186.0,130.0,2632,95.0,183.38586,2023-03-24 12:55:00,2023-03-24 14:30:00,AO,BP
+f9340bb8260737b2f750609a2ead296d,Ciudad Fronteriza,MX Amigos y Familia,186,155.0,104.0,363,145.0,172.4005,2023-03-24 06:05:00,2023-03-24 08:30:00,BM,AV
+f94adaa1b2594104a7679dd1362c2924,MX Amigos y Familia,Ciudad Fronteriza,236,138.0,87.0,242,180.0,137.02232,2023-03-09 06:10:00,2023-03-09 09:10:00,AJ,BM
+f9774a2c2f04d2c8776c70a5072408e3,Ciudad Principal,Ciudad Principal,240,164.0,99.0,783,90.0,153.08101,2023-03-20 06:00:00,2023-03-20 07:30:00,AO,AW
+f9d426f70ef7ebb8595c39bf242604c6,Ciudad Principal,Ciudad Principal,186,186.0,140.0,273,90.0,179.38359,2023-03-08 08:15:00,2023-03-08 09:45:00,AO,AW
+fa5a7426097567a1fc711a21e0e14927,MX Amigos y Familia,Ciudad Principal,220,137.0,113.0,1610,65.0,142.23935,2023-03-28 21:00:00,2023-03-28 22:05:00,BJ,AW
+fa6ce2ca01353ba4bfae405622cdfe35,Ciudad Principal,Ciudad Principal,186,185.0,142.0,315,80.0,183.8772,2023-03-24 22:35:00,2023-03-24 23:55:00,AO,AT
+fa9ac4c7bcf5b628c18b64ac73fb3bfb,Playa,Ciudad Principal,186,185.0,102.0,768,55.0,165.77428,2023-03-27 10:35:00,2023-03-27 11:30:00,BD,AO
+fab26fa77e7f1968f194594c483a30a1,MX Amigos y Familia,Ciudad Principal,240,148.0,56.0,1627,90.0,95.65237,2023-03-12 06:00:00,2023-03-12 07:30:00,AL,AW
+fb5826a11a4aec72b096e7a476a74026,Playa,MX Amigos y Familia,186,172.0,121.0,523,170.0,183.81767,2023-03-07 09:00:00,2023-03-07 11:50:00,AK,BP
+fb813187cefe246d1422b66b3d121ff5,Ciudad Principal,Ciudad Principal,240,191.0,122.0,1767,90.0,186.91156,2023-03-23 11:20:00,2023-03-23 12:50:00,AO,AW
+fbe60fbb597f664dc623007b87050efb,MX Amigos y Familia,Ciudad Principal,186,180.0,139.0,6464,115.0,186.44502,2023-03-18 10:30:00,2023-03-18 12:25:00,BQ,AO
+fc8f53f45bd907650b0d5cb3464bfba0,Ciudad Principal,MX Amigos y Familia,186,181.0,115.0,14,80.0,168.95273,2023-03-18 06:00:00,2023-03-18 07:20:00,AW,AD
+fd3a669727ca612d02e7c59b445b2810,Ciudad Principal,MX Amigos y Familia,180,165.0,101.0,14,80.0,147.58212,2023-03-16 06:00:00,2023-03-16 07:20:00,AW,AD
+ff003b2ad186512b4485ae6da942d08b,MX Amigos y Familia,Ciudad Principal,220,181.0,132.0,1627,90.0,184.40338,2023-03-29 06:00:00,2023-03-29 07:30:00,AL,AW
+ff322aa9f105aebebb8810655c53c08b,Ciudad Principal,Ciudad Principal,186,186.0,128.0,1275,95.0,182.03203,2023-03-01 12:40:00,2023-03-01 14:15:00,AW,BA
+ff322aa9f105aebebb8810655c53c08b,Ciudad Principal,Ciudad Principal,186,186.0,128.0,1275,95.0,182.03203,2023-03-01 10:40:00,2023-03-01 12:00:00,BA,BB
+ffb6c291e87241d8be98556077caacda,Playa,Ciudad Principal,186,153.0,95.0,768,55.0,153.56909,2023-03-25 10:35:00,2023-03-25 11:30:00,BD,AO
+ffec950d11caa52fc06223925fc85282,Ciudad Fronteriza,MX Amigos y Familia,186,118.0,77.0,664,75.0,129.9825,2023-03-09 06:55:00,2023-03-09 08:10:00,BM,AD
+ffef9414df43ed20dccf1946bf88c0a8,Playa,Ciudad Principal,186,186.0,89.0,753,80.0,167.60785,2023-03-31 13:20:00,2023-03-31 14:40:00,AQ,AT
