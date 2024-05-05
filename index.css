@@ -25,6 +25,7 @@
 
 body {
   font-family: "poppins", sans-serif;
+  zoom: 110%;
 }
 
 .bx {
@@ -349,26 +350,28 @@ main {
     color: var(--dark);
   }
 
-  /* charts */
-  .graphBox{
-    position: relative;
+  .graphBox {
     width: 100%;
     padding: 20px;
-    display: grid;
-    grid-template-columns: 1fr 2fr;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     grid-gap: 30px;
     min-height: 200px;
   }
 
-  .graphBox .box{
+  .graphBox .box {
     position: relative;
     background: var(--light);
     padding: 20px;
-    width: 100%;
+    width: 100%; /* Ajusta este valor según tus necesidades */
+    height: 100%; /* Ajusta este valor según tus necesidades */
+    max-width: 800px; /* Ajusta este valor según tus necesidades */
     box-shadow: 0 7px 25px rgba(0, 0, 0, 0.08);
     border-radius: 20px;
+    margin: 0 auto; /* Centra el elemento horizontalmente */
   }
-  
+
   /* ========Orders Details Start=================== */
   .content main .bottom_data {
     display: flex;
