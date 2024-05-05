@@ -57,21 +57,26 @@ window.addEventListener("resize", () => {
 
 // dark and light mode
 const darkEl = document.querySelector(".dark-mode-link");
-const darkIcon = document.querySelector(".dark-mode-link .bx.bx-moon");
+const darkIcon = document.querySelector(".dark-mode-link .bx");
 const logoImage = document.getElementById("logo-image");
+
+// Set initial icon and logo image for light mode
+darkIcon.classList.replace("bx-moon", "bx-sun");
+logoImage.src = "./public/viva-aerobus.png"; // Cambia la imagen a la versión para modo claro
 
 darkEl.addEventListener("click", (e) => {
   e.preventDefault(); // Evita que el enlace realice su acción predeterminada
   document.body.classList.toggle("dark");
 
   if (document.body.classList.contains("dark")) {
-    darkIcon.classList.replace("bx-moon", "bx-sun");
-    logoImage.src = "./public/viva-aerobus.png"; // Cambia la imagen a la versión para modo claro
-  } else {
     darkIcon.classList.replace("bx-sun", "bx-moon");
     logoImage.src = "./public/viva-aerobus.png"; // Cambia la imagen a la versión para modo oscuro
+  } else {
+    darkIcon.classList.replace("bx-moon", "bx-sun");
+    logoImage.src = "./public/viva-aerobus.png"; // Cambia la imagen a la versión para modo claro
   }
 });
+
 //charts
 
   const ctx = document.getElementById('myChart').getContext('2d');
