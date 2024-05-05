@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./index.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <title>VivaAerobus</title>
+</head>
+<body>
+    <!-- =============Sidebar Start================ -->
+    <div class="sidebar">
+        <a href="#" class="logo">
+          <img src="./public/viva-aerobus.png" alt="" id="logo-image"/>
+          <span>VivaAerobus</span>
+        </a>
+        <ul class="side-menu">
+          <li class="active">
+            <a href="./admin.html"><i class="bx bxs-dashboard"></i>Dashboard</a>
+          </li>
+          <li>
+            <a href="https://colab.research.google.com/drive/138MxcVGjAjCdQghdheBRsJlTvk1z3M-O?usp=sharing"><i class="bx bxs-book-content"></i> Google Colab</a>
+          </li>
+          <li>
+            <a href="https://github.com/ferDMS/green-pandas-datathon"><i class="bx bx-video"></i>Github</a>
+          </li>
+          <li>
+            <a href="#" class="dark-mode-link"><i class="bx bx-moon"></i>Dark / Light</a>
+          </li>
+            <li>
+            </li>
+          </ul>
+  
+        <div class="side-menu">
+          <ul>
+    
+            
+            </li>
+          </ul>
+        </div>
+      </div>
+
+
+      <!-- =============Sidebar Close-->
+
+      <div class="content">
+        <nav>
+          <i class="bx bx-menu"></i>
+          <form action="#">
+            <div class="form-input" style="display: none;">
+              <input type="search" placeholder="Search"/>
+              <button type="submit"><i class="bx bx-search"></i></button>
+            </div>
+          </form>
+          </a>
+  
+         
+          </a>
+        </nav>
+
+        <!-- Main Start -->
+      <main>
+        <div class="header">
+          <h1>Dashboard</h1>
+          <ul class="breadcrumb">
+            <li><a href="#" class="active">Analytics</a></li>
+            /
+            <li><a href="#">Content</a></li>
+          </ul>
+        </div>
+
+        <!--============= graphs ===============-->
+        <div class="graphBox">
+            <div class="box">
+                <canvas id="myChart"></canvas>
+            </div>
+            <div class="box">
+                <canvas id="usuarios"></canvas>
+            </div>
+        </div>
+
+        <!--============= cards start ===============-->
+        <ul class="cards">
+          <li>
+            <i class="bx bx-group"></i>
+            <span class="info">
+              <h3 id="numUsuarios"></h3>
+              <p>Usuarios</p>
+            </span>
+          </li>
+          <li>
+            <i class="bx bx-wallet"></i>
+            <span class="info">
+              <h3>0</h3>
+              <p>Monedas adquiridas</p>
+            </span>
+          </li>
+          <li>
+            <i class="bx bx-line-chart"></i>
+            <span class="info">
+              <h3>3</h3>
+              <p>Cursos completados</p>
+            </span>
+          </li>
+          <li>
+            <i class="bx bx-dollar-circle"></i>
+            <span class="info">
+              <h3>0</h3>
+              <p>Monedas gastadas</p>
+            </span>
+          </li>
+        </ul>
+
+
+
+     
+        </div>
+        <!--============= bottom Data Start ===============-->
+      </main>
+      <!-- Main Close -->
+    </div>
+    <!-- =============Contetn CLose================ -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="./index.js"></script>
+</body>
+</html>
