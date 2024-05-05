@@ -175,3 +175,9 @@ routeForm.addEventListener('submit', (event) => {
     });
 
 }); 
+document.getElementById('route-form').addEventListener('submit', function(event) {
+  event.preventDefault();
+
+  const routeId = document.getElementById('route-id').value;
+  document.getElementById('route-id-value').textContent = routeId;
+});
