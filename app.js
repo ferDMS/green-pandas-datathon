@@ -26,6 +26,19 @@ app.get('/get_data', (req, res) => {
         });
 });
 
+app.get('/count_routes', (req, res) => {
+    let routeIds = new Set(); // Un Set almacena valores únicos
+  
+    fs.createReadStream('./predictions/predictions_1.csv')
+      .pipe(csv())
+      .on('data', (row) => {
+        routeIds.add(row.route_id); // Añade el route id al Set
+      })
+      .on('end', () => {
+        res.json({ count: routeIds.size }); // Devuelve el tamaño del Set, que es el número de route id únicos
+      });
+  });
+
 app.listen(3000, () => {
     console.log('Server listening on port 3000');
 });
