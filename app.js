@@ -10,7 +10,7 @@ app.get('/get_data', (req, res) => {
     const routeId = req.query.route_id;
     const results = [];
 
-    fs.createReadStream('merged_data_with_predictions.csv')
+    fs.createReadStream('./predictions/predictions_1.csv')
         .pipe(csv())
         .on('data', (data) => {
             if (data.Route_ID === routeId) {

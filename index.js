@@ -77,53 +77,67 @@ darkEl.addEventListener("click", (e) => {
   }
 });
 
+document.addEventListener('DOMContentLoaded', (event) => {
+  const ctx = document.getElementById('chart').getContext('2d');
+  let chart;
 
+  const routeForm = document.getElementById('route-form');
+  routeForm.addEventListener('submit', (event) => {
+      event.preventDefault();
+      const routeId = document.getElementById('route-id').value;
 
+      fetch(`http://127.0.0.1:3000/get_data?route_id=${routeId}`)
+          .then(response => {
+              if (!response.ok) {
+                  throw new Error('Network response was not ok');
+              }
+              return response.json();
+          })
+          .then(data => {
+            console.log('Datos obtenidos:', data);
+            
+            const labels = data.map(row => row.Flight_ID); // Utiliza Flight_ID como etiquetas
+            const passengers = data.map(row => Number(row.Passengers));
+            const passengersPrediction = data.map(row => Number(row.Passengers_Prediction));
+        
+            console.log('Etiquetas:', labels);
+            console.log('Pasajeros:', passengers);
+            console.log('Predicción de pasajeros:', passengersPrediction);
 
-const ctx = document.getElementById('chart').getContext('2d');
-let chart;
+              if (chart instanceof Chart) {
+                  console.log('Destruyendo gráfico existente:', chart);
+                  chart.destroy();
+              }
 
-document.getElementById('route-form').addEventListener('submit', function(e) {
-    e.preventDefault();
+              chart = new Chart(ctx, {
+                  type: 'bar',
+                  data: {
+                      labels: labels,
+                      datasets: [{
+                          label: 'Passengers',
+                          data: passengers,
+                          backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                          borderColor: 'rgba(75, 192, 192, 1)',
+                          borderWidth: 1
+                      }, {
+                          label: 'Passengers Prediction',
+                          data: passengersPrediction,
+                          backgroundColor: 'rgba(153, 102, 255, 0.2)',
+                          borderColor: 'rgba(153, 102, 255, 1)',
+                          borderWidth: 1
+                      }]
+                  },
+                  options: {
+                      scales: {
+                          y: {
+                              beginAtZero: true
+                          }
+                      }
+                  }
+              });
 
-    const routeId = document.getElementById('route-id').value;
-
-    fetch(`http://127.0.0.1:3000/get_data?route_id=${routeId}`)
-    .then(response => response.json())
-    .then(data => {
-        const labels = data.map(row => row.Flight_Number);
-        const passengers = data.map(row => row.Passengers);
-        const passengersPrediction = data.map(row => row.Passengers_Prediction);
-
-            if (chart) {
-                chart.destroy();
-            }
-
-            chart = new Chart(ctx, {
-                type: 'bar',
-                data: {
-                    labels: labels,
-                    datasets: [{
-                        label: 'Passengers',
-                        data: passengers,
-                        backgroundColor: 'rgba(75, 192, 192, 0.2)',
-                        borderColor: 'rgba(75, 192, 192, 1)',
-                        borderWidth: 1
-                    }, {
-                        label: 'Passengers Prediction',
-                        data: passengersPrediction,
-                        backgroundColor: 'rgba(153, 102, 255, 0.2)',
-                        borderColor: 'rgba(153, 102, 255, 1)',
-                        borderWidth: 1
-                    }]
-                },
-                options: {
-                    scales: {
-                        y: {
-                            beginAtZero: true
-                        }
-                    }
-                }
-            });
-        });
+              console.log('Nuevo gráfico creado:', chart);
+          })
+          .catch(error => console.error('Error:', error));
+  });
 });
