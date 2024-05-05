@@ -80,46 +80,50 @@ darkEl.addEventListener("click", (e) => {
 
 
 
-const usuarios = document.getElementById('usuarios').getContext('2d');
-const labels = ['Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio', 'Julio'];
-const data = {
-  labels: labels,
-  datasets: [{
-    label: 'Pasajeros por vuelo',
-    data: [65, 59, 80, 81, 56, 55, 40],
-    backgroundColor: 'rgba(255, 99, 132, 0.2)',
-    borderColor: 'rgb(255, 99, 132)',
-    borderWidth: 1,
-    barThickness: 30
-  },
-  {
-    label: 'Proyectados',
-    data: [70, 65, 85, 90, 60, 60, 45], // Reemplaza estos valores con tus datos proyectados
-    backgroundColor: 'rgba(54, 162, 235, 0.2)',
-    borderColor: 'rgb(54, 162, 235)',
-    borderWidth: 1,
-    barThickness: 30
-  }]
-};
+const ctx = document.getElementById('chart').getContext('2d');
+let chart;
 
-const config = {
-  type: 'bar',
-  data: data,
-  options: {
-    scales: {
-      y: {
-        beginAtZero: true
-      }
-    },
-    elements: {
-      bar: {
-        borderWidth: 1,
-        barThickness: 1, // Ajusta este valor según tus necesidades
-      }
-    }
-  },
-};
-new Chart(usuarios,config);
+document.getElementById('route-form').addEventListener('submit', function(e) {
+    e.preventDefault();
 
+    const routeId = document.getElementById('route-id').value;
 
- 
+    fetch(`http://127.0.0.1:3000/get_data?route_id=${routeId}`)
+    .then(response => response.json())
+    .then(data => {
+        const labels = data.map(row => row.Flight_Number);
+        const passengers = data.map(row => row.Passengers);
+        const passengersPrediction = data.map(row => row.Passengers_Prediction);
+
+            if (chart) {
+                chart.destroy();
+            }
+
+            chart = new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: 'Passengers',
+                        data: passengers,
+                        backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                        borderColor: 'rgba(75, 192, 192, 1)',
+                        borderWidth: 1
+                    }, {
+                        label: 'Passengers Prediction',
+                        data: passengersPrediction,
+                        backgroundColor: 'rgba(153, 102, 255, 0.2)',
+                        borderColor: 'rgba(153, 102, 255, 1)',
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    scales: {
+                        y: {
+                            beginAtZero: true
+                        }
+                    }
+                }
+            });
+        });
+});
